@@ -55,9 +55,9 @@ Service
 
 **Journal Reviewer:** ACM Transactions on the Web(TWEB), ACM Transactions on Recommender Systems(TORS)
 
-**Conference Reviewer:** KDD'2023, WebConf'2023
+**Conference Reviewer:** KDD'2023, WWW'2023
 
-**Conference Volunteer:** IJCAI'2023, WebConf'2023
+**Conference Volunteer:** IJCAI'2023, WWW'2023
 
 
 
