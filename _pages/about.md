@@ -39,13 +39,13 @@ Work Experience
 ======
 
 Summer 2023: Research Intern,
-Baidu.
+Baidu. Mentor: [Dr.Lixin Su](https://scholar.google.com/citations?user=UWL6KAcAAAAJ&hl=en)
 
 Summer 2021: Research Intern,
-Alibaba Cloud.
+Alibaba Cloud. Mentor: Dr.Binbin Lu
 
 Summer 2020: Research Intern,
-Huawei ICT.
+Huawei ICT. Mentor: [Dr.Xu Gong](https://scholar.google.be/citations?user=o7Bn0OMAAAAJ&hl=en)
 
 Summer 2018: Development Intern,
 Huawei Cloud.
