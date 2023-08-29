@@ -35,19 +35,19 @@ Publication
 Work/Exchange Experience
 ======
 
-Summer 2023: Research Intern,
+Summer 2023: Research Intern \
 Baidu. Mentor: [Dr.Lixin Su](https://scholar.google.com/citations?user=UWL6KAcAAAAJ&hl=en)
 
-Summer 2021: Research Intern,
+Summer 2021: Research Intern \
 Alibaba Cloud. Mentor: Dr.Binbin Lu
 
-Summer 2020: Research Intern,
+Summer 2020: Research Intern \
 Huawei ICT. Mentor: [Dr.Xu Gong](https://scholar.google.be/citations?user=o7Bn0OMAAAAJ&hl=en)
 
-Summer 2018: Development Intern,
+Summer 2018: Development Intern \
 Huawei Cloud.
 
-Spring 2017: Exchange student
+Spring 2017: Exchange student \
 University of Cambridge, UK
 
 Service
