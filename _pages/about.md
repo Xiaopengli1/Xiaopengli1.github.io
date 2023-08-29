@@ -17,9 +17,6 @@ For more information, please feel free to contact me.
 Email: xiaopli2-c@my.cityu.edu.hk, lixiaopeng2019@gmail.com.
 
 
-
-
-
 Publication
 ======
 *  HAMUR: Hyper Adapter for Multi-Domain Recommendation \
@@ -35,7 +32,7 @@ Publication
   Automation of Electric Power Systems (AEPS)
 
 
-Work Experience
+Work/Exchange Experience
 ======
 
 Summer 2023: Research Intern,
@@ -50,15 +47,35 @@ Huawei ICT. Mentor: [Dr.Xu Gong](https://scholar.google.be/citations?user=o7Bn0O
 Summer 2018: Development Intern,
 Huawei Cloud.
 
+Spring 2017: Exchange student
+University of Cambridge, UK
+
 Service
 ======
 
 **Journal Reviewer:** ACM Transactions on the Web(TWEB), ACM Transactions on Recommender Systems(TORS)
 
-**Conference Reviewer:** KDD'2023, WWW'2023
+**Conference Reviewer:** KDD'2023, WWW'2023, NeurIPS'2023
 
 **Conference Volunteer:** IJCAI'2023, WWW'2023
 
+Honors
+======
+
+* Excellent Postgraduate Student
+  Xi'an Jiaotong University 2021
+
+* Outstanding Undergraduate Graduates
+  Xi'an Jiaotong University 2019
+
+* Excellent Undergraduate Student
+  Xi'an Jiaotong University 2017,2018
+
+* First Class Scholarship
+  Xi'an Jiaotong University 2017,2018
+
+* Siyuan Scholarship
+  Xi'an Jiaotong University 2016
 
 
 <!--News-->
