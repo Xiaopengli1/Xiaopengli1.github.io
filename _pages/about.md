@@ -10,7 +10,7 @@ redirect_from:
 
 I am now a first-year Ph.D. student from the School of Data Science at the City University of Hong Kong, supervised by [Prof.Xiangyu Zhao](https://zhaoxyai.github.io/) in AML Lab. Before that, I got M.S. and B.Eng degrees from Xi'an Jiaotong University in 2022 and 2019. 
 
-My research interests focus on Recommendation Systems and Information Retrieval.
+My research interests focus on **Recommendation Systems** and **Information Retrieval**.
 
 For more information, please feel free to contact me.
 
