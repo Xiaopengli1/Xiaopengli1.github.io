@@ -62,19 +62,19 @@ Service
 Honors
 ======
 
-* Excellent Postgraduate Student
+* Excellent Postgraduate Student \
   Xi'an Jiaotong University 2021
 
-* Outstanding Undergraduate Graduates
+* Outstanding Undergraduate Graduates \
   Xi'an Jiaotong University 2019
 
-* Excellent Undergraduate Student
+* Excellent Undergraduate Student \
   Xi'an Jiaotong University 2017,2018
 
-* First Class Scholarship
+* First Class Scholarship \
   Xi'an Jiaotong University 2017,2018
 
-* Siyuan Scholarship
+* Siyuan Scholarship \
   Xi'an Jiaotong University 2016
 
 
