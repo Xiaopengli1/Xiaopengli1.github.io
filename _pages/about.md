@@ -23,7 +23,7 @@ Publication
    <ins>**Xiaopeng Li**</ins>, Fan Yan, Xiangyu Zhao, Yichao Wang, Bo Chen, Huifeng Guo, Ruiming Tang \
    32nd ACM International Conference on Information and Knowledge Management (CIKM'2023)
 
-*  Uncertainty Set Prediction of Aggregated Wind Power Generation based on Bayesian LSTM and Spatio- Temporal Analysis \
+*  Uncertainty Set Prediction of Aggregated Wind Power Generation based on Bayesian LSTM and Spatio-Temporal Analysis \
    <ins>**Xiaopeng Li**</ins>, Jiang Wu, Zhanbo Xu, Kun Liu, Jun Yu, Xiaohong Guan \
    17th IEEE International Conference on Automation Science and Engineering (CASE'2021)
 
