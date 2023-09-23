@@ -23,8 +23,12 @@ Publication
    <ins>**Xiaopeng Li**</ins>, Fan Yan, Xiangyu Zhao, Yichao Wang, Bo Chen, Huifeng Guo, Ruiming Tang \
    32nd ACM International Conference on Information and Knowledge Management (CIKM'2023)
 
+*  Scenario-Aware Hierarchical Dynamic Network for Multi-Scenario Recommendation \
+   <ins>**Xiaopeng Li**</ins>, Fan Yan, Xiangyu Zhao, Yichao Wang, Bo Chen, Huifeng Guo, Ruiming Tang \
+   Arxiv
+
 *  Uncertainty Set Prediction of Aggregated Wind Power Generation based on Bayesian LSTM and Spatio-Temporal Analysis \
-   <ins>**Xiaopeng Li**</ins>, Jiang Wu, Zhanbo Xu, Kun Liu, Jun Yu, Xiaohong Guan \
+   Jingtong Gao, Bo Chen, Menghui Zhu, Xiangyu Zhao, <ins>**Xiaopeng Li**</ins>, Yuhao Wang, Yichao Wang, Huifeng Guo, Ruiming Tang \
    17th IEEE International Conference on Automation Science and Engineering (CASE'2021)
 
 * Geo-distributed Collaborative Clustering Method for Load Characteristic Analysis  \
