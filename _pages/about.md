@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now a first-year Ph.D. student from the School of Data Science at the City University of Hong Kong, supervised by [Prof.Xiangyu Zhao](https://zhaoxyai.github.io/) in AML Lab. Before that, I got M.S. and B.Eng degrees from Xi'an Jiaotong University in 2022 and 2019. 
+I am now a Ph.D. student at the City University of Hong Kong, supervised by [Prof.Xiangyu Zhao](https://zhaoxyai.github.io/) in AML Lab. Before that, I got M.S. and B.Eng degrees from Xi'an Jiaotong University in 2022 and 2019. 
 
 My research interests focus on **Recommendation Systems** and **Information Retrieval**.
 
@@ -44,7 +44,7 @@ Work/Exchange Experience
 * Summer 2020: Research Intern \
   Huawei ICT. Mentor: [Dr. Xu Gong](https://scholar.google.be/citations?user=o7Bn0OMAAAAJ&hl=en)
 
-* Summer 2018: Development Intern \
+* Summer 2018: SDE Intern \
   Huawei Cloud.
 
 * Spring 2017: Exchange student \
@@ -55,7 +55,7 @@ Service
 
 **Journal Reviewer:** ACM Transactions on the Web (TWEB), ACM Transactions on Recommender Systems (TORS)
 
-**Conference Reviewer:** KDD'2023, WWW'2023, NeurIPS'2023, RecSys'2023
+**Conference Reviewer:** KDD'2023, WWW'2023, NeurIPS'2023, RecSys'2023, ICDE'2024
 
 **Conference Volunteer:** IJCAI'2023, WWW'2023
 
@@ -78,7 +78,6 @@ Honors
   Xi'an Jiaotong University 2016
 
 
-<a href="https://clustrmaps.com/site/1bwgg"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=M40Bh8lFtGzjPdFuo8Dk5r8SGZtBsD5HddOTRAtikBc&cl=ffffff" /></a>
 
 <!--News-->
 <!--======-->
