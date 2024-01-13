@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "XiaopengLi's Page"
+title                    : "Welcome to Xiaopeng's Page"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Xiaopeng Li"
   avatar           : "xp.jpg"
-  bio              : "PhD student at City University of Hongkong"
-  location         : "Hongkong"
+  bio              : "Ph.D. student at City University of Hongkong"
+  location         : "Hong Kong"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=hCCqgQQAAAAJ&hl=en"
