@@ -41,10 +41,10 @@ Publication
 Work Experience
 ======
 
-* Research Intern, Baidu - Search Science Team
-* Research Intern, Huawei - Noah's Ark Lab
-* Research Intern, Alibaba - Alibaba Cloud
-* SDE Intern, Huawei - Huawei Cloud
+* Research Intern - Baidu, Search Science Team
+* Research Intern - Huawei, Noah's Ark Lab
+* Research Intern - Alibaba, Alibaba Cloud
+* SDE Intern - Huawei, Huawei Cloud
 
 Service
 ======
