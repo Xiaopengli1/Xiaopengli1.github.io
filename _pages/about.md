@@ -8,102 +8,60 @@ redirect_from:
   - /about.html
 ---
 
-I am now a Ph.D. student at the City University of Hong Kong, supervised by [Prof.Xiangyu Zhao](https://zhaoxyai.github.io/) in AML Lab. Before that, I got M.S. and B.Eng degrees from Xi'an Jiaotong University in 2022 and 2019. 
+I am currently a Ph.D. student at the City University of Hong Kong, supervised by [Prof.Xiangyu Zhao](https://zhaoxyai.github.io/) in AML Lab. Before that, I received M.S. and B.Eng degrees from Xi'an Jiaotong University in 2022 and 2019. 
 
-My research interests focus on **Recommendation Systems** and **Information Retrieval**.
+My recent research interests include: 1) LLMs for Information Retrieval; 2) LLMs for Recommender System;
 
-For more information, please feel free to contact me.
-
-Email: xiaopli2-c@my.cityu.edu.hk, lixiaopeng2019@gmail.com.
+Contact: xiaopli2-c@my.cityu.edu.hk
 
 
 Publication
 ======
-*  HAMUR: Hyper Adapter for Multi-Domain Recommendation \
-   <ins>**Xiaopeng Li**</ins>, Fan Yan, Xiangyu Zhao, Yichao Wang, Bo Chen, Huifeng Guo, Ruiming Tang \
-   32nd ACM International Conference on Information and Knowledge Management (CIKM'2023)
+* [D3: A Methodological Exploration of Domain Division, Modeling, and Balance in Multi-Domain Recommendations]() - **AAAI'2024** \
+  Pengyue Jia, Yichao Wang, Xiangyu Zhao, **Xiaopeng Li**, Huifeng Guo, Ruiming Tang
 
-*  Scenario-Aware Hierarchical Dynamic Network for Multi-Scenario Recommendation \
-   Jingtong Gao, Bo Chen, Menghui Zhu, Xiangyu Zhao, <ins>**Xiaopeng Li**</ins>, Yuhao Wang, Yichao Wang, Huifeng Guo, Ruiming Tang \
-   Arxiv
+* [Agent4Ranking: Semantic Robust Ranking via Personalized Query Rewriting Using Multi-agent LLM](https://arxiv.org/abs/2312.15450) - **Arxiv'2023** \
+   **Xiaopeng Li**, Lixin Su, Pengyue Jia, Xiangyu Zhao, Suqi Cheng, Junfeng Wang, Dawei Yin
 
-*  Uncertainty Set Prediction of Aggregated Wind Power Generation based on Bayesian LSTM and Spatio-Temporal Analysis \
-   <ins>**Xiaopeng Li**</ins>, Jiang Wu, Zhanbo Xu, Kun Liu, Xiaohong Guan, Jun Yu \
-   17th IEEE International Conference on Automation Science and Engineering (CASE'2021)
+* [MILL: Mutual Verification with Large Language Models for Zero-Shot Query Expansion](https://arxiv.org/abs/2310.19056) - **Arxiv'2023** \
+ Pengyue Jia, Yiding Liu, Xiangyu Zhao, **Xiaopeng Li**, Changying Hao, Shuaiqiang Wang, Dawei Yin
 
-* Geo-distributed Collaborative Clustering Method for Load Characteristic Analysis  \
-  Jiacheng Liu, Jiang Wu, Pengyuan Liu, Zhanbo Xu, <ins>**Xiaopeng Li**</ins>, Xiaogong Guan  \
-  Automation of Electric Power Systems (AEPS)
+* [HAMUR: Hyper Adapter for Multi-Domain Recommendation](https://dl.acm.org/doi/abs/10.1145/3583780.3615137) - **CIKM'2023** \
+   **Xiaopeng Li**, Fan Yan, Xiangyu Zhao, Yichao Wang, Bo Chen, Huifeng Guo, Ruiming Tang 
+ 
+* [Scenario-Aware Hierarchical Dynamic Network for Multi-Scenario Recommendation](https://arxiv.org/abs/2309.02061) - **Arxiv'2023** \
+   Jingtong Gao, Bo Chen, Menghui Zhu, Xiangyu Zhao, **Xiaopeng Li**, Yuhao Wang, Yichao Wang, Huifeng Guo, Ruiming Tang
 
+* [Geo-distributed Collaborative Clustering Method for Load Characteristic Analysis](http://www.aeps-info.com/aeps/article/abstract/20210708008) - **APES'2022** \
+  Jiacheng Liu, Jiang Wu, Pengyuan Liu, Zhanbo Xu, **Xiaopeng Li**, Xiaogong Guan 
 
-Work/Exchange Experience
+* [Uncertainty Set Prediction of Aggregated Wind Power Generation based on Bayesian LSTM and Spatio-Temporal Analysis](https://ieeexplore.ieee.org/document/9551610) - **CASE'2021** \
+   **Xiaopeng Li**, Jiang Wu, Zhanbo Xu, Kun Liu, Xiaohong Guan, Jun Yu
+
+Work Experience
 ======
 
-* Summer 2023: Research Intern \
-  Baidu. Mentor: [Dr. Lixin Su](https://scholar.google.com/citations?user=UWL6KAcAAAAJ&hl=en)
-
-* Summer 2021: Research Intern \
-  Alibaba Cloud. Mentor: Dr. Binbin Lu
-
-* Summer 2020: Research Intern \
-  Huawei ICT. Mentor: [Dr. Xu Gong](https://scholar.google.be/citations?user=o7Bn0OMAAAAJ&hl=en)
-
-* Summer 2018: SDE Intern \
-  Huawei Cloud.
-
-* Spring 2017: Exchange student \
-  University of Cambridge, UK
+* Research Intern, Baidu - Search Science Team
+* Research Intern, Huawei - Noah's Ark Lab
+* Research Intern, Alibaba - Alibaba Cloud
+* SDE Intern, Huawei - Huawei Cloud
 
 Service
 ======
 
-**Journal Reviewer:** ACM Transactions on the Web (TWEB), ACM Transactions on Recommender Systems (TORS), Expert Systems With Applications
+* Journal Reviewer: ACM TKDD, ESWA
+* Conference Reviewer: AAAI'2024, IJCAI'2024, ACL'2024
+* Conference Volunteer: IJCAI'2023, WWW'2023
 
 
-**Conference Reviewer:** KDD'2023, WWW'2023, NeurIPS'2023, RecSys'2023, ICDE'2024
+# News
+* 2023.12 - I will serve as the PC member in IJCAI’2024.
+* 2023.12 - One paper is accepted by AAAI'2024.
+* 2023.12 - Accepted as reviewer of ACM Transactions on Knowledge Discovery from Data (ACM TKDD).
+* 2023.10 - Accepted as reviewer of Expert Systems With Applications (ESWA).
+* 2023.08 - I will serve as the PC member in AAAI'2024.
+* 2023.06 - Serve as volunteer of IJCAI'2023.
+* 2023.06 - One paper is accepted by CIKM'2023.
+* 2023.03 - Serve as volunteer of WWW'2023.
+* 2023.01 - Start my Ph.D. at CityU HK.
 
-**Conference Volunteer:** IJCAI'2023, WWW'2023
-
-Honors
-======
-
-* Excellent Postgraduate Student \
-  Xi'an Jiaotong University 2021
-
-* Outstanding Undergraduate Graduates \
-  Xi'an Jiaotong University 2019
-
-* Excellent Undergraduate Student \
-  Xi'an Jiaotong University 2017,2018
-
-* First Class Scholarship \
-  Xi'an Jiaotong University 2017,2018
-
-* Siyuan Scholarship \
-  Xi'an Jiaotong University 2016
-
-
-
-<!--News-->
-<!--======-->
-
-<!--* July 2023 - One paper accepted by CIKM'2023.-->
-<!--* June 2023 - Start my internship at [BAIDU Search Science Team](http://searchscience.baidu.com/).-->
-<!--* June 2023 - Serve as Volunteer of IJCAI'2023.-->
-<!--* Mar. 2023 - Serve as Artifact Reviewer of WebConf'2023.-->
-<!-- * Feb. 2023 - Serve as Reviewer of ACM TEWB. -->
-<!-- * Feb. 2023 - Serve as Reviewer of KDD'2023. -->
-<!-- * Jan. 2023 - Join AML Lab, CityU of Hongkong.-->
-<!-- * May. 2022 - Successfully defended my Master Thesis at Xi’an Jiaotong University. -->
-<!-- * Apr. 2022 - One paper was accepted by Journal of **Automation of Electric Power Systems** . -->
-<!-- * Aug. 2021 - Attended IEEE CASE 2022 in Lyon,France and gave an  oral presentation. -->
-<!-- * Jun. 2021 - Start my internship at Alibaba Cloud Group in Hangzhou. -->
-<!-- * May. 2021 - One paper was accepted by conference of **IEEE CASE(Conference on Automation Science and Engineering)**. -->
-<!-- * Aug. 2020 - Finish my internship at HUAWEI in Shenzhen. -->
-<!-- * Jun. 2020 - Start my internship at HUAWEI in Shenzhen. -->
-<!-- * Jun. 2019 - Successfully defended my Bachelor Thesis at Xi’an Jiaotong University. -->
-<!-- * Jun. 2019 - Get the Honour of Outstanding Undergraduate Graduates.(1/23) -->
-<!-- * Aug. 2018 - Finish my internship at HUAWEI Cloud Group in Xi'an. -->
-<!-- * May. 2018 - Admitted by XJTU-HUAWEI Cloud Computing Elite Class and get an internship offer from HUAWEI. -->
-<!-- * Jan. 2017 - Get admitted by the University of Cambridge,UK winter exchange program.  -->
-<!-- * Aug. 2015 - Start my life at Xi'an Jiaotong University. -->
