@@ -36,7 +36,7 @@ Publication
   Jiacheng Liu, Jiang Wu, Pengyuan Liu, Zhanbo Xu, **Xiaopeng Li**, Xiaogong Guan 
 
 * [Uncertainty Set Prediction of Aggregated Wind Power Generation based on Bayesian LSTM and Spatio-Temporal Analysis](https://ieeexplore.ieee.org/document/9551610) - **CASE'2021** \
-   **Xiaopeng Li**, Jiang Wu, Zhanbo Xu, Kun Liu, Xiaohong Guan, Jun Yu
+   **Xiaopeng Li**, Jiang Wu, Zhanbo Xu, Kun Liu, Xiaohong Guan
 
 Work Experience
 ======
@@ -49,12 +49,13 @@ Work Experience
 Service
 ======
 
-* Journal Reviewer: ACM TKDD, ESWA
+* Journal Reviewer: ACM TKDD, ACM TOIS, ESWA
 * Conference Reviewer: AAAI'2024, IJCAI'2024, ACL'2024
 * Conference Volunteer: IJCAI'2023, WWW'2023
 
 
 # News
+* 2024.02 - Accepted as reviewer of ACM Transactions on Information Systems (ACM TOIS).
 * 2023.12 - I will serve as the PC member in IJCAI’2024.
 * 2023.12 - One paper is accepted by AAAI'2024.
 * 2023.12 - Accepted as reviewer of ACM Transactions on Knowledge Discovery from Data (ACM TKDD).
