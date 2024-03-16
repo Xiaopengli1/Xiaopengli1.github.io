@@ -20,11 +20,11 @@ Publication
 * [D3: A Methodological Exploration of Domain Division, Modeling, and Balance in Multi-Domain Recommendations]() - **AAAI'2024** \
   Pengyue Jia, Yichao Wang, Xiangyu Zhao, **Xiaopeng Li**, Huifeng Guo, Ruiming Tang
 
-* [Agent4Ranking: Semantic Robust Ranking via Personalized Query Rewriting Using Multi-agent LLM](https://arxiv.org/abs/2312.15450) - **Arxiv'2023** \
-   **Xiaopeng Li**, Lixin Su, Pengyue Jia, Xiangyu Zhao, Suqi Cheng, Junfeng Wang, Dawei Yin
-
 * [MILL: Mutual Verification with Large Language Models for Zero-Shot Query Expansion](https://arxiv.org/abs/2310.19056) - **NAACL'2024** \
  Pengyue Jia, Yiding Liu, Xiangyu Zhao, **Xiaopeng Li**, Changying Hao, Shuaiqiang Wang, Dawei Yin
+
+* [Agent4Ranking: Semantic Robust Ranking via Personalized Query Rewriting Using Multi-agent LLM](https://arxiv.org/abs/2312.15450) - **Arxiv'2023** \
+   **Xiaopeng Li**, Lixin Su, Pengyue Jia, Xiangyu Zhao, Suqi Cheng, Junfeng Wang, Dawei Yin
 
 * [HAMUR: Hyper Adapter for Multi-Domain Recommendation](https://dl.acm.org/doi/abs/10.1145/3583780.3615137) - **CIKM'2023** \
    **Xiaopeng Li**, Fan Yan, Xiangyu Zhao, Yichao Wang, Bo Chen, Huifeng Guo, Ruiming Tang 
