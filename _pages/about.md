@@ -23,7 +23,7 @@ Publication
 * [Agent4Ranking: Semantic Robust Ranking via Personalized Query Rewriting Using Multi-agent LLM](https://arxiv.org/abs/2312.15450) - **Arxiv'2023** \
    **Xiaopeng Li**, Lixin Su, Pengyue Jia, Xiangyu Zhao, Suqi Cheng, Junfeng Wang, Dawei Yin
 
-* [MILL: Mutual Verification with Large Language Models for Zero-Shot Query Expansion](https://arxiv.org/abs/2310.19056) - **Arxiv'2023** \
+* [MILL: Mutual Verification with Large Language Models for Zero-Shot Query Expansion](https://arxiv.org/abs/2310.19056) - **NAACL'2024** \
  Pengyue Jia, Yiding Liu, Xiangyu Zhao, **Xiaopeng Li**, Changying Hao, Shuaiqiang Wang, Dawei Yin
 
 * [HAMUR: Hyper Adapter for Multi-Domain Recommendation](https://dl.acm.org/doi/abs/10.1145/3583780.3615137) - **CIKM'2023** \
@@ -50,13 +50,15 @@ Service
 ======
 
 * Journal Reviewer: ACM TKDD, ACM TOIS, ESWA
-* Conference Reviewer: AAAI'2024, IJCAI'2024, ACL'2024
+* Conference Reviewer: AAAI'2024, IJCAI'2024, ACL'2024, KDD'2024
 * Conference Volunteer: IJCAI'2023, WWW'2023
 
 
 # News
+* 2024.03 - One paper accepted by NAACL'2024.
+* 2024.02 - Serve as the PC member in KDD’2024.
 * 2024.02 - Accepted as reviewer of ACM Transactions on Information Systems (ACM TOIS).
-* 2023.12 - I will serve as the PC member in IJCAI’2024.
+* 2023.12 - Serve as the PC member in IJCAI’2024.
 * 2023.12 - One paper is accepted by AAAI'2024.
 * 2023.12 - Accepted as reviewer of ACM Transactions on Knowledge Discovery from Data (ACM TKDD).
 * 2023.10 - Accepted as reviewer of Expert Systems With Applications (ESWA).
