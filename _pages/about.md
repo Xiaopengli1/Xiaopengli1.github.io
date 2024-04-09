@@ -50,15 +50,16 @@ Service
 ======
 
 * Journal Reviewer: ACM TKDD, ACM TOIS, ESWA
-* Conference Reviewer: AAAI'2024, IJCAI'2024, ACL'2024, KDD'2024
+* Conference Reviewer: AAAI'2024, IJCAI'2024, ACL'2024, KDD'2024, CIKM'2024
 * Conference Volunteer: IJCAI'2023, WWW'2023
 
 
 # News
+* 2024.03 - Serve as the PC member in CIKM'2024.
 * 2024.03 - One paper accepted by NAACL'2024.
-* 2024.02 - Serve as the PC member in KDD’2024.
+* 2024.02 - Serve as the PC member in KDD'2024.
 * 2024.02 - Accepted as reviewer of ACM Transactions on Information Systems (ACM TOIS).
-* 2023.12 - Serve as the PC member in IJCAI’2024.
+* 2023.12 - Serve as the PC member in IJCAI'2024.
 * 2023.12 - One paper is accepted by AAAI'2024.
 * 2023.12 - Accepted as reviewer of ACM Transactions on Knowledge Discovery from Data (ACM TKDD).
 * 2023.10 - Accepted as reviewer of Expert Systems With Applications (ESWA).
