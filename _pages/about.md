@@ -55,6 +55,7 @@ Service
 
 
 # News
+* 2024.04 - Serve as the PC member in MM'2024.
 * 2024.03 - Serve as the PC member in CIKM'2024.
 * 2024.03 - One paper accepted by NAACL'2024.
 * 2024.02 - Serve as the PC member in KDD'2024.
