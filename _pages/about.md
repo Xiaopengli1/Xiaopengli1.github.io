@@ -17,7 +17,10 @@ Contact: xiaopli2-c@my.cityu.edu.hk
 
 Publication
 ======
-* [D3: A Methodological Exploration of Domain Division, Modeling, and Balance in Multi-Domain Recommendations]() - **AAAI'2024** \
+* [Scenario-Wise Rec: A Multi-Scenario Recommendation Benchmark]() - **Under Review** \
+  **Xiaopeng Li**, Jingtong Gao, Pengyue Jia, Yichao Wang, Wanyu Wang, Yejing Wang, Yuhao Wang, Huifeng Guo 
+
+* [D3: A Methodological Exploration of Domain Division, Modeling, and Balance in Multi-Domain Recommendations](https://ojs.aaai.org/index.php/AAAI/article/view/28699) - **AAAI'2024** \
   Pengyue Jia, Yichao Wang, Xiangyu Zhao, **Xiaopeng Li**, Huifeng Guo, Ruiming Tang
 
 * [MILL: Mutual Verification with Large Language Models for Zero-Shot Query Expansion](https://arxiv.org/abs/2310.19056) - **NAACL'2024** \
