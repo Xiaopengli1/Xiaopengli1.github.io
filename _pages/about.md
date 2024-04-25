@@ -52,8 +52,8 @@ Work Experience
 Service
 ======
 
-* Journal Reviewer: ACM TKDD, ACM TOIS, ESWA
-* Conference Reviewer: AAAI'2024, IJCAI'2024, ACL'2024, KDD'2024, CIKM'2024
+* Journal Reviewer: ACM TKDD, ACM TOIS, ACM TASLP, ESWA
+* Conference Reviewer: AAAI'2024, IJCAI'2024, ACL'2024, KDD'2024, CIKM'2024, MM'2024
 * Conference Volunteer: IJCAI'2023, WWW'2023
 
 
