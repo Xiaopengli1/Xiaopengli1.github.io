@@ -58,7 +58,7 @@ Service
 
 
 # News
-* 2024.04 - Accepted as reviewer of ACM Transactions on Audio, Speech and Language Processing (ACM TASLP).
+* 2024.04 - Accepted as reviewer of IEEE/ACM Transactions on Audio, Speech and Language Processing (IEEE/ACM TASLP).
 * 2024.04 - Serve as the PC member in MM'2024.
 * 2024.03 - Serve as the PC member in CIKM'2024.
 * 2024.03 - One paper accepted by NAACL'2024.
