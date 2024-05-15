@@ -27,11 +27,11 @@ Publication
 
 * [MILL: Mutual Verification with Large Language Models for Zero-Shot Query Expansion](https://arxiv.org/abs/2310.19056) \
   **NAACL'2024** \
-  Pengyue Jia, Yiding Liu, Xiangyu Zhao, **Xiaopeng Li**, Changying Hao, Shuaiqiang Wang, Dawei Yin
+  Pengyue Jia, Yiding Liu, Xiangyu Zhao, **Xiaopeng Li**, Changying Hao, Shuaiqiang Wang, Dawei Yin \
 
 * [Agent4Ranking: Semantic Robust Ranking via Personalized Query Rewriting Using Multi-agent LLM](https://arxiv.org/abs/2312.15450) \
-  **Arxiv'2023**
-  **Xiaopeng Li**, Lixin Su, Pengyue Jia, Xiangyu Zhao, Suqi Cheng, Junfeng Wang, Dawei Yin
+  **Arxiv'2023** \
+  **Xiaopeng Li**, Lixin Su, Pengyue Jia, Xiangyu Zhao, Suqi Cheng, Junfeng Wang, Dawei Yin \
 
 * [HAMUR: Hyper Adapter for Multi-Domain Recommendation](https://dl.acm.org/doi/abs/10.1145/3583780.3615137) \
   **CIKM'2023** \
@@ -39,15 +39,15 @@ Publication
  
 * [Scenario-Aware Hierarchical Dynamic Network for Multi-Scenario Recommendation](https://arxiv.org/abs/2309.02061) \
   **Arxiv'2023** \
-  Jingtong Gao, Bo Chen, Menghui Zhu, Xiangyu Zhao, **Xiaopeng Li**, Yuhao Wang, Yichao Wang, Huifeng Guo, Ruiming Tang
+  Jingtong Gao, Bo Chen, Menghui Zhu, Xiangyu Zhao, **Xiaopeng Li**, Yuhao Wang, Yichao Wang, Huifeng Guo, Ruiming Tang \
 
 * [Geo-distributed Collaborative Clustering Method for Load Characteristic Analysis](http://www.aeps-info.com/aeps/article/abstract/20210708008) \
-  **APES'2022**
-  Jiacheng Liu, Jiang Wu, Pengyuan Liu, Zhanbo Xu, **Xiaopeng Li**, Xiaogong Guan 
+  **APES'2022** \
+  Jiacheng Liu, Jiang Wu, Pengyuan Liu, Zhanbo Xu, **Xiaopeng Li**, Xiaogong Guan \
 
 * [Uncertainty Set Prediction of Aggregated Wind Power Generation based on Bayesian LSTM and Spatio-Temporal Analysis](https://ieeexplore.ieee.org/document/9551610) \
-  **CASE'2021**
-  **Xiaopeng Li**, Jiang Wu, Zhanbo Xu, Kun Liu, Xiaohong Guan
+  **CASE'2021** \
+  **Xiaopeng Li**, Jiang Wu, Zhanbo Xu, Kun Liu, Xiaohong Guan \
 
 Work Experience
 ======
