@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. student at the City University of Hong Kong, supervised by [Prof.Xiangyu Zhao](https://zhaoxyai.github.io/) in AML Lab. Before that, I received M.S. and B.Eng degrees from Xi'an Jiaotong University in 2022 and 2019. 
+I am currently a Ph.D. student at the City University of Hong Kong, supervised by [Prof.Xiangyu Zhao](https://zhaoxyai.github.io/) in [AML Lab](https://aml-cityu.github.io/). Before that, I received M.S. and B.Eng degrees from Xi'an Jiaotong University in 2022 and 2019. 
 
 My recent research interests include: 1) LLMs for Information Retrieval; 2) LLMs for Recommender System;
 
