@@ -19,7 +19,7 @@ Publication
 ======
 * [Scenario-Wise Rec: A Multi-Scenario Recommendation Benchmark]() \
   **Under Review** \
-  **Xiaopeng Li**, Jingtong Gao, Pengyue Jia, Yichao Wang, Wanyu Wang, Yejing Wang, Yuhao Wang, Huifeng Guo 
+  **Xiaopeng Li**, Jingtong Gao, Pengyue Jia, Xiangyu Zhao, Yichao Wang, Wanyu Wang, Yuhao Wang, Yejing Wang, Huifeng Guo, Ruiming Tang
 
 * [D3: A Methodological Exploration of Domain Division, Modeling, and Balance in Multi-Domain Recommendations](https://ojs.aaai.org/index.php/AAAI/article/view/28699) \
   **AAAI'2024** \
