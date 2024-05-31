@@ -60,12 +60,13 @@ Work Experience
 Service
 ======
 
-* Journal Reviewer: ACM TKDD, ACM TOIS, IEEE/ACM TASLP, ESWA
+* Journal Reviewer: ACM TIST, ACM TKDD, ACM TOIS, IEEE/ACM TASLP, ESWA
 * Conference PC Member: AAAI'2024, IJCAI'2024, ACL'2024, KDD'2024, CIKM'2024, MM'2024
 * Conference Volunteer: IJCAI'2023, WWW'2023
 
 
 # News
+* 2024.05 - Accepted as reviewer of ACM Transactions on Intelligent Systems and Technology (ACM TIST).
 * 2024.04 - Accepted as reviewer of IEEE/ACM Transactions on Audio, Speech and Language Processing (IEEE/ACM TASLP).
 * 2024.04 - Serve as the PC member in MM'2024.
 * 2024.03 - Serve as the PC member in CIKM'2024.
