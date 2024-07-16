@@ -37,8 +37,8 @@ Publication
   **CIKM'2023** \
   **Xiaopeng Li**, Fan Yan, Xiangyu Zhao, Yichao Wang, Bo Chen, Huifeng Guo, Ruiming Tang 
  
-* [Scenario-Aware Hierarchical Dynamic Network for Multi-Scenario Recommendation](https://arxiv.org/abs/2309.02061) \
-  **Arxiv'2023** \
+* [HierRec: Scenario-Aware Hierarchical Modeling for Multi-scenario Recommendations](https://arxiv.org/abs/2309.02061) \
+  **CIKM' 2024** \
   Jingtong Gao, Bo Chen, Menghui Zhu, Xiangyu Zhao, **Xiaopeng Li**, Yuhao Wang, Yichao Wang, Huifeng Guo, Ruiming Tang 
 
 * [Geo-distributed Collaborative Clustering Method for Load Characteristic Analysis](http://www.aeps-info.com/aeps/article/abstract/20210708008) \
