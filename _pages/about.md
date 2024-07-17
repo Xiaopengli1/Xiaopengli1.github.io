@@ -21,6 +21,10 @@ Publication
   **Under Review** \
   **Xiaopeng Li**, Jingtong Gao, Pengyue Jia, Xiangyu Zhao, Yichao Wang, Wanyu Wang, Yuhao Wang, Yejing Wang, Huifeng Guo, Ruiming Tang
 
+* [HierRec: Scenario-Aware Hierarchical Modeling for Multi-scenario Recommendations](https://arxiv.org/abs/2309.02061) \
+  **CIKM' 2024** \
+  Jingtong Gao, Bo Chen, Menghui Zhu, Xiangyu Zhao, **Xiaopeng Li**, Yuhao Wang, Yichao Wang, Huifeng Guo, Ruiming Tang
+
 * [D3: A Methodological Exploration of Domain Division, Modeling, and Balance in Multi-Domain Recommendations](https://ojs.aaai.org/index.php/AAAI/article/view/28699) \
   **AAAI'2024** \
   Pengyue Jia, Yichao Wang, Xiangyu Zhao, **Xiaopeng Li**, Huifeng Guo, Ruiming Tang 
@@ -36,10 +40,7 @@ Publication
 * [HAMUR: Hyper Adapter for Multi-Domain Recommendation](https://dl.acm.org/doi/abs/10.1145/3583780.3615137) \
   **CIKM'2023** \
   **Xiaopeng Li**, Fan Yan, Xiangyu Zhao, Yichao Wang, Bo Chen, Huifeng Guo, Ruiming Tang 
- 
-* [HierRec: Scenario-Aware Hierarchical Modeling for Multi-scenario Recommendations](https://arxiv.org/abs/2309.02061) \
-  **CIKM' 2024** \
-  Jingtong Gao, Bo Chen, Menghui Zhu, Xiangyu Zhao, **Xiaopeng Li**, Yuhao Wang, Yichao Wang, Huifeng Guo, Ruiming Tang 
+  
 
 * [Geo-distributed Collaborative Clustering Method for Load Characteristic Analysis](http://www.aeps-info.com/aeps/article/abstract/20210708008) \
   **APES'2022** \
