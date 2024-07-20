@@ -22,7 +22,7 @@ Publication
   **Xiaopeng Li**, Jingtong Gao, Pengyue Jia, Xiangyu Zhao, Yichao Wang, Wanyu Wang, Yuhao Wang, Yejing Wang, Huifeng Guo, Ruiming Tang
 
 * [HierRec: Scenario-Aware Hierarchical Modeling for Multi-scenario Recommendations](https://arxiv.org/abs/2309.02061) \
-  **CIKM' 2024** \
+  **CIKM'2024** \
   Jingtong Gao, Bo Chen, Menghui Zhu, Xiangyu Zhao, **Xiaopeng Li**, Yuhao Wang, Yichao Wang, Huifeng Guo, Ruiming Tang
 
 * [D3: A Methodological Exploration of Domain Division, Modeling, and Balance in Multi-Domain Recommendations](https://ojs.aaai.org/index.php/AAAI/article/view/28699) \
@@ -65,8 +65,17 @@ Service
 * Conference PC Member: AAAI'2024, IJCAI'2024, ACL'2024, KDD'2024, CIKM'2024, MM'2024
 * Conference Volunteer: IJCAI'2023, WWW'2023
 
+Award
+======
+
+* 2nd place in [Amazon KDD Cup 2024: Multi-Task Online Shopping Challenge for LLMs](https://www.aicrowd.com/challenges/amazon-kdd-cup-2024-multi-task-online-shopping-challenge-for-llms/leaderboards) (2/502). Best Student team in Track 1 and Track 5.
+* Excellent Postgraduate Student.
+* Outstanding Undergraduate Graduates.
+
 
 # News
+* 2024.07 - Thrill to announce we have won [KDD CUP'2024](https://discourse.aicrowd.com/t/announcing-the-winners-of-amazon-kdd-cup-2024/10758) at 2nd place (2/502), and all five tracks ranked in the top three.
+* 2024.07 - One paper accepted by CIKM'2024.
 * 2024.05 - Accepted as reviewer of ACM Transactions on Intelligent Systems and Technology (ACM TIST).
 * 2024.04 - Accepted as reviewer of IEEE/ACM Transactions on Audio, Speech and Language Processing (IEEE/ACM TASLP).
 * 2024.04 - Serve as the PC member in MM'2024.
