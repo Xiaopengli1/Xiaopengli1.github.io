@@ -13,8 +13,8 @@ redirect_from:
 
 Education
 ======
-* B.S. Xi'an Jiaotong University, 2022
-* M.S. Xi'an Jiaotong University, 2019
+* M.S. Xi'an Jiaotong University, 2022
+* B.S. Xi'an Jiaotong University, 2019
 
 
 Intern experience
