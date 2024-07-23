@@ -16,7 +16,7 @@ I am broadly interested in Data Mining and Machine Learning. My current research
 
 Contact: xiaopli2-c@my.cityu.edu.hk
 
-# Publications
+# Selected Publications
 
 **Scenario-Wise Rec: A Multi-Scenario Recommendation Benchmark**\
 **<ins>Xiaopeng Li</ins>**\*, Jingtong Gao\*, Pengyue Jia, Xiangyu Zhao, Yichao Wang, Wanyu Wang, Yuhao Wang, Yejing Wang, Huifeng Guo, Ruiming Tang\
@@ -42,13 +42,13 @@ Arxiv'2023. [[link]](https://arxiv.org/abs/2312.15450)
 **<ins>Xiaopeng Li</ins>**, Fan Yan, Xiangyu Zhao, Yichao Wang, Bo Chen, Huifeng Guo, Ruiming Tang \
 CIKM'2023. [[link]](https://aclanthology.org/2023.findings-emnlp.257/)
 
-**Geo-distributed Collaborative Clustering Method for Load Characteristic Analysis** \
-Jiacheng Liu, Jiang Wu, Pengyuan Liu, Zhanbo Xu, **<ins>Xiaopeng Li</ins>**, Xiaogong Guan \
-AEPS. [[link]](http://www.aeps-info.com/aeps/article/abstract/20210708008)
+<!-- **Geo-distributed Collaborative Clustering Method for Load Characteristic Analysis** \ -->
+<!-- Jiacheng Liu, Jiang Wu, Pengyuan Liu, Zhanbo Xu, **<ins>Xiaopeng Li</ins>**, Xiaogong Guan \ -->
+<!-- AEPS. [[link]](http://www.aeps-info.com/aeps/article/abstract/20210708008) -->
 
-**Uncertainty Set Prediction of Aggregated Wind Power Generation based on Bayesian LSTM and Spatio-Temporal Analysis** \
-**<ins>Xiaopeng Li</ins>**, Jiang Wu, Zhanbo Xu, Kun Liu, Xiaohong Guan \
-CASE'2021. [[link]](https://ieeexplore.ieee.org/document/9551610)
+<!-- **Uncertainty Set Prediction of Aggregated Wind Power Generation based on Bayesian LSTM and Spatio-Temporal Analysis** \ -->
+<!-- **<ins>Xiaopeng Li</ins>**, Jiang Wu, Zhanbo Xu, Kun Liu, Xiaohong Guan \ -->
+<!-- CASE'2021. [[link]](https://ieeexplore.ieee.org/document/9551610) -->
 
 # Work Experience
 
