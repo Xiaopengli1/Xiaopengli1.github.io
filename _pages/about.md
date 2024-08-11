@@ -10,7 +10,7 @@ redirect_from:
 
 <!-- ## About Me -->
 
-I am **Xiaopeng LI**, currently a Ph.D. student at the City University of Hong Kong, supervised by [Prof.Xiangyu Zhao](https://zhaoxyai.github.io/) in [AML Lab](https://aml-cityu.github.io/). Before that, I received M.S. and B.Eng degrees from Xi'an Jiaotong University in 2022 and 2019.  
+I am **Xiaopeng Li**, currently a Ph.D. student at the City University of Hong Kong, supervised by [Prof.Xiangyu Zhao](https://zhaoxyai.github.io/) in [AML Lab](https://aml-cityu.github.io/). Before that, I received M.S. and B.Eng degrees from Xi'an Jiaotong University in 2022 and 2019.  
 
 I am broadly interested in Data Mining and Machine Learning. My current research focuses on **1) LLMs for Information Retrieval, 2) LLMs for Recommender System**.
 
