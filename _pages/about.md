@@ -63,7 +63,8 @@ SDE Intern - Huawei, Huawei Cloud
 ACM TIST, ACM TKDD, ACM TOIS, IEEE/ACM TASLP, ESWA
 
 **Conference PC Member**:\
-AAAI'2024, IJCAI'2024, ACL'2024, KDD'2024, CIKM'2024, MM'2024
+2024: AAAI, IJCAI, ACL, KDD, CIKM, MM
+2025: KDD
 
 **Conference Volunteer**:\
 IJCAI'2023, WWW'2023
@@ -75,6 +76,7 @@ IJCAI'2023, WWW'2023
 * Outstanding Undergraduate Graduates, Xi'an Jiaotong University (2019)
 
 # News
+[2024.08] Serve as the PC member in KDD'2025.\
 [2024.07] Our team AML_Lab@CityU won [KDD CUP'2024](https://discourse.aicrowd.com/t/announcing-the-winners-of-amazon-kdd-cup-2024/10758) at 2nd place (2/502).\
 [2024.07] One paper accepted by CIKM'2024.\
 [2024.05] Accepted as reviewer of ACM Transactions on Intelligent Systems and Technology (ACM TIST).\
