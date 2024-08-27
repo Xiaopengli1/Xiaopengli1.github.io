@@ -24,7 +24,7 @@ Under Review. [[link]](https://github.com/Xiaopengli1/Scenario-Wise-Rec)
 
 **HierRec: Scenario-Aware Hierarchical Modeling for Multi-scenario Recommendations** \
 Jingtong Gao, Bo Chen, Menghui Zhu, Xiangyu Zhao, **<ins>Xiaopeng Li</ins>**, Yuhao Wang, Yichao Wang, Huifeng Guo, Ruiming Tang\
-CIKM'2024. [[link]](https://arxiv.org/pdf/2309.02061)
+CIKM'2024. [[link]](https://arxiv.org/abs/2309.02061)
 
 **D3: A Methodological Exploration of Domain Division, Modeling, and Balance in Multi-Domain Recommendations** \
 Pengyue Jia, Yichao Wang, Xiangyu Zhao, **<ins>Xiaopeng Li</ins>**, Huifeng Guo, Ruiming Tang\
@@ -32,7 +32,7 @@ AAAI'2024. [[link]](https://ojs.aaai.org/index.php/AAAI/article/view/28699)
 
 **MILL: Mutual Verification with Large Language Models for Zero-Shot Query Expansion** \
 Pengyue Jia, Yiding Liu, Xiangyu Zhao, **<ins>Xiaopeng Li</ins>**, Changying Hao, Shuaiqiang Wang, Dawei Yin \
-NAACL'2024. [[link]](https://arxiv.org/abs/2310.19056)
+NAACL'2024. [[link]](https://aclanthology.org/2024.naacl-long.138.pdf)
 
 **Agent4Ranking: Semantic Robust Ranking via Personalized Query Rewriting Using Multi-agent LLM** \
 **<ins>Xiaopeng Li</ins>**, Lixin Su, Pengyue Jia, Xiangyu Zhao, Suqi Cheng, Junfeng Wang, Dawei Yin \
@@ -40,7 +40,8 @@ Arxiv'2023. [[link]](https://arxiv.org/abs/2312.15450)
 
 **HAMUR: Hyper Adapter for Multi-Domain Recommendation** \
 **<ins>Xiaopeng Li</ins>**, Fan Yan, Xiangyu Zhao, Yichao Wang, Bo Chen, Huifeng Guo, Ruiming Tang \
-CIKM'2023. [[link]](https://aclanthology.org/2023.findings-emnlp.257/)
+CIKM'2023. [[link]](https://dl.acm.org/doi/abs/10.1145/3583780.3615137)
+
 
 <!-- **Geo-distributed Collaborative Clustering Method for Load Characteristic Analysis** \ -->
 <!-- Jiacheng Liu, Jiang Wu, Pengyuan Liu, Zhanbo Xu, **<ins>Xiaopeng Li</ins>**, Xiaogong Guan \ -->
