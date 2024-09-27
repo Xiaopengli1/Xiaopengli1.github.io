@@ -18,6 +18,14 @@ Contact: xiaopli2-c@my.cityu.edu.hk
 
 # Selected Publications
 
+**G3: An Effective and Adaptive Framework for Worldwide Geolocalization Using Large Multi-Modality Models**\
+Pengyue Jia, Yiding Liu, **<ins>Xiaopeng Li</ins>**, Xiangyu Zhao, Yuhao Wang, Yantong Du, Xiao Han, Xuetao Wei, Shuaiqiang Wang, Dawei Yin
+NeurIPS'2024.
+
+**SyNeg: LLM-Driven Synthetic Hard-Negatives for Dense Retrieval**\
+**<ins>Xiaopeng Li</ins>**, Xiangyang Li, Hao Zhang, Zhaocheng Du, Yichao Wang, Pengyue Jia, Xiangyu Zhao, Huifeng Guo, Ruiming Tang
+Under Review.
+
 **Scenario-Wise Rec: A Multi-Scenario Recommendation Benchmark**\
 **<ins>Xiaopeng Li</ins>**\*, Jingtong Gao\*, Pengyue Jia, Xiangyu Zhao, Yichao Wang, Wanyu Wang, Yuhao Wang, Yejing Wang, Huifeng Guo, Ruiming Tang\
 Under Review. [[link]](https://github.com/Xiaopengli1/Scenario-Wise-Rec)
@@ -65,7 +73,7 @@ ACM TIST, ACM TKDD, ACM TOIS, IEEE/ACM TASLP, ESWA
 
 **Conference PC Member**:\
 2024: AAAI, IJCAI, KDD, CIKM, MM, ACL Rolling Reviewer\
-2025: KDD
+2025: KDD, ICASSP
 
 **Conference Volunteer**:\
 IJCAI'2023, WWW'2023
@@ -77,6 +85,8 @@ IJCAI'2023, WWW'2023
 * Outstanding Undergraduate Graduates, Xi'an Jiaotong University (2019)
 
 # News
+[2024.09] One paper is accepted in NeurIPS'2024.\
+[2024.08] Serve as reviewer in ICASSP'2025.\
 [2024.08] Serve as the PC member in KDD'2025.\
 [2024.07] Our team AML_Lab@CityU won [KDD CUP'2024](https://discourse.aicrowd.com/t/announcing-the-winners-of-amazon-kdd-cup-2024/10758) at 2nd place (2/502).\
 [2024.07] One paper accepted by CIKM'2024.\
