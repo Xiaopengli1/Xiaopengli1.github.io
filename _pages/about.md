@@ -19,11 +19,11 @@ Contact: xiaopli2-c@my.cityu.edu.hk
 # Selected Publications
 
 **G3: An Effective and Adaptive Framework for Worldwide Geolocalization Using Large Multi-Modality Models**\
-Pengyue Jia, Yiding Liu, **<ins>Xiaopeng Li</ins>**, Xiangyu Zhao, Yuhao Wang, Yantong Du, Xiao Han, Xuetao Wei, Shuaiqiang Wang, Dawei Yin
+Pengyue Jia, Yiding Liu, **<ins>Xiaopeng Li</ins>**, Xiangyu Zhao, Yuhao Wang, Yantong Du, Xiao Han, Xuetao Wei, Shuaiqiang Wang, Dawei Yin\
 NeurIPS'2024.
 
 **SyNeg: LLM-Driven Synthetic Hard-Negatives for Dense Retrieval**\
-**<ins>Xiaopeng Li</ins>**, Xiangyang Li, Hao Zhang, Zhaocheng Du, Yichao Wang, Pengyue Jia, Xiangyu Zhao, Huifeng Guo, Ruiming Tang
+**<ins>Xiaopeng Li</ins>**, Xiangyang Li, Hao Zhang, Zhaocheng Du, Yichao Wang, Pengyue Jia, Xiangyu Zhao, Huifeng Guo, Ruiming Tang\
 Under Review.
 
 **Scenario-Wise Rec: A Multi-Scenario Recommendation Benchmark**\
