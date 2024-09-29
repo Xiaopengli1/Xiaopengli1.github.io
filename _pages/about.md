@@ -71,7 +71,7 @@ SDE Intern - Huawei, Huawei Cloud
 **Journal Reviewer**:\
 ACM TIST, ACM TKDD, ACM TOIS, IEEE/ACM TASLP, ESWA
 
-**Conference PC Member**:\
+**Conference PC Member/Reviewer**:\
 2024: AAAI, IJCAI, KDD, CIKM, MM, ACL Rolling Reviewer\
 2025: KDD, ICASSP, ICLR
 
