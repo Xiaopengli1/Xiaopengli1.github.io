@@ -136,4 +136,4 @@ IJCAI'2023, WWW'2023
 
 
 
-Website last updated on 22ed December 2024.
+Website last updated on 22nd December 2024.
