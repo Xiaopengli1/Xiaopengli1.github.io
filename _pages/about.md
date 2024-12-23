@@ -88,7 +88,7 @@ SDE Intern - Huawei, Huawei Cloud
 ## Teaching Experience
 
 SDSC2005 - Introduction to Computational Scocial Science, TA\
-SDSC3006 - Fundamentals of Machine Learning, TA\
+SDSC3006 - Fundamentals of Machine Learning, TA
 
 ## Service
 
