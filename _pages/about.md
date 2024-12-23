@@ -1,14 +1,13 @@
 ---
 permalink: /
-title: ""
-excerpt: "About me"
+title: "About Me"
+excerpt: "Welcome to my page!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-<!-- ## About Me -->
 ## Introduction
 
 I am **Xiaopeng Li**, currently a Ph.D. student at the City University of Hong Kong, supervised by [Prof. Xiangyu Zhao](https://zhaoxyai.github.io/) in [AML Lab](https://aml-cityu.github.io/). Before that, I received M.S. and B.Eng degrees from Xi'an Jiaotong University in 2022 and 2019.  
