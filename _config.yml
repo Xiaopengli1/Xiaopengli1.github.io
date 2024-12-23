@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome to Xiaopeng's Page"
+title                    : "Xiaopeng Li (李晓鹏)"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
