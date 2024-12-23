@@ -87,7 +87,7 @@ ACM TIST, ACM TKDD, ACM TOIS, IEEE/ACM TASLP, ESWA
 
 **Conference PC Member/Reviewer**:\
 2024: AAAI, IJCAI, KDD, CIKM, MM, ACL Rolling Reviewer\
-2025: KDD, IJCNN
+2025: KDD, ICLR, ICASSP, IJCNN\
 
 **Conference Volunteer**:\
 IJCAI'2023, WWW'2023
@@ -101,7 +101,9 @@ IJCAI'2023, WWW'2023
 ## News
 [2024.12] One paper is accepted by ICASSP'2025. It's also the first time I've indepently coached master students to publish paper at a top conference. Congratulations to Wenxin and Weirui.\
 [2024.12] Our tutorial proposal "Joint Modeling in Deep Recommender Systems" is accepted by WWW'2025.\
+[2024.09] Serve as the reviewer in ICLR'2025.\
 [2024.09] One paper is accepted in NeurIPS'2024.\
+[2024.08] Serve as the reviewer in ICASSP'2025.\
 [2024.08] Serve as the PC member in KDD'2025.\
 [2024.07] Our team AML_Lab@CityU won [KDD CUP'2024](https://discourse.aicrowd.com/t/announcing-the-winners-of-amazon-kdd-cup-2024/10758) at 2nd place (2/502).\
 [2024.07] One paper is accepted by CIKM'2024.\
