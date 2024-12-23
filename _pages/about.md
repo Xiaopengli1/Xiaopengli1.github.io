@@ -19,45 +19,55 @@ Contact: xiaopli2-c@my.cityu.edu.hk
 
 ## Selected Publications
 
-**TAPO: Task-Referenced Adaptation for Prompt Optimization**\
-Wenxin Luo\*, Weirui Wang\*, **<ins>Xiaopeng Li</ins>**\*, Weibo Zhou, Pengyue Jia, Xiangyu Zhao\
-ICASSP'2025. [[link]]()
+_"\*" denotes equal contribution._
 
-**Bridging Relevance and Reasoning: Rationale Distillation in Retrieval-Augmented Generation**\
-Pengyue Jia\*, Derong Xu\*, **<ins>Xiaopeng Li</ins>**\*, Zhaocheng Du, Xiangyang Li, Xiangyu Zhao, Yichao Wang, Yuhao Wang, Huifeng Guo, Ruiming Tang\
-Arxiv. [[link]](https://arxiv.org/pdf/2412.08519)
+### Conference & Journal Papers
 
-**G3: An Effective and Adaptive Framework for Worldwide Geolocalization Using Large Multi-Modality Models**\
-Pengyue Jia, Yiding Liu, **<ins>Xiaopeng Li</ins>**, Xiangyu Zhao, Yuhao Wang, Yantong Du, Xiao Han, Xuetao Wei, Shuaiqiang Wang, Dawei Yin\
-NeurIPS'2024. [[link]](https://arxiv.org/pdf/2405.14702)
+* **TAPO: Task-Referenced Adaptation for Prompt Optimization**
+  * Wenxin Luo\*, Weirui Wang\*, **<ins>Xiaopeng Li</ins>**\*, Weibo Zhou, Pengyue Jia, Xiangyu Zhao
+  * ICASSP'2025. [[link]]()
 
-**SyNeg: LLM-Driven Synthetic Hard-Negatives for Dense Retrieval**\
-**<ins>Xiaopeng Li</ins>**, Xiangyang Li, Hao Zhang, Zhaocheng Du, Yichao Wang, Pengyue Jia, Xiangyu Zhao, Huifeng Guo, Ruiming Tang\
-Arxiv. [[link]]()
+* **Bridging Relevance and Reasoning: Rationale Distillation in Retrieval-Augmented Generation**
+  * Pengyue Jia\*, Derong Xu\*, **<ins>Xiaopeng Li</ins>**\*, Zhaocheng Du, Xiangyang Li, Xiangyu Zhao, Yichao Wang, Yuhao Wang, Huifeng Guo, Ruiming Tang
+  * Arxiv. [[link]](https://arxiv.org/pdf/2412.08519)
 
-**Scenario-Wise Rec: A Multi-Scenario Recommendation Benchmark**\
-**<ins>Xiaopeng Li</ins>**\*, Jingtong Gao\*, Pengyue Jia, Xiangyu Zhao, Yichao Wang, Wanyu Wang, Yuhao Wang, Yejing Wang, Huifeng Guo, Ruiming Tang\
-Arxiv. [[link]](https://github.com/Xiaopengli1/Scenario-Wise-Rec)
+* **G3: An Effective and Adaptive Framework for Worldwide Geolocalization Using Large Multi-Modality Models**
+  * Pengyue Jia, Yiding Liu, **<ins>Xiaopeng Li</ins>**, Xiangyu Zhao, Yuhao Wang, Yantong Du, Xiao Han, Xuetao Wei, Shuaiqiang Wang, Dawei Yin
+  * NeurIPS'2024. [[link]](https://arxiv.org/pdf/2405.14702)
 
-**HierRec: Scenario-Aware Hierarchical Modeling for Multi-scenario Recommendations** \
-Jingtong Gao, Bo Chen, Menghui Zhu, Xiangyu Zhao, **<ins>Xiaopeng Li</ins>**, Yuhao Wang, Yichao Wang, Huifeng Guo, Ruiming Tang\
-CIKM'2024. [[link]](https://arxiv.org/abs/2309.02061)
+* **SyNeg: LLM-Driven Synthetic Hard-Negatives for Dense Retrieval**
+  * **<ins>Xiaopeng Li</ins>**, Xiangyang Li, Hao Zhang, Zhaocheng Du, Yichao Wang, Pengyue Jia, Xiangyu Zhao, Huifeng Guo, Ruiming Tang
+  * Arxiv. [[link]]()
 
-**D3: A Methodological Exploration of Domain Division, Modeling, and Balance in Multi-Domain Recommendations** \
-Pengyue Jia, Yichao Wang, Xiangyu Zhao, **<ins>Xiaopeng Li</ins>**, Huifeng Guo, Ruiming Tang\
-AAAI'2024. [[link]](https://ojs.aaai.org/index.php/AAAI/article/view/28699)
+* **Scenario-Wise Rec: A Multi-Scenario Recommendation Benchmark**
+  * **<ins>Xiaopeng Li</ins>**\*, Jingtong Gao\*, Pengyue Jia, Xiangyu Zhao, Yichao Wang, Wanyu Wang, Yuhao Wang, Yejing Wang, Huifeng Guo, Ruiming Tang
+  * Arxiv. [[link]](https://github.com/Xiaopengli1/Scenario-Wise-Rec)
 
-**MILL: Mutual Verification with Large Language Models for Zero-Shot Query Expansion** \
-Pengyue Jia, Yiding Liu, Xiangyu Zhao, **<ins>Xiaopeng Li</ins>**, Changying Hao, Shuaiqiang Wang, Dawei Yin \
-NAACL'2024. [[link]](https://aclanthology.org/2024.naacl-long.138.pdf)
+* **HierRec: Scenario-Aware Hierarchical Modeling for Multi-scenario Recommendations**
+  * Jingtong Gao, Bo Chen, Menghui Zhu, Xiangyu Zhao, **<ins>Xiaopeng Li</ins>**, Yuhao Wang, Yichao Wang, Huifeng Guo, Ruiming Tang
+  * CIKM'2024. [[link]](https://arxiv.org/abs/2309.02061)
 
-**Agent4Ranking: Semantic Robust Ranking via Personalized Query Rewriting Using Multi-agent LLM** \
-**<ins>Xiaopeng Li</ins>**, Lixin Su, Pengyue Jia, Xiangyu Zhao, Suqi Cheng, Junfeng Wang, Dawei Yin \
-Arxiv. [[link]](https://arxiv.org/abs/2312.15450) 
+* **D3: A Methodological Exploration of Domain Division, Modeling, and Balance in Multi-Domain Recommendations** 
+  * Pengyue Jia, Yichao Wang, Xiangyu Zhao, **<ins>Xiaopeng Li</ins>**, Huifeng Guo, Ruiming Tang
+  * AAAI'2024. [[link]](https://ojs.aaai.org/index.php/AAAI/article/view/28699)
 
-**HAMUR: Hyper Adapter for Multi-Domain Recommendation** \
-**<ins>Xiaopeng Li</ins>**, Fan Yan, Xiangyu Zhao, Yichao Wang, Bo Chen, Huifeng Guo, Ruiming Tang \
-CIKM'2023. [[link]](https://dl.acm.org/doi/abs/10.1145/3583780.3615137)
+* **MILL: Mutual Verification with Large Language Models for Zero-Shot Query Expansion**
+  * Pengyue Jia, Yiding Liu, Xiangyu Zhao, **<ins>Xiaopeng Li</ins>**, Changying Hao, Shuaiqiang Wang, Dawei Yin
+  * NAACL'2024. [[link]](https://aclanthology.org/2024.naacl-long.138.pdf)
+
+* **Agent4Ranking: Semantic Robust Ranking via Personalized Query Rewriting Using Multi-agent LLM**
+  * **<ins>Xiaopeng Li</ins>**, Lixin Su, Pengyue Jia, Xiangyu Zhao, Suqi Cheng, Junfeng Wang, Dawei Yin
+  * Arxiv. [[link]](https://arxiv.org/abs/2312.15450) 
+
+* **HAMUR: Hyper Adapter for Multi-Domain Recommendation**
+  * **<ins>Xiaopeng Li</ins>**, Fan Yan, Xiangyu Zhao, Yichao Wang, Bo Chen, Huifeng Guo, Ruiming Tang
+  * CIKM'2023. [[link]](https://dl.acm.org/doi/abs/10.1145/3583780.3615137)
+
+### Tutorials
+
+* **Joint Modeling in Deep Recommender Systems**
+  * Pengyue Jia, Jingtong Gao, Yuhao Wang, **<ins>Xiaopeng Li</ins>**, Qidong Liu, Yichao Wang, Bo Chen, Huifeng Guo, Ruiming Tang
+  * WWW'2025.
 
 
 <!-- **Geo-distributed Collaborative Clustering Method for Load Characteristic Analysis** \ -->
