@@ -124,7 +124,7 @@ IJCAI'2023, WWW'2023
 [2024.09] One paper is accepted in NeurIPS'2024.\
 [2024.08] Serve as the reviewer in ICASSP'2025.\
 [2024.08] Serve as the PC member in KDD'2025.\
-[2024.07] Our team AML_Lab@CityU won [KDD CUP'2024](https://discourse.aicrowd.com/t/announcing-the-winners-of-amazon-kdd-cup-2024/10758) at 2nd place (2/502).\
+[2024.07] Our team AML_Lab@CityU won [KDD CUP'2024](https://discourse.aicrowd.com/t/announcing-the-winners-of-amazon-kdd-cup-2024/10758) at 2nd place (2/502), earning a prize of $8,750. A heartfelt thanks to all my teammates for working together.\
 [2024.07] One paper is accepted by CIKM'2024.\
 [2024.05] Accepted as reviewer of ACM Transactions on Intelligent Systems and Technology (ACM TIST).\
 [2024.04] Accepted as reviewer of IEEE/ACM Transactions on Audio, Speech and Language Processing (IEEE/ACM TASLP).\
