@@ -12,23 +12,32 @@ redirect_from:
 
 I am **Xiaopeng Li**, currently a Ph.D. student at the City University of Hong Kong, supervised by [Prof.Xiangyu Zhao](https://zhaoxyai.github.io/) in [AML Lab](https://aml-cityu.github.io/). Before that, I received M.S. and B.Eng degrees from Xi'an Jiaotong University in 2022 and 2019.  
 
-I am broadly interested in Data Mining and Machine Learning. My current research focuses on **1) LLMs for Information Retrieval, 2) LLMs for Recommender System**.
+I am broadly interested in Data Mining and Machine Learning. My current research focuses on: \
+**1) LLMs for Information Retrieval, 2) LLMs for Recommender System**.
 
 Contact: xiaopli2-c@my.cityu.edu.hk
 
 # Selected Publications
 
+**TAPO: Task-Referenced Adaptation for Prompt Optimization**\
+Wenxin Luo\*, Weirui Wang\*, **<ins>Xiaopeng Li</ins>**\*, Weibo Zhou, Pengyue Jia, Xiangyu Zhao\
+ICASSP'2025. [[link]]()
+
+**Bridging Relevance and Reasoning: Rationale Distillation in Retrieval-Augmented Generation**\
+Pengyue Jia\*, Derong Xu\*, **<ins>Xiaopeng Li</ins>**\*, Zhaocheng Du, Xiangyang Li, Xiangyu Zhao, Yichao Wang, Yuhao Wang, Huifeng Guo, Ruiming Tang\
+Arxiv. [[link]](https://arxiv.org/pdf/2412.08519)
+
 **G3: An Effective and Adaptive Framework for Worldwide Geolocalization Using Large Multi-Modality Models**\
 Pengyue Jia, Yiding Liu, **<ins>Xiaopeng Li</ins>**, Xiangyu Zhao, Yuhao Wang, Yantong Du, Xiao Han, Xuetao Wei, Shuaiqiang Wang, Dawei Yin\
-NeurIPS'2024.
+NeurIPS'2024. [[link]](https://arxiv.org/pdf/2405.14702)
 
 **SyNeg: LLM-Driven Synthetic Hard-Negatives for Dense Retrieval**\
 **<ins>Xiaopeng Li</ins>**, Xiangyang Li, Hao Zhang, Zhaocheng Du, Yichao Wang, Pengyue Jia, Xiangyu Zhao, Huifeng Guo, Ruiming Tang\
-Under Review.
+Arxiv. [[link]]()
 
 **Scenario-Wise Rec: A Multi-Scenario Recommendation Benchmark**\
 **<ins>Xiaopeng Li</ins>**\*, Jingtong Gao\*, Pengyue Jia, Xiangyu Zhao, Yichao Wang, Wanyu Wang, Yuhao Wang, Yejing Wang, Huifeng Guo, Ruiming Tang\
-Under Review. [[link]](https://github.com/Xiaopengli1/Scenario-Wise-Rec)
+Arxiv. [[link]](https://github.com/Xiaopengli1/Scenario-Wise-Rec)
 
 **HierRec: Scenario-Aware Hierarchical Modeling for Multi-scenario Recommendations** \
 Jingtong Gao, Bo Chen, Menghui Zhu, Xiangyu Zhao, **<ins>Xiaopeng Li</ins>**, Yuhao Wang, Yichao Wang, Huifeng Guo, Ruiming Tang\
@@ -44,7 +53,7 @@ NAACL'2024. [[link]](https://aclanthology.org/2024.naacl-long.138.pdf)
 
 **Agent4Ranking: Semantic Robust Ranking via Personalized Query Rewriting Using Multi-agent LLM** \
 **<ins>Xiaopeng Li</ins>**, Lixin Su, Pengyue Jia, Xiangyu Zhao, Suqi Cheng, Junfeng Wang, Dawei Yin \
-Arxiv'2023. [[link]](https://arxiv.org/abs/2312.15450) 
+Arxiv. [[link]](https://arxiv.org/abs/2312.15450) 
 
 **HAMUR: Hyper Adapter for Multi-Domain Recommendation** \
 **<ins>Xiaopeng Li</ins>**, Fan Yan, Xiangyu Zhao, Yichao Wang, Bo Chen, Huifeng Guo, Ruiming Tang \
@@ -66,6 +75,11 @@ Research Intern - Huawei, Noah's Ark Lab\
 Research Intern - Alibaba, Alibaba Cloud\
 SDE Intern - Huawei, Huawei Cloud
 
+# Teaching Experience
+
+SDSC2005 - Introduction to Computational Scocial Science, TA\
+SDSC3006 - Fundamentals of Machine Learning, TA\
+
 # Service
 
 **Journal Reviewer**:\
@@ -73,7 +87,7 @@ ACM TIST, ACM TKDD, ACM TOIS, IEEE/ACM TASLP, ESWA
 
 **Conference PC Member/Reviewer**:\
 2024: AAAI, IJCAI, KDD, CIKM, MM, ACL Rolling Reviewer\
-2025: KDD, ICASSP, ICLR
+2025: KDD, IJCNN
 
 **Conference Volunteer**:\
 IJCAI'2023, WWW'2023
@@ -85,17 +99,17 @@ IJCAI'2023, WWW'2023
 * Outstanding Undergraduate Graduates, Xi'an Jiaotong University (2019)
 
 # News
-[2024.09] Serve as the reviewer in ICLR'2025.\
+[2024.12] One paper is accepted by ICASSP'2025. It's also the first time I've indepently coached master students to publish paper at a top conference. Congratulations to Wenxin and Weirui.\
+[2024.12] Our tutorial proposal "Joint Modeling in Deep Recommender Systems" is accepted by WWW'2025.\
 [2024.09] One paper is accepted in NeurIPS'2024.\
-[2024.08] Serve as the reviewer in ICASSP'2025.\
 [2024.08] Serve as the PC member in KDD'2025.\
 [2024.07] Our team AML_Lab@CityU won [KDD CUP'2024](https://discourse.aicrowd.com/t/announcing-the-winners-of-amazon-kdd-cup-2024/10758) at 2nd place (2/502).\
-[2024.07] One paper accepted by CIKM'2024.\
+[2024.07] One paper is accepted by CIKM'2024.\
 [2024.05] Accepted as reviewer of ACM Transactions on Intelligent Systems and Technology (ACM TIST).\
 [2024.04] Accepted as reviewer of IEEE/ACM Transactions on Audio, Speech and Language Processing (IEEE/ACM TASLP).\
 [2024.04] Serve as the PC member in MM'2024.\
 [2024.03] Serve as the PC member in CIKM'2024.\
-[2024.03] One paper accepted by NAACL'2024.\
+[2024.03] One paper is accepted by NAACL'2024.\
 [2024.02] Serve as the PC member in KDD'2024.\
 [2024.02] Accepted as reviewer of ACM Transactions on Information Systems (ACM TOIS).\
 [2023.12] Serve as the PC member in IJCAI'2024.\
