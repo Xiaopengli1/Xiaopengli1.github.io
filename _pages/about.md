@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 <!-- ## About Me -->
+## Introduction
 
 I am **Xiaopeng Li**, currently a Ph.D. student at the City University of Hong Kong, supervised by [Prof. Xiangyu Zhao](https://zhaoxyai.github.io/) in [AML Lab](https://aml-cityu.github.io/). Before that, I received M.S. and B.Eng degrees from Xi'an Jiaotong University in 2022 and 2019.  
 
@@ -17,7 +18,7 @@ I am broadly interested in Data Mining and Machine Learning. My current research
 
 Contact: xiaopli2-c@my.cityu.edu.hk
 
-# Selected Publications
+## Selected Publications
 
 **TAPO: Task-Referenced Adaptation for Prompt Optimization**\
 Wenxin Luo\*, Weirui Wang\*, **<ins>Xiaopeng Li</ins>**\*, Weibo Zhou, Pengyue Jia, Xiangyu Zhao\
@@ -68,19 +69,19 @@ CIKM'2023. [[link]](https://dl.acm.org/doi/abs/10.1145/3583780.3615137)
 <!-- **<ins>Xiaopeng Li</ins>**, Jiang Wu, Zhanbo Xu, Kun Liu, Xiaohong Guan \ -->
 <!-- CASE'2021. [[link]](https://ieeexplore.ieee.org/document/9551610) -->
 
-# Work Experience
+## Work Experience
 
 Research Intern - Baidu, Search Science Team\
 Research Intern - Huawei, Noah's Ark Lab\
 Research Intern - Alibaba, Alibaba Cloud\
 SDE Intern - Huawei, Huawei Cloud
 
-# Teaching Experience
+## Teaching Experience
 
 SDSC2005 - Introduction to Computational Scocial Science, TA\
 SDSC3006 - Fundamentals of Machine Learning, TA\
 
-# Service
+## Service
 
 **Journal Reviewer**:\
 ACM TIST, ACM TKDD, ACM TOIS, IEEE/ACM TASLP, ESWA
@@ -92,13 +93,13 @@ ACM TIST, ACM TKDD, ACM TOIS, IEEE/ACM TASLP, ESWA
 **Conference Volunteer**:\
 IJCAI'2023, WWW'2023
 
-# Awards
+## Awards
 
 * 2nd place in [Amazon KDD Cup 2024: Multi-Task Online Shopping Challenge for LLMs](https://discourse.aicrowd.com/t/announcing-the-winners-of-amazon-kdd-cup-2024/10758) (2/502), all five tracks ranked in the top three, **Best Student team** in Track 1 and Track 5.
 * Excellent Postgraduate Student, Xi'an Jiaotong University (2021) 
 * Outstanding Undergraduate Graduates, Xi'an Jiaotong University (2019)
 
-# News
+## News
 [2024.12] One paper is accepted by ICASSP'2025. It's also the first time I've indepently coached master students to publish paper at a top conference. Congratulations to Wenxin and Weirui.\
 [2024.12] Our tutorial proposal "Joint Modeling in Deep Recommender Systems" is accepted by WWW'2025.\
 [2024.09] One paper is accepted in NeurIPS'2024.\
