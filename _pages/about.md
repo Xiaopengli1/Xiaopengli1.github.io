@@ -23,7 +23,8 @@ I am broadly interested in Data Mining and Machine Learning. My current research
     * Papers - [TAPO](), [G3](https://arxiv.org/pdf/2405.14702)
 4. **Personalized RAG**
 
-If you are interested in my work or are seeking collaborations, feel free to contact xiaopli2-c@my.cityu.edu.hk.
+If you are interested in my work or are seeking collaborations, feel free to contact me!\
+Email: xiaopli2-c@my.cityu.edu.hk.
 
 ## Selected Publications
 
