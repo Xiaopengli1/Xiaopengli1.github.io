@@ -19,7 +19,7 @@ I am broadly interested in Data Mining and Machine Learning. My current research
     * Tutorial - [Joint Modeling in Deep Recommender Systems]() (WWW'2025)
 2. **LLMs for Information Retrieval**
     * Papers - [Agent4Ranking](https://arxiv.org/abs/2312.15450), [Syneg](), [MILL](https://aclanthology.org/2024.naacl-long.138.pdf)
-3. **LLMs Reasoning & Multi-modal LLMs**
+3. **LLMs Reasoning & Multi-Modal LLMs**
     * Papers - [TAPO](), [G3](https://arxiv.org/pdf/2405.14702)
 4. **Personalized RAG**
 
