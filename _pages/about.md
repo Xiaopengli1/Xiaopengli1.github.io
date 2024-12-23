@@ -122,4 +122,4 @@ IJCAI'2023, WWW'2023
 [2023.03] Serve as volunteer of WWW'2023.\
 [2023.01] Start my Ph.D. at CityU HK.
 
-Last update - 2024.Dec.22
+Last update - 2024.12.22
