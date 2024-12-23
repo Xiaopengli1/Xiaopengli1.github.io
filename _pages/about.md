@@ -87,8 +87,8 @@ SDE Intern - Huawei, Huawei Cloud
 
 ## Teaching Experience
 
-2023~2024 Semester B - Introduction to Computational Scocial Science, TA\
-2024~2025 Semester A - Fundamentals of Machine Learning, TA
+2024\~2025 Semester A - Fundamentals of Machine Learning, TA\
+2023\~2024 Semester B - Introduction to Computational Scocial Science, TA
 
 ## Service
 
