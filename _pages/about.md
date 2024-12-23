@@ -14,15 +14,14 @@ I am **Xiaopeng Li**, currently a 2nd-year Ph.D. student at City University of H
 
 I am broadly interested in Data Mining and Machine Learning. My current research interests and outputs are summarized in several topics:
 1. **Multi-Domain Recommendation**
-    * [HAMUR](https://dl.acm.org/doi/abs/10.1145/3583780.3615137), [D3](https://ojs.aaai.org/index.php/AAAI/article/view/28699), [HierRec](https://arxiv.org/abs/2309.02061)
+    * Papers - [HAMUR](https://dl.acm.org/doi/abs/10.1145/3583780.3615137), [D3](https://ojs.aaai.org/index.php/AAAI/article/view/28699), [HierRec](https://arxiv.org/abs/2309.02061)
     * Benchmark - [Scenario-Wise Rec](https://github.com/Xiaopengli1/Scenario-Wise-Rec)
     * Tutorial - [Joint Modeling in Deep Recommender Systems]() (WWW'2025)
 2. **LLMs for Information Retrieval**
-    * [Agent4Ranking](https://arxiv.org/abs/2312.15450), [Syneg](), [MILL](https://aclanthology.org/2024.naacl-long.138.pdf)
+    * Papers - [Agent4Ranking](https://arxiv.org/abs/2312.15450), [Syneg](), [MILL](https://aclanthology.org/2024.naacl-long.138.pdf)
 3. **LLMs Reasoning & Multi-modal LLMs**
-    * [TAPO](), [G3](https://arxiv.org/pdf/2405.14702)
+    * Papers - [TAPO](), [G3](https://arxiv.org/pdf/2405.14702)
 4. **Personalized RAG**
-
 
 If you are interested in my work or are seeking collaborations, feel free to contact xiaopli2-c@my.cityu.edu.hk.
 
