@@ -15,7 +15,7 @@ I am **Xiaopeng Li**, currently a 2nd-year Ph.D. student at City University of H
 I am broadly interested in Data Mining and Machine Learning. My current research interests and outputs are summarized in several topics:
 1. **Multi-Domain Recommendation**
     * Papers - [HAMUR](https://dl.acm.org/doi/abs/10.1145/3583780.3615137), [D3](https://ojs.aaai.org/index.php/AAAI/article/view/28699), [HierRec](https://arxiv.org/abs/2309.02061)
-    * Benchmark - [Scenario-Wise Rec](https://github.com/Xiaopengli1/Scenario-Wise-Rec)
+    * Benchmark - [Scenario-Wise Rec](https://arxiv.org/abs/2412.17374)
     * Tutorial - [Joint Modeling in Deep Recommender Systems]() (WWW'2025)
 2. **LLMs for Information Retrieval**
     * Papers - [Agent4Ranking](https://arxiv.org/abs/2312.15450), [Syneg](), [MILL](https://aclanthology.org/2024.naacl-long.138.pdf)
@@ -46,11 +46,11 @@ _"\*" denotes equal contribution._
 
 * **SyNeg: LLM-Driven Synthetic Hard-Negatives for Dense Retrieval**
   * **<ins>Xiaopeng Li</ins>**, Xiangyang Li, Hao Zhang, Zhaocheng Du, Yichao Wang, Pengyue Jia, Xiangyu Zhao, Huifeng Guo, Ruiming Tang
-  * Arxiv. [[link]]()
+  * Arxiv. [[link]](https://arxiv.org/abs/2412.17250)
 
 * **Scenario-Wise Rec: A Multi-Scenario Recommendation Benchmark**
   * **<ins>Xiaopeng Li</ins>**\*, Jingtong Gao\*, Pengyue Jia, Xiangyu Zhao, Yichao Wang, Wanyu Wang, Yuhao Wang, Yejing Wang, Huifeng Guo, Ruiming Tang
-  * Arxiv. [[link]](https://github.com/Xiaopengli1/Scenario-Wise-Rec)
+  * Arxiv. [[link]](https://arxiv.org/abs/2412.17374)
 
 * **HierRec: Scenario-Aware Hierarchical Modeling for Multi-scenario Recommendations**
   * Jingtong Gao, Bo Chen, Menghui Zhu, Xiangyu Zhao, **<ins>Xiaopeng Li</ins>**, Yuhao Wang, Yichao Wang, Huifeng Guo, Ruiming Tang
@@ -96,6 +96,7 @@ SDE Intern - Huawei, Huawei Cloud
 
 ## Teaching Experience
 
+2024\~2025 Semester B - Introduction to Computational Scocial Science, TA\
 2024\~2025 Semester A - Fundamentals of Machine Learning, TA\
 2023\~2024 Semester B - Introduction to Computational Scocial Science, TA
 
@@ -113,7 +114,7 @@ IJCAI'2023, WWW'2023
 
 ## Awards
 
-* 2nd place in [Amazon KDD Cup 2024: Multi-Task Online Shopping Challenge for LLMs](https://discourse.aicrowd.com/t/announcing-the-winners-of-amazon-kdd-cup-2024/10758) (2/502), all five tracks ranked in the top three, **Best Student team** in Track 1 and Track 5.
+* 2nd place in [Amazon KDD Cup 2024: Multi-Task Online Shopping Challenge for LLMs](https://discourse.aicrowd.com/t/announcing-the-winners-of-amazon-kdd-cup-2024/10758) (2/502), all five tracks ranked in the top 3, **Best Student team** in Track 1 and Track 5.
 * Excellent Postgraduate Student, Xi'an Jiaotong University (2021) 
 * Outstanding Undergraduate Graduates, Xi'an Jiaotong University (2019)
 
