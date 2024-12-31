@@ -119,6 +119,7 @@ IJCAI'2023, WWW'2023
 * Outstanding Undergraduate Graduates, Xi'an Jiaotong University (2019)
 
 ## News
+[2024.08] Serve as the PC member in IJCAI'2025.\
 [2024.12] One paper is accepted by ICASSP'2025. It's also the first time I've coached master students to publish a paper at a top conference. Congratulations to Wenxin and Weirui.\
 [2024.12] Our tutorial proposal "Joint Modeling in Deep Recommender Systems" is accepted by WWW'2025.\
 [2024.09] Serve as the reviewer in ICLR'2025.\
