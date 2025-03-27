@@ -18,9 +18,9 @@ I am broadly interested in Data Mining and Machine Learning. My current research
     * Benchmark - [Scenario-Wise Rec](https://arxiv.org/abs/2412.17374)
     * Tutorial - [Joint Modeling in Deep Recommender Systems]() (WWW'2025)
 2. **LLMs for Information Retrieval**
-    * Papers - [Agent4Ranking](https://arxiv.org/abs/2312.15450), [Syneg](), [MILL](https://aclanthology.org/2024.naacl-long.138.pdf)
+    * Papers - [Agent4Ranking](https://arxiv.org/abs/2312.15450), [Syneg](https://arxiv.org/abs/2412.17250), [MILL](https://aclanthology.org/2024.naacl-long.138.pdf)
 3. **LLMs Reasoning & Multi-Modal LLMs**
-    * Papers - [TAPO](), [G3](https://arxiv.org/pdf/2405.14702)
+    * Papers - [TAPO](https://arxiv.org/abs/2501.06689), [G3](https://arxiv.org/pdf/2405.14702)
 4. **Personalized RAG**
 
 If you are interested in my work or are seeking collaborations, feel free to contact me!\
@@ -30,28 +30,42 @@ Email: xiaopli2-c@my.cityu.edu.hk.
 
 _"\*" denotes equal contribution._
 
-### Conference & Journal Papers
-
-* **TAPO: Task-Referenced Adaptation for Prompt Optimization**
-  * Wenxin Luo\*, Weirui Wang\*, **<ins>Xiaopeng Li</ins>**\*, Weibo Zhou, Pengyue Jia, Xiangyu Zhao
-  * ICASSP'2025. [[link]]()
-
-* **Bridging Relevance and Reasoning: Rationale Distillation in Retrieval-Augmented Generation**
-  * Pengyue Jia\*, Derong Xu\*, **<ins>Xiaopeng Li</ins>**\*, Zhaocheng Du, Xiangyang Li, Xiangyu Zhao, Yichao Wang, Yuhao Wang, Huifeng Guo, Ruiming Tang
-  * Arxiv. [[link]](https://arxiv.org/pdf/2412.08519)
-
-* **G3: An Effective and Adaptive Framework for Worldwide Geolocalization Using Large Multi-Modality Models**
-  * Pengyue Jia, Yiding Liu, **<ins>Xiaopeng Li</ins>**, Xiangyu Zhao, Yuhao Wang, Yantong Du, Xiao Han, Xuetao Wei, Shuaiqiang Wang, Dawei Yin
-  * NeurIPS'2024. [[link]](https://arxiv.org/pdf/2405.14702)
+### Pre-print
 
 * **SyNeg: LLM-Driven Synthetic Hard-Negatives for Dense Retrieval**
   * **<ins>Xiaopeng Li</ins>**, Xiangyang Li, Hao Zhang, Zhaocheng Du, Yichao Wang, Pengyue Jia, Xiangyu Zhao, Huifeng Guo, Ruiming Tang
   * Arxiv. [[link]](https://arxiv.org/abs/2412.17250)
-
+ 
 * **Scenario-Wise Rec: A Multi-Scenario Recommendation Benchmark**
   * **<ins>Xiaopeng Li</ins>**\*, Jingtong Gao\*, Pengyue Jia, Xiangyu Zhao, Yichao Wang, Wanyu Wang, Yuhao Wang, Yejing Wang, Huifeng Guo, Ruiming Tang
   * Arxiv. [[link]](https://arxiv.org/abs/2412.17374)
 
+* **Agent4Ranking: Semantic Robust Ranking via Personalized Query Rewriting Using Multi-agent LLM**
+  * **<ins>Xiaopeng Li</ins>**, Lixin Su, Pengyue Jia, Xiangyu Zhao, Suqi Cheng, Junfeng Wang, Dawei Yin
+  * Arxiv. [[link]](https://arxiv.org/abs/2312.15450) 
+
+* **Joint Modeling in Recommendations: A Survey**
+  * Xiangyu Zhao, Yichao Wang, Bo Chen, Jingtong Gao, Yuhao Wang, **<ins>Xiaopeng Li</ins>**, Pengyue Jia, Qidong Liu, Huifeng Guo, Ruiming Tang
+  * Arxiv. [[link]](https://arxiv.org/abs/2502.21195)
+
+### Conference & Journal Papers
+
+* **HAMUR: Hyper Adapter for Multi-Domain Recommendation**
+  * **<ins>Xiaopeng Li</ins>**, Fan Yan, Xiangyu Zhao, Yichao Wang, Bo Chen, Huifeng Guo, Ruiming Tang
+  * CIKM'2023. [[link]](https://dl.acm.org/doi/abs/10.1145/3583780.3615137)
+
+* **TAPO: Task-Referenced Adaptation for Prompt Optimization**
+  * Wenxin Luo\*, Weirui Wang\*, **<ins>Xiaopeng Li</ins>**\*, Weibo Zhou, Pengyue Jia, Xiangyu Zhao
+  * ICASSP'2025. [[link]](https://arxiv.org/abs/2501.06689)
+
+* **SampleLLM: Optimizing Tabular Data Synthesis in Recommendations**
+  * Jingtong Gao, Zhaocheng Du, **<ins>Xiaopeng Li</ins>**, Yichao Wang, Xiangyang Li, Huifeng Guo, Ruiming Tang, Xiangyu Zhao
+  * WWW'2025. [[link]](https://arxiv.org/abs/2501.16125)
+
+* **G3: An Effective and Adaptive Framework for Worldwide Geolocalization Using Large Multi-Modality Models**
+  * Pengyue Jia, Yiding Liu, **<ins>Xiaopeng Li</ins>**, Xiangyu Zhao, Yuhao Wang, Yantong Du, Xiao Han, Xuetao Wei, Shuaiqiang Wang, Dawei Yin
+  * NeurIPS'2024. [[link]](https://arxiv.org/pdf/2405.14702)
+ 
 * **HierRec: Scenario-Aware Hierarchical Modeling for Multi-scenario Recommendations**
   * Jingtong Gao, Bo Chen, Menghui Zhu, Xiangyu Zhao, **<ins>Xiaopeng Li</ins>**, Yuhao Wang, Yichao Wang, Huifeng Guo, Ruiming Tang
   * CIKM'2024. [[link]](https://arxiv.org/abs/2309.02061)
@@ -64,20 +78,15 @@ _"\*" denotes equal contribution._
   * Pengyue Jia, Yiding Liu, Xiangyu Zhao, **<ins>Xiaopeng Li</ins>**, Changying Hao, Shuaiqiang Wang, Dawei Yin
   * NAACL'2024. [[link]](https://aclanthology.org/2024.naacl-long.138.pdf)
 
-* **Agent4Ranking: Semantic Robust Ranking via Personalized Query Rewriting Using Multi-agent LLM**
-  * **<ins>Xiaopeng Li</ins>**, Lixin Su, Pengyue Jia, Xiangyu Zhao, Suqi Cheng, Junfeng Wang, Dawei Yin
-  * Arxiv. [[link]](https://arxiv.org/abs/2312.15450) 
+* **Bridging Relevance and Reasoning: Rationale Distillation in Retrieval-Augmented Generation**
+  * Pengyue Jia\*, Derong Xu\*, **<ins>Xiaopeng Li</ins>**\*, Zhaocheng Du, Xiangyang Li, Xiangyu Zhao, Yichao Wang, Yuhao Wang, Huifeng Guo, Ruiming Tang
+  * Arxiv. [[link]](https://arxiv.org/pdf/2412.08519)
 
-* **HAMUR: Hyper Adapter for Multi-Domain Recommendation**
-  * **<ins>Xiaopeng Li</ins>**, Fan Yan, Xiangyu Zhao, Yichao Wang, Bo Chen, Huifeng Guo, Ruiming Tang
-  * CIKM'2023. [[link]](https://dl.acm.org/doi/abs/10.1145/3583780.3615137)
 
 ### Tutorials
 
 * **Joint Modeling in Deep Recommender Systems**
-  * Pengyue Jia, Jingtong Gao, Yuhao Wang, **<ins>Xiaopeng Li</ins>**, Qidong Liu, Yichao Wang, Bo Chen, Huifeng Guo, Ruiming Tang
-  * WWW'2025.
-
+  * WWW'2025. [[link]](https://applied-machine-learning-lab.github.io/Joint-Modeling-in-Deep-Recommender-Systems-WWW2025/)
 
 <!-- **Geo-distributed Collaborative Clustering Method for Load Characteristic Analysis** \ -->
 <!-- Jiacheng Liu, Jiang Wu, Pengyuan Liu, Zhanbo Xu, **<ins>Xiaopeng Li</ins>**, Xiaogong Guan \ -->
@@ -107,7 +116,7 @@ ACM TIST, ACM TKDD, ACM TOIS, IEEE/ACM TASLP, ESWA
 
 **Conference PC Member/Reviewer**:\
 2024: AAAI, IJCAI, KDD, CIKM, MM, ACL Rolling Reviewer\
-2025: KDD, ICLR, ICASSP, IJCNN, IJCAI, WWW
+2025: KDD, ICLR, ICASSP, IJCNN, IJCAI, WWW, MM, RecSys, CIKM
 
 **Conference Volunteer**:\
 IJCAI'2023, WWW'2023
@@ -119,9 +128,10 @@ IJCAI'2023, WWW'2023
 * Outstanding Undergraduate Graduates, Xi'an Jiaotong University (2019)
 
 ## News
-[2024.12] Serve as the PC member in WWW'2025.\
-[2024.12] Serve as the PC member in IJCAI'2025.\
-[2024.12] One paper is accepted by ICASSP'2025. It's also the first time I've coached master students to publish a paper at a top conference. Congratulations to Wenxin and Weirui.\
+[2025.03] Serve as the PC member in RecSys'2025, CIKM'2025, MM'2025.
+[2025.01] One paper is accepted by WWW'2025.
+[2024.12] Serve as the PC member in IJCAI'2025, WWW'2025.\
+[2024.12] One paper is accepted by ICASSP'2025.\
 [2024.12] Our tutorial proposal "Joint Modeling in Deep Recommender Systems" is accepted by WWW'2025.\
 [2024.09] Serve as the reviewer in ICLR'2025.\
 [2024.09] One paper is accepted in NeurIPS'2024.\
@@ -148,4 +158,4 @@ IJCAI'2023, WWW'2023
 
 
 
-_Website last updated on 23rd December 2024._
+_Website last updated on 27rd March 2025._
