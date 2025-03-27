@@ -48,6 +48,10 @@ _"\*" denotes equal contribution._
   * Xiangyu Zhao, Yichao Wang, Bo Chen, Jingtong Gao, Yuhao Wang, **<ins>Xiaopeng Li</ins>**, Pengyue Jia, Qidong Liu, Huifeng Guo, Ruiming Tang
   * Arxiv. [[link]](https://arxiv.org/abs/2502.21195)
 
+* **Bridging Relevance and Reasoning: Rationale Distillation in Retrieval-Augmented Generation**
+  * Pengyue Jia\*, Derong Xu\*, **<ins>Xiaopeng Li</ins>**\*, Zhaocheng Du, Xiangyang Li, Xiangyu Zhao, Yichao Wang, Yuhao Wang, Huifeng Guo, Ruiming Tang
+  * Arxiv. [[link]](https://arxiv.org/pdf/2412.08519)
+
 ### Conference & Journal Papers
 
 * **HAMUR: Hyper Adapter for Multi-Domain Recommendation**
@@ -77,10 +81,6 @@ _"\*" denotes equal contribution._
 * **MILL: Mutual Verification with Large Language Models for Zero-Shot Query Expansion**
   * Pengyue Jia, Yiding Liu, Xiangyu Zhao, **<ins>Xiaopeng Li</ins>**, Changying Hao, Shuaiqiang Wang, Dawei Yin
   * NAACL'2024. [[link]](https://aclanthology.org/2024.naacl-long.138.pdf)
-
-* **Bridging Relevance and Reasoning: Rationale Distillation in Retrieval-Augmented Generation**
-  * Pengyue Jia\*, Derong Xu\*, **<ins>Xiaopeng Li</ins>**\*, Zhaocheng Du, Xiangyang Li, Xiangyu Zhao, Yichao Wang, Yuhao Wang, Huifeng Guo, Ruiming Tang
-  * Arxiv. [[link]](https://arxiv.org/pdf/2412.08519)
 
 
 ### Tutorials
