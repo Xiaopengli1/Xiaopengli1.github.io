@@ -16,7 +16,7 @@ I am broadly interested in Data Mining and Machine Learning. My current research
 1. **Multi-Domain Recommendation**
     * Papers - [HAMUR](https://dl.acm.org/doi/abs/10.1145/3583780.3615137), [D3](https://ojs.aaai.org/index.php/AAAI/article/view/28699), [HierRec](https://arxiv.org/abs/2309.02061)
     * Benchmark - [Scenario-Wise Rec](https://arxiv.org/abs/2412.17374)
-    * Tutorial - [Joint Modeling in Deep Recommender Systems]() (WWW'2025)
+    * Tutorial - [Joint Modeling in Deep Recommender Systems](https://applied-machine-learning-lab.github.io/Joint-Modeling-in-Deep-Recommender-Systems-WWW2025/)
 2. **LLMs for Information Retrieval**
     * Papers - [Agent4Ranking](https://arxiv.org/abs/2312.15450), [Syneg](https://arxiv.org/abs/2412.17250), [MILL](https://aclanthology.org/2024.naacl-long.138.pdf)
 3. **LLMs Reasoning & Multi-Modal LLMs**
