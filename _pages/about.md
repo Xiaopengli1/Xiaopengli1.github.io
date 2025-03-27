@@ -128,8 +128,13 @@ IJCAI'2023, WWW'2023
 * Outstanding Undergraduate Graduates, Xi'an Jiaotong University (2019)
 
 ## News
-[2025.03] Serve as the PC member in RecSys'2025, CIKM'2025, MM'2025.
+[2025.03] Serve as the PC member in RecSys'2025, CIKM'2025, MM'2025.\
 [2025.01] One paper is accepted by WWW'2025.
+
+<details><summary><b>2024</b></summary>
+
+<p>
+  
 [2024.12] Serve as the PC member in IJCAI'2025, WWW'2025.\
 [2024.12] One paper is accepted by ICASSP'2025.\
 [2024.12] Our tutorial proposal "Joint Modeling in Deep Recommender Systems" is accepted by WWW'2025.\
@@ -145,7 +150,15 @@ IJCAI'2023, WWW'2023
 [2024.03] Serve as the PC member in CIKM'2024.\
 [2024.03] One paper is accepted by NAACL'2024.\
 [2024.02] Serve as the PC member in KDD'2024.\
-[2024.02] Accepted as reviewer of ACM Transactions on Information Systems (ACM TOIS).\
+[2024.02] Accepted as reviewer of ACM Transactions on Information Systems (ACM TOIS).
+
+</p>
+
+</details>
+
+<details><summary><b>2023</b></summary>
+<p>
+  
 [2023.12] Serve as the PC member in IJCAI'2024.\
 [2023.12] One paper is accepted by AAAI'2024.\
 [2023.12] Accepted as reviewer of ACM Transactions on Knowledge Discovery from Data (ACM TKDD).\
@@ -155,6 +168,10 @@ IJCAI'2023, WWW'2023
 [2023.06] One paper is accepted by CIKM'2023.\
 [2023.03] Serve as volunteer of WWW'2023.\
 [2023.01] Start my Ph.D. at CityU HK.
+
+</p>
+</details>
+
 
 
 
