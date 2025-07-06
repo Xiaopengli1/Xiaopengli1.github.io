@@ -131,9 +131,9 @@ IJCAI'2023, WWW'2023
 * Outstanding Undergraduate Graduates, Xi'an Jiaotong University (2019)
 
 ## News
-[2025.07] One Paper is accepted to ToIS.
-[2025.05] One paper is accepted to ACL.
-[2025.04] Welcome to check out our latest survey [A Survey of Personalization: From RAG to Agent](https://arxiv.org/abs/2504.10147) and [github repo](https://github.com/Applied-Machine-Learning-Lab/Awesome-Personalized-RAG-Agent)!
+[2025.07] One Paper is accepted to ToIS. \
+[2025.05] One paper is accepted to ACL. \
+[2025.04] Welcome to check out our latest survey [A Survey of Personalization: From RAG to Agent](https://arxiv.org/abs/2504.10147) and [github repo](https://github.com/Applied-Machine-Learning-Lab/Awesome-Personalized-RAG-Agent)! \
 [2025.03] Serve as the PC member in RecSys'2025, CIKM'2025, MM'2025.\
 [2025.01] One paper is accepted by WWW'2025.
 
