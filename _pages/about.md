@@ -10,7 +10,7 @@ redirect_from:
 
 ## Introduction
 
-I am **Xiaopeng Li**, currently a 2nd-year Ph.D. student at City University of Hong Kong, supervised by [Prof. Xiangyu Zhao](https://zhaoxyai.github.io/) in [AML Lab](https://aml-cityu.github.io/). Before that, I received M.S. and B.Eng degrees from Xi'an Jiaotong University in 2022 and 2019.  
+I am **Xiaopeng Li**, currently a 3nd-year Ph.D. student at City University of Hong Kong, supervised by [Prof. Xiangyu Zhao](https://zhaoxyai.github.io/) in [AML Lab](https://aml-cityu.github.io/). Before that, I received M.S. and B.Eng degrees from Xi'an Jiaotong University in 2022 and 2019.  
 
 I am broadly interested in Data Mining and Machine Learning. My current research interests and outputs are summarized in several topics:
 1. **Multi-Domain Recommendation**
@@ -19,9 +19,8 @@ I am broadly interested in Data Mining and Machine Learning. My current research
     * Tutorial - [Joint Modeling in Deep Recommender Systems](https://applied-machine-learning-lab.github.io/Joint-Modeling-in-Deep-Recommender-Systems-WWW2025/)
 2. **LLMs for Information Retrieval**
     * Papers - [Agent4Ranking](https://arxiv.org/abs/2312.15450), [Syneg](https://arxiv.org/abs/2412.17250), [MILL](https://aclanthology.org/2024.naacl-long.138.pdf)
-3. **LLMs Reasoning & Multi-Modal LLMs**
-    * Papers - [TAPO](https://arxiv.org/abs/2501.06689), [G3](https://arxiv.org/pdf/2405.14702)
-4. **Personalized RAG**
+3. **Personalized RAG**
+    * Survey - [A Survey of Personalization: From RAG to Agent](https://arxiv.org/abs/2504.10147)
 
 If you are interested in my work or are seeking collaborations, feel free to contact me!\
 Email: xiaopli2-c@my.cityu.edu.hk.
@@ -32,6 +31,10 @@ _"\*" denotes equal contribution._
 
 ### Pre-print
 
+* **A Survey of Personalization: From RAG to Agent**
+  * **<ins>Xiaopeng Li</ins>**, Pengyue Jia, Derong Xu, Yi Wen, Yingyi Zhang, Wenlin Zhang, Wanyu Wang, Yichao Wang, Zhaocheng Du, Xiangyang Li, Yong Liu, Huifeng Guo, Ruiming Tang, Xiangyu Zhao
+  * Arxiv. [[link]](https://arxiv.org/abs/2504.10147)
+
 * **SyNeg: LLM-Driven Synthetic Hard-Negatives for Dense Retrieval**
   * **<ins>Xiaopeng Li</ins>**, Xiangyang Li, Hao Zhang, Zhaocheng Du, Yichao Wang, Pengyue Jia, Xiangyu Zhao, Huifeng Guo, Ruiming Tang
   * Arxiv. [[link]](https://arxiv.org/abs/2412.17250)
@@ -40,23 +43,23 @@ _"\*" denotes equal contribution._
   * **<ins>Xiaopeng Li</ins>**\*, Jingtong Gao\*, Pengyue Jia, Xiangyu Zhao, Yichao Wang, Wanyu Wang, Yuhao Wang, Yejing Wang, Huifeng Guo, Ruiming Tang
   * Arxiv. [[link]](https://arxiv.org/abs/2412.17374)
 
-* **Agent4Ranking: Semantic Robust Ranking via Personalized Query Rewriting Using Multi-agent LLM**
-  * **<ins>Xiaopeng Li</ins>**, Lixin Su, Pengyue Jia, Xiangyu Zhao, Suqi Cheng, Junfeng Wang, Dawei Yin
-  * Arxiv. [[link]](https://arxiv.org/abs/2312.15450) 
-
-* **Joint Modeling in Recommendations: A Survey**
-  * Xiangyu Zhao, Yichao Wang, Bo Chen, Jingtong Gao, Yuhao Wang, **<ins>Xiaopeng Li</ins>**, Pengyue Jia, Qidong Liu, Huifeng Guo, Ruiming Tang
-  * Arxiv. [[link]](https://arxiv.org/abs/2502.21195)
-
-* **Bridging Relevance and Reasoning: Rationale Distillation in Retrieval-Augmented Generation**
-  * Pengyue Jia\*, Derong Xu\*, **<ins>Xiaopeng Li</ins>**\*, Zhaocheng Du, Xiangyang Li, Xiangyu Zhao, Yichao Wang, Yuhao Wang, Huifeng Guo, Ruiming Tang
-  * Arxiv. [[link]](https://arxiv.org/pdf/2412.08519)
+* **Humanity's Last Code Exam: Can Advanced LLMs Conquer Human's Hardest Code Competition?**
+  * Xiangyang Li, **<ins>Xiaopeng Li</ins>**\*, Kuicai Dong, Quanhu Zhang, Rongju Ruan, Xinyi Dai, Xiaoshuang Liu, Shengchun Xu, Yasheng Wang, Ruiming Tang
+  * Arxiv. [[link]](https://arxiv.org/abs/2506.12713)
 
 ### Conference & Journal Papers
+
+* **Agent4Ranking: Semantic Robust Ranking via Personalized Query Rewriting Using Multi-agent LLM**
+  * **<ins>Xiaopeng Li</ins>**, Lixin Su, Pengyue Jia, Xiangyu Zhao, Suqi Cheng, Junfeng Wang, Dawei Yin
+  * ToIS'2025. [[link]](https://arxiv.org/abs/2312.15450) 
 
 * **HAMUR: Hyper Adapter for Multi-Domain Recommendation**
   * **<ins>Xiaopeng Li</ins>**, Fan Yan, Xiangyu Zhao, Yichao Wang, Bo Chen, Huifeng Guo, Ruiming Tang
   * CIKM'2023. [[link]](https://dl.acm.org/doi/abs/10.1145/3583780.3615137)
+
+* **Bridging Relevance and Reasoning: Rationale Distillation in Retrieval-Augmented Generation**
+  * Pengyue Jia\*, Derong Xu\*, **<ins>Xiaopeng Li</ins>**\*, Zhaocheng Du, Xiangyang Li, Xiangyu Zhao, Yichao Wang, Yuhao Wang, Huifeng Guo, Ruiming Tang
+  * ACL Findings. [[link]](https://arxiv.org/pdf/2412.08519)
 
 * **TAPO: Task-Referenced Adaptation for Prompt Optimization**
   * Wenxin Luo\*, Weirui Wang\*, **<ins>Xiaopeng Li</ins>**\*, Weibo Zhou, Pengyue Jia, Xiangyu Zhao
@@ -128,6 +131,9 @@ IJCAI'2023, WWW'2023
 * Outstanding Undergraduate Graduates, Xi'an Jiaotong University (2019)
 
 ## News
+[2025.07] One Paper is accepted to ToIS.
+[2025.05] One paper is accepted to ACL.
+[2025.04] Welcome to check out our latest survey [A Survey of Personalization: From RAG to Agent](https://arxiv.org/abs/2504.10147) and [github repo](https://github.com/Applied-Machine-Learning-Lab/Awesome-Personalized-RAG-Agent)!
 [2025.03] Serve as the PC member in RecSys'2025, CIKM'2025, MM'2025.\
 [2025.01] One paper is accepted by WWW'2025.
 
@@ -175,4 +181,4 @@ IJCAI'2023, WWW'2023
 
 
 
-_Website last updated on 27rd March 2025._
+_Website last updated on 6th July 2025._
