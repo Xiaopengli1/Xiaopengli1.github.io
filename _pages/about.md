@@ -131,6 +131,7 @@ IJCAI'2023, WWW'2023
 * Outstanding Undergraduate Graduates, Xi'an Jiaotong University (2019)
 
 ## News
+[2025.07] Present a talk _Beyond RAG: Towards the Agentic Era of Intelligent Agents_ at [Data+AI Conference-DA数智大会](https://www.bagevent.com/event/8990882?sId=86807).\
 [2025.07] One Paper is accepted to ToIS. \
 [2025.05] One paper is accepted to ACL. \
 [2025.04] Welcome to check out our latest survey [A Survey of Personalization: From RAG to Agent](https://arxiv.org/abs/2504.10147) and [github repo](https://github.com/Applied-Machine-Learning-Lab/Awesome-Personalized-RAG-Agent)! \
@@ -181,4 +182,4 @@ IJCAI'2023, WWW'2023
 
 
 
-_Website last updated on 6th July 2025._
+_Website last updated on 27th July 2025._
