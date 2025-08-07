@@ -135,6 +135,7 @@ IJCAI'2023, WWW'2023
 * Outstanding Undergraduate Graduates, Xi'an Jiaotong University (2019)
 
 ## News
+[2025.07] Two papers are accepter to CIKM.\
 [2025.07] Present a talk _Beyond RAG: Towards the Agentic Era of Intelligent Agents_ at [Data+AI Conference-DA数智大会](https://www.bagevent.com/event/8990882?sId=86807).\
 [2025.07] One Paper is accepted to ToIS. \
 [2025.05] One paper is accepted to ACL. \
