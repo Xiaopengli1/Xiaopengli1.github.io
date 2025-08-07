@@ -38,16 +38,16 @@ _"\*" denotes equal contribution._
 * **SyNeg: LLM-Driven Synthetic Hard-Negatives for Dense Retrieval**
   * **<ins>Xiaopeng Li</ins>**, Xiangyang Li, Hao Zhang, Zhaocheng Du, Yichao Wang, Pengyue Jia, Xiangyu Zhao, Huifeng Guo, Ruiming Tang
   * Arxiv. [[link]](https://arxiv.org/abs/2412.17250)
- 
-* **Scenario-Wise Rec: A Multi-Scenario Recommendation Benchmark**
-  * **<ins>Xiaopeng Li</ins>**\*, Jingtong Gao\*, Pengyue Jia, Xiangyu Zhao, Yichao Wang, Wanyu Wang, Yuhao Wang, Yejing Wang, Huifeng Guo, Ruiming Tang
-  * Arxiv. [[link]](https://arxiv.org/abs/2412.17374)
 
 * **Humanity's Last Code Exam: Can Advanced LLMs Conquer Human's Hardest Code Competition?**
   * Xiangyang Li, **<ins>Xiaopeng Li</ins>**\*, Kuicai Dong, Quanhu Zhang, Rongju Ruan, Xinyi Dai, Xiaoshuang Liu, Shengchun Xu, Yasheng Wang, Ruiming Tang
   * Arxiv. [[link]](https://arxiv.org/abs/2506.12713)
 
 ### Conference & Journal Papers
+
+* **Scenario-Wise Rec: A Multi-Scenario Recommendation Benchmark**
+  * **<ins>Xiaopeng Li</ins>**\*, Jingtong Gao\*, Pengyue Jia, Yichao Wang, Wanyu Wang, Yuhao Wang, Yejing Wang, Huifeng Guo, Ruiming Tang, Xiangyu Zhao
+  * CIKM'2025. [[link]](https://arxiv.org/abs/2412.17374)
 
 * **Agent4Ranking: Semantic Robust Ranking via Personalized Query Rewriting Using Multi-agent LLM**
   * **<ins>Xiaopeng Li</ins>**, Lixin Su, Pengyue Jia, Xiangyu Zhao, Suqi Cheng, Junfeng Wang, Dawei Yin
@@ -59,11 +59,15 @@ _"\*" denotes equal contribution._
 
 * **Bridging Relevance and Reasoning: Rationale Distillation in Retrieval-Augmented Generation**
   * Pengyue Jia\*, Derong Xu\*, **<ins>Xiaopeng Li</ins>**\*, Zhaocheng Du, Xiangyang Li, Xiangyu Zhao, Yichao Wang, Yuhao Wang, Huifeng Guo, Ruiming Tang
-  * ACL Findings. [[link]](https://arxiv.org/pdf/2412.08519)
+  * ACL Findings'2025. [[link]](https://arxiv.org/pdf/2412.08519)
 
 * **TAPO: Task-Referenced Adaptation for Prompt Optimization**
   * Wenxin Luo\*, Weirui Wang\*, **<ins>Xiaopeng Li</ins>**\*, Weibo Zhou, Pengyue Jia, Xiangyu Zhao
   * ICASSP'2025. [[link]](https://arxiv.org/abs/2501.06689)
+
+* **SELF: Surrogate-light Feature Selection with Large Language Models in Deep Recommender Systems**
+  * Pengyue Jia, Zhaocheng Du, Yichao Wang, Xiangyu Zhao, **<ins>Xiaopeng Li</ins>**\*, Yuhao Wang, Qidong Liu, Huifeng Guo and Ruiming Tang
+  * CIKM'2025. [[link]](https://arxiv.org/abs/2412.08516)
 
 * **SampleLLM: Optimizing Tabular Data Synthesis in Recommendations**
   * Jingtong Gao, Zhaocheng Du, **<ins>Xiaopeng Li</ins>**, Yichao Wang, Xiangyang Li, Huifeng Guo, Ruiming Tang, Xiangyu Zhao
