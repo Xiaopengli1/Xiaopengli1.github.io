@@ -12,15 +12,27 @@ redirect_from:
 
 I am **Xiaopeng Li**, currently a 3rd-year Ph.D. student at City University of Hong Kong, supervised by [Prof. Xiangyu Zhao](https://zhaoxyai.github.io/) in [AML Lab](https://aml-cityu.github.io/). Before that, I received M.S. and B.Eng degrees from Xi'an Jiaotong University in 2022 and 2019.  
 
-I am broadly interested in Data Mining and Machine Learning. My current research interests and outputs are summarized in several topics:
-1. **Multi-Domain Recommendation**
-    * Papers - [HAMUR](https://dl.acm.org/doi/abs/10.1145/3583780.3615137), [D3](https://ojs.aaai.org/index.php/AAAI/article/view/28699), [HierRec](https://arxiv.org/abs/2309.02061)
-    * Benchmark - [Scenario-Wise Rec](https://arxiv.org/abs/2412.17374)
-    * Tutorial - [Joint Modeling in Deep Recommender Systems](https://applied-machine-learning-lab.github.io/Joint-Modeling-in-Deep-Recommender-Systems-WWW2025/)
+I am broadly interested in Data Mining and Machine Learning. My current research interests lie in:
+
+1. **Recommender System**
 2. **LLMs for Information Retrieval**
-    * Papers - [Agent4Ranking](https://arxiv.org/abs/2312.15450), [Syneg](https://arxiv.org/abs/2412.17250), [MILL](https://aclanthology.org/2024.naacl-long.138.pdf)
 3. **Personalized RAG**
-    * Survey - [A Survey of Personalization: From RAG to Agent](https://arxiv.org/abs/2504.10147)
+
+[//]: # (1. **Multi-Domain Recommendation**)
+
+[//]: # (    * Papers - [HAMUR]&#40;https://dl.acm.org/doi/abs/10.1145/3583780.3615137&#41;, [D3]&#40;https://ojs.aaai.org/index.php/AAAI/article/view/28699&#41;, [HierRec]&#40;https://arxiv.org/abs/2309.02061&#41;)
+
+[//]: # (    * Benchmark - [Scenario-Wise Rec]&#40;https://arxiv.org/abs/2412.17374&#41;)
+
+[//]: # (    * Tutorial - [Joint Modeling in Deep Recommender Systems]&#40;https://applied-machine-learning-lab.github.io/Joint-Modeling-in-Deep-Recommender-Systems-WWW2025/&#41;)
+
+[//]: # (2. **LLMs for Information Retrieval**)
+
+[//]: # (    * Papers - [Agent4Ranking]&#40;https://arxiv.org/abs/2312.15450&#41;, [Syneg]&#40;https://arxiv.org/abs/2412.17250&#41;, [MILL]&#40;https://aclanthology.org/2024.naacl-long.138.pdf&#41;)
+
+[//]: # (3. **Personalized RAG**)
+
+[//]: # (    * Survey - [A Survey of Personalization: From RAG to Agent]&#40;https://arxiv.org/abs/2504.10147&#41;)
 
 If you are interested in my work or are seeking collaborations, feel free to contact me!\
 Email: xiaopli2-c@my.cityu.edu.hk.
@@ -32,7 +44,7 @@ _"\*" denotes equal contribution._
 ### Pre-print
 
 * **A Survey of Personalization: From RAG to Agent**
-  * **<ins>Xiaopeng Li</ins>**, Pengyue Jia, Derong Xu, Yi Wen, Yingyi Zhang, Wenlin Zhang, Wanyu Wang, Yichao Wang, Zhaocheng Du, Xiangyang Li, Yong Liu, Huifeng Guo, Ruiming Tang, Xiangyu Zhao
+  * **<ins>Xiaopeng Li</ins>**\*, Pengyue Jia\*, Derong Xu, Yi Wen, Yingyi Zhang, Wenlin Zhang, Wanyu Wang, Yichao Wang, Zhaocheng Du, Xiangyang Li, Yong Liu, Huifeng Guo, Ruiming Tang, Xiangyu Zhao
   * Arxiv. [[link]](https://arxiv.org/abs/2504.10147)
 
 * **SyNeg: LLM-Driven Synthetic Hard-Negatives for Dense Retrieval**
@@ -67,7 +79,7 @@ _"\*" denotes equal contribution._
   * ICASSP'2025. [[link]](https://arxiv.org/abs/2501.06689)
 
 * **SELF: Surrogate-light Feature Selection with Large Language Models in Deep Recommender Systems**
-  * Pengyue Jia, Zhaocheng Du, Yichao Wang, Xiangyu Zhao, **<ins>Xiaopeng Li</ins>**\*, Yuhao Wang, Qidong Liu, Huifeng Guo and Ruiming Tang
+  * Pengyue Jia, Zhaocheng Du, Yichao Wang, Xiangyu Zhao, **<ins>Xiaopeng Li</ins>**, Yuhao Wang, Qidong Liu, Huifeng Guo and Ruiming Tang
   * CIKM'2025. [[link]](https://arxiv.org/abs/2412.08516)
 
 * **SampleLLM: Optimizing Tabular Data Synthesis in Recommendations**
