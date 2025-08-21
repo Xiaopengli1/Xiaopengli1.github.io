@@ -39,9 +39,6 @@ _"\*" denotes equal contribution._
   * **<ins>Xiaopeng Li</ins>**, Xiangyang Li, Hao Zhang, Zhaocheng Du, Yichao Wang, Pengyue Jia, Xiangyu Zhao, Huifeng Guo, Ruiming Tang
   * Arxiv. [[link]](https://arxiv.org/abs/2412.17250)
 
-* **Humanity's Last Code Exam: Can Advanced LLMs Conquer Human's Hardest Code Competition?**
-  * Xiangyang Li, **<ins>Xiaopeng Li</ins>**\*, Kuicai Dong, Quanhu Zhang, Rongju Ruan, Xinyi Dai, Xiaoshuang Liu, Shengchun Xu, Yasheng Wang, Ruiming Tang
-  * Arxiv. [[link]](https://arxiv.org/abs/2506.12713)
 
 ### Conference & Journal Papers
 
@@ -56,6 +53,10 @@ _"\*" denotes equal contribution._
 * **HAMUR: Hyper Adapter for Multi-Domain Recommendation**
   * **<ins>Xiaopeng Li</ins>**, Fan Yan, Xiangyu Zhao, Yichao Wang, Bo Chen, Huifeng Guo, Ruiming Tang
   * CIKM'2023. [[link]](https://dl.acm.org/doi/abs/10.1145/3583780.3615137)
+
+* **Humanity's Last Code Exam: Can Advanced LLMs Conquer Human's Hardest Code Competition?**
+  * Xiangyang Li\*, **<ins>Xiaopeng Li</ins>**\*, Kuicai Dong, Quanhu Zhang, Rongju Ruan, Xinyi Dai, Xiaoshuang Liu, Shengchun Xu, Yasheng Wang, Ruiming Tang
+  * EMNLP'2025. [[link]](https://arxiv.org/abs/2506.12713)
 
 * **Bridging Relevance and Reasoning: Rationale Distillation in Retrieval-Augmented Generation**
   * Pengyue Jia\*, Derong Xu\*, **<ins>Xiaopeng Li</ins>**\*, Zhaocheng Du, Xiangyang Li, Xiangyu Zhao, Yichao Wang, Yuhao Wang, Huifeng Guo, Ruiming Tang
@@ -135,10 +136,11 @@ IJCAI'2023, WWW'2023
 * Outstanding Undergraduate Graduates, Xi'an Jiaotong University (2019)
 
 ## News
-[2025.07] Two papers are accepter to CIKM.\
+[2025.08] One papers is accepter to EMNLP'2025.\
+[2025.07] Two papers are accepter to CIKM'2025.\
 [2025.07] Present a talk _Beyond RAG: Towards the Agentic Era of Intelligent Agents_ at [Data+AI Conference-DA数智大会](https://www.bagevent.com/event/8990882?sId=86807).\
 [2025.07] One Paper is accepted to ToIS. \
-[2025.05] One paper is accepted to ACL. \
+[2025.05] One paper is accepted to ACL'2025. \
 [2025.04] Welcome to check out our latest survey [A Survey of Personalization: From RAG to Agent](https://arxiv.org/abs/2504.10147) and [github repo](https://github.com/Applied-Machine-Learning-Lab/Awesome-Personalized-RAG-Agent)! \
 [2025.03] Serve as the PC member in RecSys'2025, CIKM'2025, MM'2025.\
 [2025.01] One paper is accepted by WWW'2025.
@@ -187,4 +189,4 @@ IJCAI'2023, WWW'2023
 
 
 
-_Website last updated on 27th July 2025._
+_Website last updated on 21st Auguest 2025._
