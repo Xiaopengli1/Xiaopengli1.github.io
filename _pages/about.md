@@ -148,6 +148,7 @@ IJCAI'2023, WWW'2023
 * Outstanding Undergraduate Graduates, Xi'an Jiaotong University (2019)
 
 ## News
+[2025.09] Serve as the Reviewer in ICLR 2026.\
 [2025.08] One papers is accepter to EMNLP'2025.\
 [2025.07] Two papers are accepter to CIKM'2025.\
 [2025.07] Present a talk _Beyond RAG: Towards the Agentic Era of Intelligent Agents_ at [Data+AI Conference-DA数智大会](https://www.bagevent.com/event/8990882?sId=86807).\
