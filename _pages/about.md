@@ -159,43 +159,36 @@ IJCAI'2023, WWW'2023
 [2025.01] One paper is accepted by WWW'2025.
 
 <details><summary><b>2024</b></summary>
-
-<p>
-  
-[2024.12] Serve as the PC member in IJCAI'2025, WWW'2025.\
-[2024.12] One paper is accepted by ICASSP'2025.\
-[2024.12] Our tutorial proposal "Joint Modeling in Deep Recommender Systems" is accepted by WWW'2025.\
-[2024.09] Serve as the reviewer in ICLR'2025.\
-[2024.09] One paper is accepted in NeurIPS'2024.\
-[2024.08] Serve as the reviewer in ICASSP'2025.\
-[2024.08] Serve as the PC member in KDD'2025.\
-[2024.07] Our team AML_Lab@CityU won [KDD CUP'2024](https://discourse.aicrowd.com/t/announcing-the-winners-of-amazon-kdd-cup-2024/10758) at 2nd place (2/502), earning a prize of $8,750. A heartfelt thanks to all my teammates for working together.\
-[2024.07] One paper is accepted by CIKM'2024.\
-[2024.05] Accepted as reviewer of ACM Transactions on Intelligent Systems and Technology (ACM TIST).\
-[2024.04] Accepted as reviewer of IEEE/ACM Transactions on Audio, Speech and Language Processing (IEEE/ACM TASLP).\
-[2024.04] Serve as the PC member in MM'2024.\
-[2024.03] Serve as the PC member in CIKM'2024.\
-[2024.03] One paper is accepted by NAACL'2024.\
-[2024.02] Serve as the PC member in KDD'2024.\
-[2024.02] Accepted as reviewer of ACM Transactions on Information Systems (ACM TOIS).
-
-</p>
+[2024.12] Serve as the PC member in IJCAI'2025, WWW'2025.<br>
+[2024.12] One paper is accepted by ICASSP'2025.<br>
+[2024.12] Our tutorial proposal "Joint Modeling in Deep Recommender Systems" is accepted by WWW'2025.<br>
+[2024.09] Serve as the reviewer in ICLR'2025.<br>
+[2024.09] One paper is accepted in NeurIPS'2024.<br>
+[2024.08] Serve as the reviewer in ICASSP'2025.<br>
+[2024.08] Serve as the PC member in KDD'2025.<br>
+[2024.07] Our team AML_Lab@CityU won [KDD CUP'2024](https://discourse.aicrowd.com/t/announcing-the-winners-of-amazon-kdd-cup-2024/10758) at 2nd place (2/502), earning a prize of $8,750. A heartfelt thanks to all my teammates for working together.<br>
+[2024.07] One paper is accepted by CIKM'2024.<br>
+[2024.05] Accepted as reviewer of ACM Transactions on Intelligent Systems and Technology (ACM TIST).<br>
+[2024.04] Accepted as reviewer of IEEE/ACM Transactions on Audio, Speech and Language Processing (IEEE/ACM TASLP).<br>
+[2024.04] Serve as the PC member in MM'2024.<br>
+[2024.03] Serve as the PC member in CIKM'2024.<br>
+[2024.03] One paper is accepted by NAACL'2024.<br>
+[2024.02] Serve as the PC member in KDD'2024.<br>
+[2024.02] Accepted as reviewer of ACM Transactions on Information Systems (ACM TOIS).<br>
 
 </details>
 
 <details><summary><b>2023</b></summary>
 <p>
-  
-[2023.12] Serve as the PC member in IJCAI'2024.\
-[2023.12] One paper is accepted by AAAI'2024.\
-[2023.12] Accepted as reviewer of ACM Transactions on Knowledge Discovery from Data (ACM TKDD).\
-[2023.10] Accepted as reviewer of Expert Systems With Applications (ESWA).\
-[2023.08] I will serve as the PC member in AAAI'2024.\
-[2023.06] Serve as volunteer of IJCAI'2023.\
-[2023.06] One paper is accepted by CIKM'2023.\
-[2023.03] Serve as volunteer of WWW'2023.\
-[2023.01] Start my Ph.D. at CityU HK.
-
+[2023.12] Serve as the PC member in IJCAI'2024.<br>
+[2023.12] One paper is accepted by AAAI'2024.<br>
+[2023.12] Accepted as reviewer of ACM Transactions on Knowledge Discovery from Data (ACM TKDD).<br>
+[2023.10] Accepted as reviewer of Expert Systems With Applications (ESWA).<br>
+[2023.08] I will serve as the PC member in AAAI'2024.<br>
+[2023.06] Serve as volunteer of IJCAI'2023.<br>
+[2023.06] One paper is accepted by CIKM'2023.<br>
+[2023.03] Serve as volunteer of WWW'2023.<br>
+[2023.01] Start my Ph.D. at CityU HK.<br>
 </p>
 </details>
 
