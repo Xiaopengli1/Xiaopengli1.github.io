@@ -78,6 +78,10 @@ _"\*" denotes equal contribution._
   * Wenxin Luo\*, Weirui Wang\*, **<ins>Xiaopeng Li</ins>**\*, Weibo Zhou, Pengyue Jia, Xiangyu Zhao
   * ICASSP'2025. [[link]](https://arxiv.org/abs/2501.06689)
 
+* **Process vs. Outcome Reward: Which is Better for Agentic RAG Reinforcement Learning**
+  * Wenlin Zhang, Xiangyang Li, Kuicai Dong, Yichao Wang, Pengyue Jia, **<ins>Xiaopeng Li</ins>**, Yingyi Zhang, Derong Xu, Zhaocheng Du, Huifeng Guo, Ruiming Tang, Xiangyu Zhao
+  * NeurIPS'2025. [[link]](https://arxiv.org/pdf/2505.14069)
+
 * **SELF: Surrogate-light Feature Selection with Large Language Models in Deep Recommender Systems**
   * Pengyue Jia, Zhaocheng Du, Yichao Wang, Xiangyu Zhao, **<ins>Xiaopeng Li</ins>**, Yuhao Wang, Qidong Liu, Huifeng Guo and Ruiming Tang
   * CIKM'2025. [[link]](https://arxiv.org/abs/2412.08516)
@@ -148,6 +152,7 @@ IJCAI'2023, WWW'2023
 * Outstanding Undergraduate Graduates, Xi'an Jiaotong University (2019)
 
 ## News
+[2025.09] One papers is accepter to NeurIPS'2025.\
 [2025.09] Serve as the Reviewer in ICLR 2026.\
 [2025.08] One papers is accepter to EMNLP'2025.\
 [2025.07] Two papers are accepter to CIKM'2025.\
