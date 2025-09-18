@@ -121,14 +121,14 @@ _"\*" denotes equal contribution._
 <!-- CASE'2021. [[link]](https://ieeexplore.ieee.org/document/9551610) -->
 
 ## Work Experience
-
+Research Intern - Kuaishou, Recommendation Model Department\
 Research Intern - Baidu, Search Science Team\
 Research Intern - Huawei, Noah's Ark Lab\
 Research Intern - Alibaba, Alibaba Cloud\
 SDE Intern - Huawei, Huawei Cloud
 
 ## Teaching Experience
-
+2025\~2026 Semester A - Statistical Machine Learning I, TA\
 2024\~2025 Semester B - Introduction to Computational Scocial Science, TA\
 2024\~2025 Semester A - Fundamentals of Machine Learning, TA\
 2023\~2024 Semester B - Introduction to Computational Scocial Science, TA
@@ -153,6 +153,7 @@ IJCAI'2023, WWW'2023
 
 ## News
 [2025.09] One papers is accepter to NeurIPS'2025.\
+[2025.09] Started my internship at Kuaishou, focusing on Generative recommendation.\
 [2025.09] Serve as the Reviewer in ICLR 2026.\
 [2025.08] Received Outstanding Academic Performance Award (OAPA) granted by CityU HK.\
 [2025.08] One papers is accepter to EMNLP'2025.\
