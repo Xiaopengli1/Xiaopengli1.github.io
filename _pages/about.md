@@ -146,7 +146,7 @@ ACM TIST, ACM TKDD, ACM TOIS, IEEE/ACM TASLP, ESWA
 IJCAI'2023, WWW'2023
 
 ## Awards
-
+* Outstanding Academic Performance Award (OAPA), CityU HK.
 * 2nd place in [Amazon KDD Cup 2024: Multi-Task Online Shopping Challenge for LLMs](https://discourse.aicrowd.com/t/announcing-the-winners-of-amazon-kdd-cup-2024/10758) (2/502), all five tracks ranked in the top 3, **Best Student team** in Track 1 and Track 5.
 * Excellent Postgraduate Student, Xi'an Jiaotong University (2021) 
 * Outstanding Undergraduate Graduates, Xi'an Jiaotong University (2019)
@@ -154,6 +154,7 @@ IJCAI'2023, WWW'2023
 ## News
 [2025.09] One papers is accepter to NeurIPS'2025.\
 [2025.09] Serve as the Reviewer in ICLR 2026.\
+[2025.08] Received Outstanding Academic Performance Award (OAPA) granted by CityU HK.\
 [2025.08] One papers is accepter to EMNLP'2025.\
 [2025.07] Two papers are accepter to CIKM'2025.\
 [2025.04] Welcome to check out our latest survey [Deep Research: A Survey of Autonomous Research Agents](https://arxiv.org/abs/2508.12752)! \
