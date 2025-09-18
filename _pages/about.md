@@ -156,6 +156,7 @@ IJCAI'2023, WWW'2023
 [2025.09] Serve as the Reviewer in ICLR 2026.\
 [2025.08] One papers is accepter to EMNLP'2025.\
 [2025.07] Two papers are accepter to CIKM'2025.\
+[2025.04] Welcome to check out our latest survey [Deep Research: A Survey of Autonomous Research Agents](https://arxiv.org/abs/2508.12752)! \
 [2025.07] Present a talk _Beyond RAG: Towards the Agentic Era of Intelligent Agents_ at [Data+AI Conference-DA数智大会](https://www.bagevent.com/event/8990882?sId=86807).\
 [2025.07] One Paper is accepted to ToIS. \
 [2025.05] One paper is accepted to ACL'2025. \
