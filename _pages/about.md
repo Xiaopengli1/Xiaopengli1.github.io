@@ -146,10 +146,10 @@ ACM TIST, ACM TKDD, ACM TOIS, IEEE/ACM TASLP, ESWA
 IJCAI'2023, WWW'2023
 
 ## Awards
-* Outstanding Academic Performance Award (OAPA), CityU HK.
+* Outstanding Academic Performance Award (OAPA), CityU HK
 * 2nd place in [Amazon KDD Cup 2024: Multi-Task Online Shopping Challenge for LLMs](https://discourse.aicrowd.com/t/announcing-the-winners-of-amazon-kdd-cup-2024/10758) (2/502), all five tracks ranked in the top 3, **Best Student team** in Track 1 and Track 5.
-* Excellent Postgraduate Student, Xi'an Jiaotong University (2021) 
-* Outstanding Undergraduate Graduates, Xi'an Jiaotong University (2019)
+* Excellent Postgraduate Student, Xi'an Jiaotong University
+* Outstanding Undergraduate Graduates, Xi'an Jiaotong University
 
 ## News
 [2025.09] One papers is accepter to NeurIPS'2025.\
