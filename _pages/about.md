@@ -140,7 +140,7 @@ ACM TIST, ACM TKDD, ACM TOIS, IEEE/ACM TASLP, ESWA
 
 **Conference PC Member/Reviewer**:\
 2024: AAAI, IJCAI, KDD, CIKM, MM, ACL Rolling Reviewer\
-2025: KDD, IJCNN, IJCAI, WWW, MM, RecSys, CIKM
+2025: ICLR, KDD, IJCNN, IJCAI, WWW, MM, RecSys, CIKM
 
 **Conference Volunteer**:\
 IJCAI'2023, WWW'2023
