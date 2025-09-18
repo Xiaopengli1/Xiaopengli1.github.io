@@ -153,7 +153,7 @@ IJCAI'2023, WWW'2023
 
 ## News
 [2025.09] One papers is accepter to NeurIPS'2025.\
-[2025.09] Started my internship at Kuaishou, focusing on Generative recommendation.\
+[2025.09] Started internship at Kuaishou, focusing on Generative recommendation.\
 [2025.09] Serve as the Reviewer in ICLR 2026.\
 [2025.08] Received Outstanding Academic Performance Award (OAPA) granted by CityU HK.\
 [2025.08] One papers is accepter to EMNLP'2025.\
