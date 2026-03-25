@@ -24,14 +24,14 @@ author:
   name             : "Xiaopeng Li"
   avatar           : "images/pic.jpg"
   bio              : "PhD Student"
-  lab              : "AML Lab"
-  laburl           : "https://aml-cityu.github.io/"
-  department       : "Department of Data Science"
-  departmenturl    : "https://www.ds.cityu.edu.hk/"
-  college          : "College of Computing"
-  collegeurl       : "https://www.cityu.edu.hk/cc/"
-  university       : "City University of Hong Kong (CityU)"
-  universityurl    : "https://www.cityu.edu.hk/"
+  lab              : 
+  laburl           : 
+  department       : 
+  departmenturl    : 
+  college          : 
+  collegeurl       : 
+  university       : 
+  universityurl    : 
   location         : "Hong Kong SAR, China"
   employer         :
   pubmed           :
