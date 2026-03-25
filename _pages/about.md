@@ -153,7 +153,7 @@ _"\*" denotes equal contribution._
 ### Preprints
 
 * **[A Survey of Generative Recommendation from a Tri-Decoupled Perspective: Tokenization, Architecture, and Optimization](https://www.researchgate.net/publication/398113445_A_Survey_of_Generative_Recommendation_from_a_Tri-Decoupled_Perspective_Tokenization_Architecture_and_Optimization)**\
-  **<ins>Xiaopeng Li</ins>**\*, Junda She, Shiteng Cao, You Wang, Qinlin Jia, Haiying He, Zheli Zhou, Zhao Liu, Ji Liu, Zhiyang Zhang, Yu Zhou, Guoping Tang, Yiqing Yang, Chengcheng Guo, Si Dong, Kuo Cai, Pengyue Jia, Maolin Wang, Wanyu Wang, Shiyao Wang, Xinchen Luo, Qigen Hu, Qiang Luo, Xiao Lv, Chaoyi Ma, Ruiming Tang, Kun Gai, Guorui Zhou, Xiangyu Zhao\
+  **<ins>Xiaopeng Li</ins>**\*, Bo Chen\*, Junda She, Shiteng Cao, You Wang, Qinlin Jia, Haiying He, Zheli Zhou, Zhao Liu, Ji Liu, Zhiyang Zhang, Yu Zhou, Guoping Tang, Yiqing Yang, Chengcheng Guo, Si Dong, Kuo Cai, Pengyue Jia, Maolin Wang, Wanyu Wang, Shiyao Wang, Xinchen Luo, Qigen Hu, Qiang Luo, Xiao Lv, Chaoyi Ma, Ruiming Tang, Kun Gai, Guorui Zhou, Xiangyu Zhao\
 ResearchGate
 
 * **[MTA: A Merge-then-Adapt Framework for Personalized Large Language Models](https://arxiv.org/abs/2511.20072)**  
