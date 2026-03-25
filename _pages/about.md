@@ -31,8 +31,8 @@ My research interests include <u>Recommender Systems, Information Retrieval, and
 # 🔥 News
 - **2026.03:** &nbsp;I am honored to serve as a reviewer for NeurIPS 2026.
 - **2026.03:** &nbsp;I am honored to serve as a reviewer for TPAMI.
-- **2026.01:** &nbsp;I am invited to give a talk at Pinterest.
-- **2026.01:** &nbsp;I am invited to give a talk at Kuaishou.
+- **2026.01:** &nbsp;I was invited to give a talk at Pinterest titled _Generative Recommendation from a Tri-Decoupled Perspective_.
+- **2026.01:** &nbsp;I was invited to give a talk at Kuaishou titled _Generative Recommendation from a Tri-Decoupled Perspective_.
 - **2026.01:** &nbsp;I am honored to serve as a reviewer for MM 2026.
 - **2026.01:** &nbsp;🎉🎉 My co-first-author paper [BlossomRec](https://arxiv.org/abs/2512.13368) is accepted to WWW.
 - **2025.12:** &nbsp;Welcome to check out our recent survey on generative recommendation, in collaboration with Kuaishou: [A Survey of Generative Recommendation from a Tri-Decoupled Perspective: Tokenization, Architecture, and Optimization](https://www.researchgate.net/publication/398113445_A_Survey_of_Generative_Recommendation_from_a_Tri-Decoupled_Perspective_Tokenization_Architecture_and_Optimization)!
