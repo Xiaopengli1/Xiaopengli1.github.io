@@ -9,8 +9,13 @@ main:
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
-  - title: "Professional Experience"
-    url: "/#-professional-experience"
+  - title: "Intern Experience"
+    url: "/#-intern-experience"
 
-  - title: "Publications"
-    url: "/#-publications"
+  - title: "Service"
+    url: "/#-service"
+
+  - title: "Projects"
+    url: "/#-projects"
+
+
