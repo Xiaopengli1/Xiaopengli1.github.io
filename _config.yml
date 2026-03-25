@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jingtong Gao"
+title                    : "Xiaopeng Li"
 #description              :
-repository               : "Gaojingtong/gaojingtong.github.io"
+repository               : "Xiaopengli1/Xiaopengli1.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jingtong Gao"
+  name             : "Xiaopeng Li"
   avatar           : "images/pic.jpg"
   bio              : "PhD Student"
   lab              : "AML Lab"
@@ -35,8 +35,8 @@ author:
   location         : "Hong Kong SAR, China"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=tkis1Q0AAAAJ"
-  email            : "jt.g@my.cityu.edu.hk"
+  googlescholar    : "https://scholar.google.com/citations?user=hCCqgQQAAAAJ"
+  email            : "xiaopli2-c@my.cityu.edu.hk"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
