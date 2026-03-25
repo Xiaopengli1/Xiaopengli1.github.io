@@ -56,21 +56,21 @@ My research interests include <u>Recommender Systems, Information Retrieval, and
 <details>
 <summary><b>2024</b></summary>
 
-- **2024.12:** &nbsp;I am honored to serve as a PC member for IJCAI 2025 and WWW 2025.
-- **2024.12:** &nbsp;🎉🎉 One paper is accepted by ICASSP 2025.
-- **2024.12:** &nbsp;🎉🎉 Our tutorial proposal, "Joint Modeling in Deep Recommender Systems," is accepted by WWW 2025.
-- **2024.09:** &nbsp;I am honored to serve as a reviewer for ICLR 2025.
-- **2024.09:** &nbsp;🎉🎉 One paper is accepted by NeurIPS 2024.
-- **2024.08:** &nbsp;I am honored to serve as a reviewer for ICASSP 2025.
-- **2024.08:** &nbsp;I am honored to serve as a PC member for KDD 2025.
-- **2024.07:** &nbsp;🎉🎉 Our team AML_Lab@CityU wins 2nd place (2/502) in the [KDD Cup 2024](https://discourse.aicrowd.com/t/announcing-the-winners-of-amazon-kdd-cup-2024/10758), earning a prize of $8,750. Heartfelt thanks to all my amazing teammates for the great collaboration!
-- **2024.07:** &nbsp;🎉🎉 One paper is accepted by CIKM 2024.
-- **2024.05:** &nbsp;I am honored to serve as a reviewer for ACM Transactions on Intelligent Systems and Technology (ACM TIST).
-- **2024.04:** &nbsp;I am honored to serve as a reviewer for IEEE/ACM Transactions on Audio, Speech, and Language Processing (IEEE/ACM TASLP).
-- **2024.04:** &nbsp;I am honored to serve as a PC member for MM 2024.
-- **2024.03:** &nbsp;I am honored to serve as a PC member for CIKM 2024.
-- **2024.03:** &nbsp;🎉🎉 One paper is accepted by NAACL 2024.
-- **2024.02:** &nbsp;I am honored to serve as a PC member for KDD 2024.
+- **2024.12:** &nbsp;I am honored to serve as a PC member for IJCAI 2025 and WWW 2025.\
+- **2024.12:** &nbsp;🎉🎉 One paper is accepted by ICASSP 2025.\
+- **2024.12:** &nbsp;🎉🎉 Our tutorial proposal, "Joint Modeling in Deep Recommender Systems," is accepted by WWW 2025.\
+- **2024.09:** &nbsp;I am honored to serve as a reviewer for ICLR 2025.\
+- **2024.09:** &nbsp;🎉🎉 One paper is accepted by NeurIPS 2024.\
+- **2024.08:** &nbsp;I am honored to serve as a reviewer for ICASSP 2025.\
+- **2024.08:** &nbsp;I am honored to serve as a PC member for KDD 2025.\
+- **2024.07:** &nbsp;🎉🎉 Our team AML_Lab@CityU wins 2nd place (2/502) in the [KDD Cup 2024](https://discourse.aicrowd.com/t/announcing-the-winners-of-amazon-kdd-cup-2024/10758), earning a prize of $8,750. Heartfelt thanks to all my amazing teammates for the great collaboration!\
+- **2024.07:** &nbsp;🎉🎉 One paper is accepted by CIKM 2024.\
+- **2024.05:** &nbsp;I am honored to serve as a reviewer for ACM Transactions on Intelligent Systems and Technology (ACM TIST).\
+- **2024.04:** &nbsp;I am honored to serve as a reviewer for IEEE/ACM Transactions on Audio, Speech, and Language Processing (IEEE/ACM TASLP).\
+- **2024.04:** &nbsp;I am honored to serve as a PC member for MM 2024.\
+- **2024.03:** &nbsp;I am honored to serve as a PC member for CIKM 2024.\
+- **2024.03:** &nbsp;🎉🎉 One paper is accepted by NAACL 2024.\
+- **2024.02:** &nbsp;I am honored to serve as a PC member for KDD 2024.\
 - **2024.02:** &nbsp;I am honored to serve as a reviewer for ACM Transactions on Information Systems (ACM TOIS).
 
 </details>
@@ -78,14 +78,14 @@ My research interests include <u>Recommender Systems, Information Retrieval, and
 <details>
 <summary><b>2023</b></summary>
 
-- **2023.12:** &nbsp;I am honored to serve as a PC member for IJCAI 2024.
-- **2023.12:** &nbsp;🎉🎉 One paper is accepted by AAAI 2024.
-- **2023.12:** &nbsp;I am honored to serve as a reviewer for ACM Transactions on Knowledge Discovery from Data (ACM TKDD).
-- **2023.10:** &nbsp;I am honored to serve as a reviewer for Expert Systems with Applications (ESWA).
-- **2023.08:** &nbsp;I am honored to serve as a PC member for AAAI 2024.
-- **2023.06:** &nbsp;I serve as a volunteer for IJCAI 2023.
-- **2023.06:** &nbsp;🎉🎉 One paper is accepted by CIKM 2023.
-- **2023.03:** &nbsp;I serve as a volunteer for WWW 2023.
+- **2023.12:** &nbsp;I am honored to serve as a PC member for IJCAI 2024.\
+- **2023.12:** &nbsp;🎉🎉 One paper is accepted by AAAI 2024.\
+- **2023.12:** &nbsp;I am honored to serve as a reviewer for ACM Transactions on Knowledge Discovery from Data (ACM TKDD).\
+- **2023.10:** &nbsp;I am honored to serve as a reviewer for Expert Systems with Applications (ESWA).\
+- **2023.08:** &nbsp;I am honored to serve as a PC member for AAAI 2024.\
+- **2023.06:** &nbsp;I serve as a volunteer for IJCAI 2023.\
+- **2023.06:** &nbsp;🎉🎉 One paper is accepted by CIKM 2023.\
+- **2023.03:** &nbsp;I serve as a volunteer for WWW 2023.\
 - **2023.01:** &nbsp;I start my Ph.D. journey at CityUHK.
 
 </details>
@@ -136,10 +136,9 @@ My research interests include <u>Recommender Systems, Information Retrieval, and
 
 ## Tutorials
 
-**[4] Joint Modeling in Deep Recommender Systems**\
+**[Joint Modeling in Deep Recommender Systems](https://dl.acm.org/doi/10.1145/3701716.3715867)**\
 Pengyue Jia, Jingtong Gao, Yuhao Wang, **Xiaopeng Li**, Qidong Liu, Yichao Wang, Bo Chen, Huifeng Guo, Ruiming Tang\
 WWW'25, Proceedings of the ACM Web Conference 2025\
-[[CITE](bibtex/jia2025joint.html)]
 
 ***
 
@@ -150,12 +149,11 @@ _"\*" denotes equal contribution._
 ### Pre-print
 
 * **[A Survey of Generative Recommendation from a Tri-Decoupled Perspective: Tokenization, Architecture, and Optimization](https://www.researchgate.net/publication/398113445_A_Survey_of_Generative_Recommendation_from_a_Tri-Decoupled_Perspective_Tokenization_Architecture_and_Optimization)**
-  **<ins>Xiaopeng Li</ins>**\*, Bo Chen\*, Wanyu Wang, Wenlin Zhang, Pengyue Jia, Yingyi Zhang, Yiqi Wang, Maolin Wang, Xuetao Wei, Xiangyu Zhao  
-
+  **<ins>Xiaopeng Li</ins>**\*, Junda She, Shiteng Cao, You Wang, Qinlin Jia, Haiying He, Zheli Zhou, Zhao Liu, Ji Liu, Zhiyang Zhang, Yu Zhou, Guoping Tang, Yiqing Yang, Chengcheng Guo, Si Dong, Kuo Cai, Pengyue Jia, Maolin Wang, Wanyu Wang, Shiyao Wang, Xinchen Luo, Qigen Hu, Qiang Luo, Xiao Lv, Chaoyi Ma, Ruiming Tang, Kun Gai, Guorui Zhou, Xiangyu Zhao\
 ResearchGate
 
 * **[MTA: A Merge-then-Adapt Framework for Personalized Large Language Models](https://arxiv.org/abs/2511.20072)**  
-  **<ins>Xiaopeng Li</ins>**\*, Junda She, Shiteng Cao,You Wang,Qinlin Jia,Haiying He,Zheli Zhou,Zhao Liu,Ji Liu,Zhiyang Zhang,Yu Zhou,Guoping Tang,Yiqing Yang,Chengcheng Guo,Si Dong,Kuo Cai,Pengyue Jia,Maolin Wang,Wanyu Wang,Shiyao Wang,Xinchen Luo,Qigen Hu,Qiang Luo,Xiao Lv,Chaoyi Ma,Ruiming Tang,Kun Gai,Guorui Zhou,Xiangyu Zhao
+  **<ins>Xiaopeng Li</ins>**\*, Yuanjin Zheng\*, Wanyu Wang, wenlin zhang, Pengyue Jia, Yiqi Wang, Maolin Wang, Xuetao Wei, Xiangyu Zhao\
   arXiv
 
 * **[SyNeg: LLM-Driven Synthetic Hard-Negatives for Dense Retrieval](https://arxiv.org/abs/2412.17250)**  
