@@ -141,7 +141,7 @@ My research interests include <u>Recommender Systems, Information Retrieval, and
 ## Tutorials
 
 **[Joint Modeling in Deep Recommender Systems](https://dl.acm.org/doi/10.1145/3701716.3715867)**\
-Pengyue Jia, Jingtong Gao, Yuhao Wang, **Xiaopeng Li**, Qidong Liu, Yichao Wang, Bo Chen, Huifeng Guo, Ruiming Tang\
+Pengyue Jia, Jingtong Gao, Yuhao Wang, **<ins>Xiaopeng Li</ins>**\*, Qidong Liu, Yichao Wang, Bo Chen, Huifeng Guo, Ruiming Tang\
 WWWW'2025, Proceedings of the ACM Web Conference 2025\
 
 ***
