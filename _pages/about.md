@@ -56,37 +56,41 @@ My research interests include <u>Recommender Systems, Information Retrieval, and
 <details>
 <summary><b>2024</b></summary>
 
-- **2024.12:** &nbsp;I am honored to serve as a PC member for IJCAI 2025 and WWW 2025.\
-- **2024.12:** &nbsp;🎉🎉 One paper is accepted to ICASSP 2025.\
-- **2024.12:** &nbsp;🎉🎉 Our tutorial proposal, "Joint Modeling in Deep Recommender Systems," is accepted to WWW 2025.\
-- **2024.09:** &nbsp;I am honored to serve as a reviewer for ICLR 2025.\
-- **2024.09:** &nbsp;🎉🎉 One paper is accepted to NeurIPS 2024.\
-- **2024.08:** &nbsp;I am honored to serve as a reviewer for ICASSP 2025.\
-- **2024.08:** &nbsp;I am honored to serve as a PC member for KDD 2025.\
-- **2024.07:** &nbsp;🎉🎉 Our team AML_Lab@CityU wins 2nd place (2/502) in the [KDD Cup 2024](https://discourse.aicrowd.com/t/announcing-the-winners-of-amazon-kdd-cup-2024/10758), earning a prize of $8,750. Heartfelt thanks to all my amazing teammates for the great collaboration!\
-- **2024.07:** &nbsp;🎉🎉 One paper is accepted to CIKM 2024.\
-- **2024.05:** &nbsp;I am honored to serve as a reviewer for ACM Transactions on Intelligent Systems and Technology (ACM TIST).\
-- **2024.04:** &nbsp;I am honored to serve as a reviewer for IEEE/ACM Transactions on Audio, Speech, and Language Processing (IEEE/ACM TASLP).\
-- **2024.04:** &nbsp;I am honored to serve as a PC member for MM 2024.\
-- **2024.03:** &nbsp;I am honored to serve as a PC member for CIKM 2024.\
-- **2024.03:** &nbsp;🎉🎉 One paper is accepted to NAACL 2024.\
-- **2024.02:** &nbsp;I am honored to serve as a PC member for KDD 2024.\
-- **2024.02:** &nbsp;I am honored to serve as a reviewer for ACM Transactions on Information Systems (ACM TOIS).
+<ul>
+  <li><b>2024.12:</b> &nbsp;I am honored to serve as a PC member for IJCAI 2025 and WWW 2025.</li>
+  <li><b>2024.12:</b> &nbsp;🎉🎉 One paper is accepted to ICASSP 2025.</li>
+  <li><b>2024.12:</b> &nbsp;🎉🎉 Our tutorial proposal, "Joint Modeling in Deep Recommender Systems," is accepted to WWW 2025.</li>
+  <li><b>2024.09:</b> &nbsp;I am honored to serve as a reviewer for ICLR 2025.</li>
+  <li><b>2024.09:</b> &nbsp;🎉🎉 One paper is accepted to NeurIPS 2024.</li>
+  <li><b>2024.08:</b> &nbsp;I am honored to serve as a reviewer for ICASSP 2025.</li>
+  <li><b>2024.08:</b> &nbsp;I am honored to serve as a PC member for KDD 2025.</li>
+  <li><b>2024.07:</b> &nbsp;🎉🎉 Our team AML_Lab@CityU wins 2nd place (2/502) in the <a href="https://discourse.aicrowd.com/t/announcing-the-winners-of-amazon-kdd-cup-2024/10758">KDD Cup 2024</a>, earning a prize of $8,750. Heartfelt thanks to all my amazing teammates for the great collaboration!</li>
+  <li><b>2024.07:</b> &nbsp;🎉🎉 One paper is accepted to CIKM 2024.</li>
+  <li><b>2024.05:</b> &nbsp;I am honored to serve as a reviewer for ACM Transactions on Intelligent Systems and Technology (ACM TIST).</li>
+  <li><b>2024.04:</b> &nbsp;I am honored to serve as a reviewer for IEEE/ACM Transactions on Audio, Speech, and Language Processing (IEEE/ACM TASLP).</li>
+  <li><b>2024.04:</b> &nbsp;I am honored to serve as a PC member for MM 2024.</li>
+  <li><b>2024.03:</b> &nbsp;I am honored to serve as a PC member for CIKM 2024.</li>
+  <li><b>2024.03:</b> &nbsp;🎉🎉 One paper is accepted to NAACL 2024.</li>
+  <li><b>2024.02:</b> &nbsp;I am honored to serve as a PC member for KDD 2024.</li>
+  <li><b>2024.02:</b> &nbsp;I am honored to serve as a reviewer for ACM Transactions on Information Systems (ACM TOIS).</li>
+</ul>
 
 </details>
 
 <details>
 <summary><b>2023</b></summary>
 
-- **2023.12:** &nbsp;I am honored to serve as a PC member for IJCAI 2024.\
-- **2023.12:** &nbsp;🎉🎉 One paper is accepted to AAAI 2024.\
-- **2023.12:** &nbsp;I am honored to serve as a reviewer for ACM Transactions on Knowledge Discovery from Data (ACM TKDD).\
-- **2023.10:** &nbsp;I am honored to serve as a reviewer for Expert Systems with Applications (ESWA).\
-- **2023.08:** &nbsp;I am honored to serve as a PC member for AAAI 2024.\
-- **2023.06:** &nbsp;I serve as a volunteer at IJCAI 2023.\
-- **2023.06:** &nbsp;🎉🎉 One paper is accepted to CIKM 2023.\
-- **2023.03:** &nbsp;I serve as a volunteer at WWW 2023.\
-- **2023.01:** &nbsp;I start my Ph.D. journey at CityUHK.
+<ul>
+  <li><b>2023.12:</b> &nbsp;I am honored to serve as a PC member for IJCAI 2024.</li>
+  <li><b>2023.12:</b> &nbsp;🎉🎉 One paper is accepted to AAAI 2024.</li>
+  <li><b>2023.12:</b> &nbsp;I am honored to serve as a reviewer for ACM Transactions on Knowledge Discovery from Data (ACM TKDD).</li>
+  <li><b>2023.10:</b> &nbsp;I am honored to serve as a reviewer for Expert Systems with Applications (ESWA).</li>
+  <li><b>2023.08:</b> &nbsp;I am honored to serve as a PC member for AAAI 2024.</li>
+  <li><b>2023.06:</b> &nbsp;I serve as a volunteer at IJCAI 2023.</li>
+  <li><b>2023.06:</b> &nbsp;🎉🎉 One paper is accepted to CIKM 2023.</li>
+  <li><b>2023.03:</b> &nbsp;I serve as a volunteer at WWW 2023.</li>
+  <li><b>2023.01:</b> &nbsp;I start my Ph.D. journey at CityUHK.</li>
+</ul>
 
 </details>
 
