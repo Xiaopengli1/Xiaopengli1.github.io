@@ -130,9 +130,9 @@ My research interests include <u>Recommender Systems, Information Retrieval, and
 <!-- ## Teaching Experience
 2025\~2026 Semester B - Statistical Machine Learning II, TA\
 2025\~2026 Semester A - Statistical Machine Learning I, TA\
-2024\~2025 Semester B - Introduction to Computational Scocial Science, TA\
+2024\~2025 Semester B - Introduction to Computational Social Science, TA\
 2024\~2025 Semester A - Fundamentals of Machine Learning, TA\
-2023\~2024 Semester B - Introduction to Computational Scocial Science, TA -->
+2023\~2024 Semester B - Introduction to Computational Social Science, TA -->
 
 ## Tutorials
 
@@ -149,11 +149,13 @@ _"\*" denotes equal contribution._
 
 ### Pre-print
 
-* **[A Survey of Generative Recommendation from a Tri-Decoupled Perspective: Tokenization, Architecture, and Optimization](https://www.researchgate.net/publication/398113445_A_Survey_of_Generative_Recommendation_from_a_Tri-Decoupled_Perspective_Tokenization_Architecture_and_Optimization)**  
+* **[A Survey of Generative Recommendation from a Tri-Decoupled Perspective: Tokenization, Architecture, and Optimization](https://www.researchgate.net/publication/398113445_A_Survey_of_Generative_Recommendation_from_a_Tri-Decoupled_Perspective_Tokenization_Architecture_and_Optimization)**
+  **<ins>Xiaopeng Li</ins>**\*, Bo Chen\*, Wanyu Wang, Wenlin Zhang, Pengyue Jia, Yingyi Zhang, Yiqi Wang, Maolin Wang, Xuetao Wei, Xiangyu Zhao  
+
 ResearchGate
 
 * **[MTA: A Merge-then-Adapt Framework for Personalized Large Language Models](https://arxiv.org/abs/2511.20072)**  
-  **<ins>Xiaopeng Li</ins> (Co-first author)**, Yuanjin Zheng (Co-first author), Wanyu Wang, Wenlin Zhang, Pengyue Jia, Yingyi Zhang, Yiqi Wang, Maolin Wang, Xuetao Wei, Xiangyu Zhao  
+  **<ins>Xiaopeng Li</ins>**\*, Junda She, Shiteng Cao,You Wang,Qinlin Jia,Haiying He,Zheli Zhou,Zhao Liu,Ji Liu,Zhiyang Zhang,Yu Zhou,Guoping Tang,Yiqing Yang,Chengcheng Guo,Si Dong,Kuo Cai,Pengyue Jia,Maolin Wang,Wanyu Wang,Shiyao Wang,Xinchen Luo,Qigen Hu,Qiang Luo,Xiao Lv,Chaoyi Ma,Ruiming Tang,Kun Gai,Guorui Zhou,Xiangyu Zhao
   arXiv
 
 * **[SyNeg: LLM-Driven Synthetic Hard-Negatives for Dense Retrieval](https://arxiv.org/abs/2412.17250)**  
@@ -163,11 +165,11 @@ ResearchGate
 ### Conference & Journal Papers
 
 * **[A Survey of Personalization: From RAG to Agent](https://arxiv.org/abs/2504.10147)**  
-  **<ins>Xiaopeng Li</ins> (Co-first author)**, Pengyue Jia (Co-first author), Derong Xu, Yi Wen, Yingyi Zhang, Wenlin Zhang, Wanyu Wang, Yichao Wang, Zhaocheng Du, Xiangyang Li, Yong Liu, Huifeng Guo, Ruiming Tang, Xiangyu Zhao  
+  **<ins>Xiaopeng Li</ins>**\*, Pengyue Jia\*, Derong Xu, Yi Wen, Yingyi Zhang, Wenlin Zhang, Wanyu Wang, Yichao Wang, Zhaocheng Du, Xiangyang Li, Yong Liu, Huifeng Guo, Ruiming Tang, Xiangyu Zhao  
   TOIS'2026
 
 * **[Scenario-Wise Rec: A Multi-Scenario Recommendation Benchmark](https://arxiv.org/abs/2412.17374)**  
-  **<ins>Xiaopeng Li</ins> (Co-first author)**, Jingtong Gao (Co-first author), Pengyue Jia, Yichao Wang, Wanyu Wang, Yuhao Wang, Yejing Wang, Huifeng Guo, Ruiming Tang, Xiangyu Zhao  
+  **<ins>Xiaopeng Li</ins>**\*, Jingtong Gao\*, Pengyue Jia, Yichao Wang, Wanyu Wang, Yuhao Wang, Yejing Wang, Huifeng Guo, Ruiming Tang, Xiangyu Zhao  
   CIKM'2025
 
 * **[Agent4Ranking: Semantic Robust Ranking via Personalized Query Rewriting Using Multi-agent LLM](https://arxiv.org/abs/2312.15450)**  
@@ -179,19 +181,19 @@ ResearchGate
   CIKM'2023
 
 * **[BlossomRec: Block-level Fused Sparse Attention Mechanism for Sequential Recommendations](https://arxiv.org/abs/2512.13368)**  
-  Mengyang Ma (Co-first author), **<ins>Xiaopeng Li</ins> (Co-first author)**, Wanyu Wang, Zhaocheng Du, Jingtong Gao, Pengyue Jia, Yuyang Ye, Yiqi Wang, Yunpeng Weng, Weihong Luo, Xiao Han, Xiangyu Zhao  
+  Mengyang Ma\*, **<ins>Xiaopeng Li</ins>**\*, Wanyu Wang, Zhaocheng Du, Jingtong Gao, Pengyue Jia, Yuyang Ye, Yiqi Wang, Yunpeng Weng, Weihong Luo, Xiao Han, Xiangyu Zhao  
   WWW'2026
 
 * **[Humanity's Last Code Exam: Can Advanced LLMs Conquer Human's Hardest Code Competition?](https://arxiv.org/abs/2506.12713)**  
-  Xiangyang Li (Co-first author), **<ins>Xiaopeng Li</ins> (Co-first author)**, Kuicai Dong, Quanhu Zhang, Rongju Ruan, Xinyi Dai, Xiaoshuang Liu, Shengchun Xu, Yasheng Wang, Ruiming Tang  
+  Xiangyang Li\*, **<ins>Xiaopeng Li</ins>**\*, Kuicai Dong, Quanhu Zhang, Rongju Ruan, Xinyi Dai, Xiaoshuang Liu, Shengchun Xu, Yasheng Wang, Ruiming Tang  
   EMNLP'2025
 
 * **[Bridging Relevance and Reasoning: Rationale Distillation in Retrieval-Augmented Generation](https://arxiv.org/pdf/2412.08519)**  
-  Pengyue Jia (Co-first author), Derong Xu (Co-first author), **<ins>Xiaopeng Li</ins> (Co-first author)**, Zhaocheng Du, Xiangyang Li, Xiangyu Zhao, Yichao Wang, Yuhao Wang, Huifeng Guo, Ruiming Tang  
+  Pengyue Jia, Derong Xu, **<ins>Xiaopeng Li</ins>**\*, Zhaocheng Du, Xiangyang Li, Xiangyu Zhao, Yichao Wang, Yuhao Wang, Huifeng Guo, Ruiming Tang  
   ACL Findings'2025
 
 * **[TAPO: Task-Referenced Adaptation for Prompt Optimization](https://arxiv.org/abs/2501.06689)**  
-  Wenxin Luo (Co-first author), Weirui Wang (Co-first author), **<ins>Xiaopeng Li</ins> (Co-first author)**, Weibo Zhou, Pengyue Jia, Xiangyu Zhao  
+  Wenxin Luo\*, Weirui Wang\*, **<ins>Xiaopeng Li</ins>**\*, Weibo Zhou, Pengyue Jia, Xiangyu Zhao  
   ICASSP'2025
 
 * **[Personalize Before Retrieve: LLM-based Personalized Query Expansion for User-Centric Retrieval](https://ojs.aaai.org/index.php/AAAI/article/view/38679)**  
