@@ -92,7 +92,7 @@ My research interests include <u>Recommender Systems, Information Retrieval, and
 
 # 🏆 Honors and Awards
 - Outstanding Academic Performance Award (OAPA-CityU 2025)
-- **2nd place overall** in the "[KDD CUP 2024 (Multi-Task Online Shopping Challenge for LLMs)](https://discourse.aicrowd.com/t/announcing-the-winners-of-amazon-kdd-cup-2024/10758)" competition hosted by Amazon. (Group AML666)
+- **Best Student Team & 2nd place overall** in the "[KDD CUP 2024 (Multi-Task Online Shopping Challenge for LLMs)](https://discourse.aicrowd.com/t/announcing-the-winners-of-amazon-kdd-cup-2024/10758)" competition hosted by Amazon. (Group AML666)
 - Excellent Postgraduate Student, Xi'an Jiaotong University
 - Outstanding Undergraduate Graduates, Xi'an Jiaotong University
 
