@@ -79,12 +79,12 @@ My research interests include <u>Recommender Systems, Information Retrieval, and
 <summary><b>2023</b></summary>
 
 - **2023.12:** &nbsp;I am honored to serve as a PC member for IJCAI 2024.\
-- **2023.12:** &nbsp;🎉🎉 One paper is accepted by AAAI 2024.\
+- **2023.12:** &nbsp;🎉🎉 One paper is accepted to AAAI 2024.\
 - **2023.12:** &nbsp;I am honored to serve as a reviewer for ACM Transactions on Knowledge Discovery from Data (ACM TKDD).\
 - **2023.10:** &nbsp;I am honored to serve as a reviewer for Expert Systems with Applications (ESWA).\
 - **2023.08:** &nbsp;I am honored to serve as a PC member for AAAI 2024.\
 - **2023.06:** &nbsp;I serve as a volunteer at IJCAI 2023.\
-- **2023.06:** &nbsp;🎉🎉 One paper is accepted by CIKM 2023.\
+- **2023.06:** &nbsp;🎉🎉 One paper is accepted to CIKM 2023.\
 - **2023.03:** &nbsp;I serve as a volunteer at WWW 2023.\
 - **2023.01:** &nbsp;I start my Ph.D. journey at CityUHK.
 
