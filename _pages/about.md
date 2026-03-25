@@ -17,13 +17,12 @@ redirect_from:
 
 [//]: # (<span class='anchor' id='about-me'></span>)
 [//]: # (# 💡 About Me [My CV: [English]&#40;pdf/CV-EN-Gao Jingtong-250625-noph.pdf&#41;/[Chinese]&#40;pdf/CV-CN-Gao Jingtong-250625-noph.pdf&#41;])
-# Open to Opportunities (PhD, 2026)
-**My Expected PhD graduation:** Jun–Aug 2026. Actively seeking opportunities in **Recommender Systems**, **Ads tech** (retrieval/recall, bidding, etc.) and other **LLM-related positions** worldwide. Feel free to **reach out via email**.
 
 # 💡 About Me
 I am **Xiaopeng Li**, currently a 4th-year Ph.D. student at City University of Hong Kong, supervised by [Prof. Xiangyu Zhao](https://zhaoxyai.github.io/) in [AML Lab](https://aml-cityu.github.io/). Before that, I received M.S. and B.Eng degrees from Xi'an Jiaotong University.  
 
-My research interest includes <u>Recommender Systems, Information Retrieval, and Personalized Large Language Models</u>. I have published several papers at the top international AI conferences with [300+ citations](https://scholar.google.com/citations?user=hCCqgQQAAAAJ).
+My research interests include <u>Recommender Systems, Information Retrieval, and Personalized Large Language Models</u>. I have published several papers at the top international AI conferences with [300+ citations](https://scholar.google.com/citations?user=hCCqgQQAAAAJ).
+
 
 [//]: # (My research interest includes Recommender Systems, Large Language Models, Deep Reinforcement Learning and Machine Learning. I have published several papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=tkis1Q0AAAAJ'>200+ citations</a>.)
 
