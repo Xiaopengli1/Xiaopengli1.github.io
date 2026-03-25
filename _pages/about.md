@@ -19,12 +19,12 @@ redirect_from:
 [//]: # (# 💡 About Me [My CV: [English]&#40;pdf/CV-EN-Gao Jingtong-250625-noph.pdf&#41;/[Chinese]&#40;pdf/CV-CN-Gao Jingtong-250625-noph.pdf&#41;])
 
 # 💡 About Me
-I am **Xiaopeng Li**, currently a 4th-year Ph.D. student at City University of Hong Kong, supervised by [Prof. Xiangyu Zhao](https://zhaoxyai.github.io/) in [AML Lab](https://aml-cityu.github.io/). Before that, I received M.S. and B.Eng degrees from Xi'an Jiaotong University.  
+I am **Xiaopeng Li**, currently a 4th-year Ph.D. student at City University of Hong Kong, supervised by [Prof. Xiangyu Zhao](https://zhaoxyai.github.io/) in [AML Lab](https://aml-cityu.github.io/). Before that, I received my M.S. and B.Eng. degrees from Xi'an Jiaotong University.
 
-My research interests include <u>Recommender Systems, Information Retrieval, and Personalized Large Language Models</u>. I have published several papers at the top international AI conferences with [300+ citations](https://scholar.google.com/citations?user=hCCqgQQAAAAJ).
+My research interests include <u>Recommender Systems, Information Retrieval, and Personalized Large Language Models</u>. I have published several papers at top international AI conferences, with over [300+ citations](https://scholar.google.com/citations?user=hCCqgQQAAAAJ).
 
 
-[//]: # (My research interest includes Recommender Systems, Large Language Models, Deep Reinforcement Learning and Machine Learning. I have published several papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=tkis1Q0AAAAJ'>200+ citations</a>.)
+[//]: # (My research interests include Recommender Systems, Large Language Models, Deep Reinforcement Learning and Machine Learning. I have published several papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=tkis1Q0AAAAJ'>200+ citations</a>.)
 
 [//]: # (<a href='https://scholar.google.com/citations?user=tkis1Q0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>)
 
@@ -34,42 +34,42 @@ My research interests include <u>Recommender Systems, Information Retrieval, and
 - **2026.01:** &nbsp;I am invited to give a talk at Pinterest.
 - **2026.01:** &nbsp;I am invited to give a talk at Kuaishou.
 - **2026.01:** &nbsp;I am honored to serve as a reviewer for MM 2026.
-- **2026.01:** &nbsp;🎉🎉 My co-first-author paper [BlossomRec](https://arxiv.org/abs/2512.13368) is accepted by WWW.
+- **2026.01:** &nbsp;🎉🎉 My co-first-author paper [BlossomRec](https://arxiv.org/abs/2512.13368) is accepted to WWW.
 - **2025.12:** &nbsp;Welcome to check out our recent survey on generative recommendation, in collaboration with Kuaishou: [A Survey of Generative Recommendation from a Tri-Decoupled Perspective: Tokenization, Architecture, and Optimization](https://www.researchgate.net/publication/398113445_A_Survey_of_Generative_Recommendation_from_a_Tri-Decoupled_Perspective_Tokenization_Architecture_and_Optimization)!
 - **2025.12:** &nbsp;I am honored to serve as a reviewer for SIGIR 2026 and KDD 2026.
-- **2025.12:** &nbsp;🎉🎉 Our paper [A Survey of Personalization: From RAG to Agent](https://arxiv.org/abs/2504.10147) is accepted by ACM TOIS.
-- **2025.11:** &nbsp;🎉🎉 One paper is accepted by AAAI.
-- **2025.09:** &nbsp;🎉🎉 One paper is accepted by NeurIPS 2025.
+- **2025.12:** &nbsp;🎉🎉 Our paper [A Survey of Personalization: From RAG to Agent](https://arxiv.org/abs/2504.10147) is accepted to ACM TOIS.
+- **2025.11:** &nbsp;🎉🎉 One paper is accepted to AAAI.
+- **2025.09:** &nbsp;🎉🎉 One paper is accepted to NeurIPS 2025.
 - **2025.09:** &nbsp;I join Kuaishou as a research intern, focusing on generative recommendation.
 - **2025.09:** &nbsp;I am honored to serve as a reviewer for ICLR 2026.
 - **2025.08:** &nbsp;🎉🎉 I am very honored to receive the Outstanding Academic Performance Award (OAPA) granted by CityUHK.
-- **2025.08:** &nbsp;🎉🎉 One paper is accepted by EMNLP 2025.
-- **2025.07:** &nbsp;🎉🎉 Two papers are accepted by CIKM 2025.
+- **2025.08:** &nbsp;🎉🎉 One paper is accepted to EMNLP 2025.
+- **2025.07:** &nbsp;🎉🎉 Two papers are accepted to CIKM 2025.
 - **2025.07:** &nbsp;I am invited to give a talk, _Beyond RAG: Towards the Agentic Era of Intelligent Agents_, at the [Data+AI Conference (DA 数智大会)](https://www.bagevent.com/event/8990882?sId=86807).
-- **2025.07:** &nbsp;🎉🎉 One paper is accepted by ACM TOIS.
-- **2025.05:** &nbsp;🎉🎉 One paper is accepted by ACL 2025.
+- **2025.07:** &nbsp;🎉🎉 One paper is accepted to ACM TOIS.
+- **2025.05:** &nbsp;🎉🎉 One paper is accepted to ACL 2025.
 - **2025.04:** &nbsp;Welcome to check out our latest survey [Deep Research: A Survey of Autonomous Research Agents](https://arxiv.org/abs/2508.12752)!
 - **2025.04:** &nbsp;Welcome to check out our latest survey [A Survey of Personalization: From RAG to Agent](https://arxiv.org/abs/2504.10147) and its [GitHub repository](https://github.com/Applied-Machine-Learning-Lab/Awesome-Personalized-RAG-Agent)!
 - **2025.03:** &nbsp;I am honored to serve as a PC member for RecSys 2025, CIKM 2025, and MM 2025.
-- **2025.01:** &nbsp;🎉🎉 One paper is accepted by WWW 2025.
+- **2025.01:** &nbsp;🎉🎉 One paper is accepted to WWW 2025.
 
 <details>
 <summary><b>2024</b></summary>
 
 - **2024.12:** &nbsp;I am honored to serve as a PC member for IJCAI 2025 and WWW 2025.\
-- **2024.12:** &nbsp;🎉🎉 One paper is accepted by ICASSP 2025.\
-- **2024.12:** &nbsp;🎉🎉 Our tutorial proposal, "Joint Modeling in Deep Recommender Systems," is accepted by WWW 2025.\
+- **2024.12:** &nbsp;🎉🎉 One paper is accepted to ICASSP 2025.\
+- **2024.12:** &nbsp;🎉🎉 Our tutorial proposal, "Joint Modeling in Deep Recommender Systems," is accepted to WWW 2025.\
 - **2024.09:** &nbsp;I am honored to serve as a reviewer for ICLR 2025.\
-- **2024.09:** &nbsp;🎉🎉 One paper is accepted by NeurIPS 2024.\
+- **2024.09:** &nbsp;🎉🎉 One paper is accepted to NeurIPS 2024.\
 - **2024.08:** &nbsp;I am honored to serve as a reviewer for ICASSP 2025.\
 - **2024.08:** &nbsp;I am honored to serve as a PC member for KDD 2025.\
 - **2024.07:** &nbsp;🎉🎉 Our team AML_Lab@CityU wins 2nd place (2/502) in the [KDD Cup 2024](https://discourse.aicrowd.com/t/announcing-the-winners-of-amazon-kdd-cup-2024/10758), earning a prize of $8,750. Heartfelt thanks to all my amazing teammates for the great collaboration!\
-- **2024.07:** &nbsp;🎉🎉 One paper is accepted by CIKM 2024.\
+- **2024.07:** &nbsp;🎉🎉 One paper is accepted to CIKM 2024.\
 - **2024.05:** &nbsp;I am honored to serve as a reviewer for ACM Transactions on Intelligent Systems and Technology (ACM TIST).\
 - **2024.04:** &nbsp;I am honored to serve as a reviewer for IEEE/ACM Transactions on Audio, Speech, and Language Processing (IEEE/ACM TASLP).\
 - **2024.04:** &nbsp;I am honored to serve as a PC member for MM 2024.\
 - **2024.03:** &nbsp;I am honored to serve as a PC member for CIKM 2024.\
-- **2024.03:** &nbsp;🎉🎉 One paper is accepted by NAACL 2024.\
+- **2024.03:** &nbsp;🎉🎉 One paper is accepted to NAACL 2024.\
 - **2024.02:** &nbsp;I am honored to serve as a PC member for KDD 2024.\
 - **2024.02:** &nbsp;I am honored to serve as a reviewer for ACM Transactions on Information Systems (ACM TOIS).
 
@@ -83,9 +83,9 @@ My research interests include <u>Recommender Systems, Information Retrieval, and
 - **2023.12:** &nbsp;I am honored to serve as a reviewer for ACM Transactions on Knowledge Discovery from Data (ACM TKDD).\
 - **2023.10:** &nbsp;I am honored to serve as a reviewer for Expert Systems with Applications (ESWA).\
 - **2023.08:** &nbsp;I am honored to serve as a PC member for AAAI 2024.\
-- **2023.06:** &nbsp;I serve as a volunteer for IJCAI 2023.\
+- **2023.06:** &nbsp;I serve as a volunteer at IJCAI 2023.\
 - **2023.06:** &nbsp;🎉🎉 One paper is accepted by CIKM 2023.\
-- **2023.03:** &nbsp;I serve as a volunteer for WWW 2023.\
+- **2023.03:** &nbsp;I serve as a volunteer at WWW 2023.\
 - **2023.01:** &nbsp;I start my Ph.D. journey at CityUHK.
 
 </details>
@@ -102,7 +102,7 @@ My research interests include <u>Recommender Systems, Information Retrieval, and
 
 # 🤝 Service
 - **Journal Reviewer**: TPAMI, ACM TIST, ACM TKDD, ACM TOIS, IEEE/ACM TASLP, ESWA
-- **Conference PC Member / Reviewer (2025)**: KDD, SIGIR, MM, NeurIPS
+- **Conference PC Member / Reviewer (2026)**: KDD, SIGIR, MM, NeurIPS
 - **Conference PC Member / Reviewer (2025)**: KDD, IJCNN, IJCAI, WWW, MM, RecSys, CIKM
 - **Conference PC Member / Reviewer (2024)**: AAAI, IJCAI, KDD, CIKM, MM, ACL Rolling Review (ARR)
 - **Conference Volunteer**: IJCAI 2023, WWW 2023
@@ -138,7 +138,7 @@ My research interests include <u>Recommender Systems, Information Retrieval, and
 
 **[Joint Modeling in Deep Recommender Systems](https://dl.acm.org/doi/10.1145/3701716.3715867)**\
 Pengyue Jia, Jingtong Gao, Yuhao Wang, **Xiaopeng Li**, Qidong Liu, Yichao Wang, Bo Chen, Huifeng Guo, Ruiming Tang\
-WWW'25, Proceedings of the ACM Web Conference 2025\
+WWWW'2025, Proceedings of the ACM Web Conference 2025\
 
 ***
 
@@ -146,14 +146,14 @@ WWW'25, Proceedings of the ACM Web Conference 2025\
 
 _"\*" denotes equal contribution._
 
-### Pre-print
+### Preprints
 
 * **[A Survey of Generative Recommendation from a Tri-Decoupled Perspective: Tokenization, Architecture, and Optimization](https://www.researchgate.net/publication/398113445_A_Survey_of_Generative_Recommendation_from_a_Tri-Decoupled_Perspective_Tokenization_Architecture_and_Optimization)**
   **<ins>Xiaopeng Li</ins>**\*, Junda She, Shiteng Cao, You Wang, Qinlin Jia, Haiying He, Zheli Zhou, Zhao Liu, Ji Liu, Zhiyang Zhang, Yu Zhou, Guoping Tang, Yiqing Yang, Chengcheng Guo, Si Dong, Kuo Cai, Pengyue Jia, Maolin Wang, Wanyu Wang, Shiyao Wang, Xinchen Luo, Qigen Hu, Qiang Luo, Xiao Lv, Chaoyi Ma, Ruiming Tang, Kun Gai, Guorui Zhou, Xiangyu Zhao\
 ResearchGate
 
 * **[MTA: A Merge-then-Adapt Framework for Personalized Large Language Models](https://arxiv.org/abs/2511.20072)**  
-  **<ins>Xiaopeng Li</ins>**\*, Yuanjin Zheng\*, Wanyu Wang, wenlin zhang, Pengyue Jia, Yiqi Wang, Maolin Wang, Xuetao Wei, Xiangyu Zhao\
+  **<ins>Xiaopeng Li</ins>**\*, Yuanjin Zheng\*, Wanyu Wang, Wenlin zhang, Pengyue Jia, Yiqi Wang, Maolin Wang, Xuetao Wei, Xiangyu Zhao\
   arXiv
 
 * **[SyNeg: LLM-Driven Synthetic Hard-Negatives for Dense Retrieval](https://arxiv.org/abs/2412.17250)**  
