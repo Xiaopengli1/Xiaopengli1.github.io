@@ -34,23 +34,31 @@ My research interests include <u>Recommender Systems, Information Retrieval, and
 - **2026.01:** &nbsp;I was invited to give a talk at Kuaishou titled _Generative Recommendation from a Tri-Decoupled Perspective_.
 - **2026.01:** &nbsp;I am honored to serve as a reviewer for MM 2026.
 - **2026.01:** &nbsp;🎉🎉 My co-first-author paper [BlossomRec](https://arxiv.org/abs/2512.13368) is accepted to WWW.
-- **2025.12:** &nbsp;Welcome to check out our recent survey on generative recommendation, in collaboration with Kuaishou: [A Survey of Generative Recommendation from a Tri-Decoupled Perspective: Tokenization, Architecture, and Optimization](https://www.researchgate.net/publication/398113445_A_Survey_of_Generative_Recommendation_from_a_Tri-Decoupled_Perspective_Tokenization_Architecture_and_Optimization)!
-- **2025.12:** &nbsp;I am honored to serve as a reviewer for SIGIR 2026 and KDD 2026.
-- **2025.12:** &nbsp;🎉🎉 Our paper [A Survey of Personalization: From RAG to Agent](https://arxiv.org/abs/2504.10147) is accepted to ACM TOIS.
-- **2025.11:** &nbsp;🎉🎉 One paper is accepted to AAAI.
-- **2025.09:** &nbsp;🎉🎉 One paper is accepted to NeurIPS 2025.
-- **2025.09:** &nbsp;I join Kuaishou as a research intern, focusing on generative recommendation.
-- **2025.09:** &nbsp;I am honored to serve as a reviewer for ICLR 2026.
-- **2025.08:** &nbsp;🎉🎉 I am very honored to receive the Outstanding Academic Performance Award (OAPA) granted by CityUHK.
-- **2025.08:** &nbsp;🎉🎉 One paper is accepted to EMNLP 2025.
-- **2025.07:** &nbsp;🎉🎉 Two papers are accepted to CIKM 2025.
-- **2025.07:** &nbsp;I am invited to give a talk, _Beyond RAG: Towards the Agentic Era of Intelligent Agents_, at the [Data+AI Conference (DA 数智大会)](https://www.bagevent.com/event/8990882?sId=86807).
-- **2025.07:** &nbsp;🎉🎉 One paper is accepted to ACM TOIS.
-- **2025.05:** &nbsp;🎉🎉 One paper is accepted to ACL 2025.
-- **2025.04:** &nbsp;Welcome to check out our latest survey [Deep Research: A Survey of Autonomous Research Agents](https://arxiv.org/abs/2508.12752)!
-- **2025.04:** &nbsp;Welcome to check out our latest survey [A Survey of Personalization: From RAG to Agent](https://arxiv.org/abs/2504.10147) and its [GitHub repository](https://github.com/Applied-Machine-Learning-Lab/Awesome-Personalized-RAG-Agent)!
-- **2025.03:** &nbsp;I am honored to serve as a PC member for RecSys 2025, CIKM 2025, and MM 2025.
-- **2025.01:** &nbsp;🎉🎉 One paper is accepted to WWW 2025.
+
+<details>
+<summary><b>2025</b></summary>
+
+<ul>
+  <li><b>2025.12:</b> &nbsp;Welcome to check out our recent survey on generative recommendation, in collaboration with Kuaishou: <a href="https://www.researchgate.net/publication/398113445_A_Survey_of_Generative_Recommendation_from_a_Tri-Decoupled_Perspective_Tokenization_Architecture_and_Optimization">A Survey of Generative Recommendation from a Tri-Decoupled Perspective: Tokenization, Architecture, and Optimization</a>!</li>
+  <li><b>2025.12:</b> &nbsp;I am honored to serve as a reviewer for SIGIR 2026 and KDD 2026.</li>
+  <li><b>2025.12:</b> &nbsp;🎉🎉 Our paper <a href="https://arxiv.org/abs/2504.10147">A Survey of Personalization: From RAG to Agent</a> is accepted to ACM TOIS.</li>
+  <li><b>2025.11:</b> &nbsp;🎉🎉 One paper is accepted to AAAI.</li>
+  <li><b>2025.09:</b> &nbsp;🎉🎉 One paper is accepted to NeurIPS 2025.</li>
+  <li><b>2025.09:</b> &nbsp;I join Kuaishou as a research intern, focusing on generative recommendation.</li>
+  <li><b>2025.09:</b> &nbsp;I am honored to serve as a reviewer for ICLR 2026.</li>
+  <li><b>2025.08:</b> &nbsp;🎉🎉 I am very honored to receive the Outstanding Academic Performance Award (OAPA) granted by CityUHK.</li>
+  <li><b>2025.08:</b> &nbsp;🎉🎉 One paper is accepted to EMNLP 2025.</li>
+  <li><b>2025.07:</b> &nbsp;🎉🎉 Two papers are accepted to CIKM 2025.</li>
+  <li><b>2025.07:</b> &nbsp;I am invited to give a talk, <i>Beyond RAG: Towards the Agentic Era of Intelligent Agents</i>, at the <a href="https://www.bagevent.com/event/8990882?sId=86807">Data+AI Conference (DA 数智大会)</a>.</li>
+  <li><b>2025.07:</b> &nbsp;🎉🎉 One paper is accepted to ACM TOIS.</li>
+  <li><b>2025.05:</b> &nbsp;🎉🎉 One paper is accepted to ACL 2025.</li>
+  <li><b>2025.04:</b> &nbsp;Welcome to check out our latest survey <a href="https://arxiv.org/abs/2508.12752">Deep Research: A Survey of Autonomous Research Agents</a>!</li>
+  <li><b>2025.04:</b> &nbsp;Welcome to check out our latest survey <a href="https://arxiv.org/abs/2504.10147">A Survey of Personalization: From RAG to Agent</a> and its <a href="https://github.com/Applied-Machine-Learning-Lab/Awesome-Personalized-RAG-Agent">GitHub repository</a>!</li>
+  <li><b>2025.03:</b> &nbsp;I am honored to serve as a PC member for RecSys 2025, CIKM 2025, and MM 2025.</li>
+  <li><b>2025.01:</b> &nbsp;🎉🎉 One paper is accepted to WWW 2025.</li>
+</ul>
+
+</details>
 
 <details>
 <summary><b>2024</b></summary>
