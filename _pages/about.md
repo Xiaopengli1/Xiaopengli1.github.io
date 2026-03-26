@@ -29,7 +29,6 @@ My research interests include <u>Recommender Systems, Information Retrieval, and
 [//]: # (<a href='https://scholar.google.com/citations?user=tkis1Q0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>)
 
 # 🔥 News
-- **2026.03:** &nbsp;I am honored to serve as a reviewer for NeurIPS 2026.
 - **2026.03:** &nbsp;I am honored to serve as a reviewer for TPAMI.
 - **2026.01:** &nbsp;I was invited to give a talk at Pinterest titled _Generative Recommendation from a Tri-Decoupled Perspective_.
 - **2026.01:** &nbsp;I was invited to give a talk at Kuaishou titled _Generative Recommendation from a Tri-Decoupled Perspective_.
