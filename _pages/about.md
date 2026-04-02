@@ -33,7 +33,7 @@ My research interests include <u>Recommender Systems, Information Retrieval, and
 - **2026.01:** &nbsp;I was invited to give a talk at Pinterest titled _Generative Recommendation from a Tri-Decoupled Perspective_.
 - **2026.01:** &nbsp;I was invited to give a talk at Kuaishou titled _Generative Recommendation from a Tri-Decoupled Perspective_.
 - **2026.01:** &nbsp;I am honored to serve as a reviewer for MM 2026.
-- **2026.01:** &nbsp;🎉🎉 My co-first-author paper [BlossomRec](https://arxiv.org/abs/2512.13368) is accepted to WWW.
+- **2026.01:** &nbsp;🎉🎉 One paper is accepted to WWW 2026.
 
 <details>
 <summary><b>2025</b></summary>
