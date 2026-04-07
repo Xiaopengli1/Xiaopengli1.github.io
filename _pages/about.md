@@ -29,8 +29,8 @@ My research interests include <u>Recommender Systems, Information Retrieval, and
 [//]: # (<a href='https://scholar.google.com/citations?user=tkis1Q0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>)
 
 # 🔥 News
-- **2026.04:** &nbsp;Our Paper _MTA: A Merge-then-Adapt Framework for Personalized Large Language Models_ is accepted to ACL 2026 main conference.
-- **2026.04:** &nbsp;Our Tutorial _Bridging Personalization and AI: From RAG to Agent_ is accepted to SIGIR.
+- **2026.04:** &nbsp;Our Paper <a href="https://arxiv.org/abs/2511.20072">MTA: A Merge-then-Adapt Framework for Personalized Large Language Models</a> is accepted to ACL 2026 main conference.
+- **2026.04:** &nbsp;Our Tutorial <a href="">Bridging Personalization and AI: From RAG to Agent</a> is accepted to SIGIR 2026.
 - **2026.04:** &nbsp;My paper _Personalized Deep Research: A User‑Centric Framework, Dataset, and Hybrid Evaluation for Knowledge Discovery_ is accepted to SIGIR 2026 Resource Track.
 - **2026.03:** &nbsp;I am honored to serve as a reviewer for TPAMI.
 - **2026.01:** &nbsp;I was invited to give a talk at Pinterest titled _Generative Recommendation from a Tri-Decoupled Perspective_.
@@ -150,7 +150,7 @@ My research interests include <u>Recommender Systems, Information Retrieval, and
 
 ## Tutorials
 
-**[Bridging Personalization and AI: From RAG to Agent](https://dl.acm.org/doi/10.1145/3701716.3715867)**\
+**[Bridging Personalization and AI: From RAG to Agent]()**\
 Pengyue Jia, **<ins>Xiaopeng Li</ins>**\*, Derong Xu, Yi Wen, Yingyi Zhang, Wenlin Zhang, Wanyu Wang, Yichao Wang, Yong Liu, Xiangyu Zhao\
 SIGIR'2026
 
