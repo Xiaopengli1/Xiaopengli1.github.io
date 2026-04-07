@@ -31,7 +31,7 @@ My research interests include <u>Recommender Systems, Information Retrieval, and
 # 🔥 News
 - **2026.04:** &nbsp;Our Paper <a href="https://arxiv.org/abs/2511.20072">MTA: A Merge-then-Adapt Framework for Personalized Large Language Models</a> is accepted to ACL 2026 main conference.
 - **2026.04:** &nbsp;Our Tutorial <a href="">Bridging Personalization and AI: From RAG to Agent</a> is accepted to SIGIR 2026.
-- **2026.04:** &nbsp;My paper _Personalized Deep Research: A User‑Centric Framework, Dataset, and Hybrid Evaluation for Knowledge Discovery_ is accepted to SIGIR 2026 Resource Track.
+- **2026.04:** &nbsp;My paper <a href="">Personalized Deep Research: A User‑Centric Framework, Dataset, and Hybrid Evaluation for Knowledge Discovery</a> is accepted to SIGIR 2026 Resource Track.
 - **2026.03:** &nbsp;I am honored to serve as a reviewer for TPAMI.
 - **2026.01:** &nbsp;I was invited to give a talk at Pinterest titled _Generative Recommendation from a Tri-Decoupled Perspective_.
 - **2026.01:** &nbsp;I was invited to give a talk at Kuaishou titled _Generative Recommendation from a Tri-Decoupled Perspective_.
