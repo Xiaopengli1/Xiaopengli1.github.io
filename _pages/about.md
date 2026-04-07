@@ -148,19 +148,6 @@ My research interests include <u>Recommender Systems, Information Retrieval, and
 2024\~2025 Semester A - Fundamentals of Machine Learning, TA\
 2023\~2024 Semester B - Introduction to Computational Social Science, TA -->
 
-## Tutorials
-
-**[Bridging Personalization and AI: From RAG to Agent]()**\
-Pengyue Jia, **<ins>Xiaopeng Li</ins>**\*, Derong Xu, Yi Wen, Yingyi Zhang, Wenlin Zhang, Wanyu Wang, Yichao Wang, Yong Liu, Xiangyu Zhao\
-SIGIR'2026
-
-**[Joint Modeling in Deep Recommender Systems](https://dl.acm.org/doi/10.1145/3701716.3715867)**\
-Pengyue Jia, Jingtong Gao, Yuhao Wang, **<ins>Xiaopeng Li</ins>**\*, Qidong Liu, Yichao Wang, Bo Chen, Huifeng Guo, Ruiming Tang\
-WWWW'2025
-
-***
-
-## Publications
 
 _"\*" denotes equal contribution._
 
@@ -173,6 +160,17 @@ ResearchGate
 * **[SyNeg: LLM-Driven Synthetic Hard-Negatives for Dense Retrieval](https://arxiv.org/abs/2412.17250)**  
   **<ins>Xiaopeng Li</ins>**, Xiangyang Li, Hao Zhang, Zhaocheng Du, Yichao Wang, Pengyue Jia, Xiangyu Zhao, Huifeng Guo, Ruiming Tang  
   arXiv
+
+### Tutorials
+
+* **[Bridging Personalization and AI: From RAG to Agent]()**\
+  Pengyue Jia\*, **<ins>Xiaopeng Li</ins>**\*, Derong Xu, Yi Wen, Yingyi Zhang, Wenlin Zhang, Wanyu Wang, Yichao Wang, Yong Liu, Xiangyu Zhao\
+  SIGIR'2026
+
+* **[Joint Modeling in Deep Recommender Systems](https://dl.acm.org/doi/10.1145/3701716.3715867)**\
+  Pengyue Jia, Jingtong Gao, Yuhao Wang, **<ins>Xiaopeng Li</ins>**\*, Qidong Liu, Yichao Wang, Bo Chen, Huifeng Guo, Ruiming Tang\
+  WWWW'2025
+
 
 ### Conference & Journal Papers
 * **[MTA: A Merge-then-Adapt Framework for Personalized Large Language Models](https://arxiv.org/abs/2511.20072)**  
