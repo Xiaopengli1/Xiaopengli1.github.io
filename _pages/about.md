@@ -29,6 +29,9 @@ My research interests include <u>Recommender Systems, Information Retrieval, and
 [//]: # (<a href='https://scholar.google.com/citations?user=tkis1Q0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>)
 
 # 🔥 News
+- **2026.04:** &nbsp;Our Paper _MTA: A Merge-then-Adapt Framework for Personalized Large Language Models_ is accepted to ACL 2026 main conference.
+- **2026.04:** &nbsp;Our Tutorial _Bridging Personalization and AI: From RAG to Agent_ is accepted to SIGIR.
+- **2026.04:** &nbsp;My paper _Personalized Deep Research: A User‑Centric Framework, Dataset, and Hybrid Evaluation for Knowledge Discovery_ is accepted to SIGIR 2026 Resource Track.
 - **2026.03:** &nbsp;I am honored to serve as a reviewer for TPAMI.
 - **2026.01:** &nbsp;I was invited to give a talk at Pinterest titled _Generative Recommendation from a Tri-Decoupled Perspective_.
 - **2026.01:** &nbsp;I was invited to give a talk at Kuaishou titled _Generative Recommendation from a Tri-Decoupled Perspective_.
@@ -147,9 +150,13 @@ My research interests include <u>Recommender Systems, Information Retrieval, and
 
 ## Tutorials
 
+**[Bridging Personalization and AI: From RAG to Agent](https://dl.acm.org/doi/10.1145/3701716.3715867)**\
+Pengyue Jia, **<ins>Xiaopeng Li</ins>**\*, Derong Xu, Yi Wen, Yingyi Zhang, Wenlin Zhang, Wanyu Wang, Yichao Wang, Yong Liu, Xiangyu Zhao\
+SIGIR'2026
+
 **[Joint Modeling in Deep Recommender Systems](https://dl.acm.org/doi/10.1145/3701716.3715867)**\
 Pengyue Jia, Jingtong Gao, Yuhao Wang, **<ins>Xiaopeng Li</ins>**\*, Qidong Liu, Yichao Wang, Bo Chen, Huifeng Guo, Ruiming Tang\
-WWWW'2025, Proceedings of the ACM Web Conference 2025
+WWWW'2025
 
 ***
 
@@ -163,27 +170,30 @@ _"\*" denotes equal contribution._
   **<ins>Xiaopeng Li</ins>**\*, Bo Chen\*, Junda She, Shiteng Cao, You Wang, Qinlin Jia, Haiying He, Zheli Zhou, Zhao Liu, Ji Liu, Zhiyang Zhang, Yu Zhou, Guoping Tang, Yiqing Yang, Chengcheng Guo, Si Dong, Kuo Cai, Pengyue Jia, Maolin Wang, Wanyu Wang, Shiyao Wang, Xinchen Luo, Qigen Hu, Qiang Luo, Xiao Lv, Chaoyi Ma, Ruiming Tang, Kun Gai, Guorui Zhou, Xiangyu Zhao\
 ResearchGate
 
-* **[MTA: A Merge-then-Adapt Framework for Personalized Large Language Models](https://arxiv.org/abs/2511.20072)**  
-  **<ins>Xiaopeng Li</ins>**\*, Yuanjin Zheng\*, Wanyu Wang, Wenlin zhang, Pengyue Jia, Yiqi Wang, Maolin Wang, Xuetao Wei, Xiangyu Zhao\
-  arXiv
-
 * **[SyNeg: LLM-Driven Synthetic Hard-Negatives for Dense Retrieval](https://arxiv.org/abs/2412.17250)**  
   **<ins>Xiaopeng Li</ins>**, Xiangyang Li, Hao Zhang, Zhaocheng Du, Yichao Wang, Pengyue Jia, Xiangyu Zhao, Huifeng Guo, Ruiming Tang  
   arXiv
 
 ### Conference & Journal Papers
+* **[MTA: A Merge-then-Adapt Framework for Personalized Large Language Models](https://arxiv.org/abs/2511.20072)**  
+  **<ins>Xiaopeng Li</ins>**\*, Yuanjin Zheng\*, Wanyu Wang, Wenlin Zhang, Pengyue Jia, Yiqi Wang, Maolin Wang, Xuetao Wei, Xiangyu Zhao\
+  ACL'2026 Main
+
+* **[Personalized Deep Research: A User‑Centric Framework, Dataset, and Hybrid Evaluation for Knowledge Discovery]()**  
+  **<ins>Xiaopeng Li</ins>**, Wenlin Zhang, Yingyi Zhang, Pengyue Jia, Yejing Wang, Yichao Wang, Yong Liu, Huifeng Guo, Xiangyu Zhao\
+  SIGIR'2026 Resource
 
 * **[A Survey of Personalization: From RAG to Agent](https://arxiv.org/abs/2504.10147)**  
   **<ins>Xiaopeng Li</ins>**\*, Pengyue Jia\*, Derong Xu, Yi Wen, Yingyi Zhang, Wenlin Zhang, Wanyu Wang, Yichao Wang, Zhaocheng Du, Xiangyang Li, Yong Liu, Huifeng Guo, Ruiming Tang, Xiangyu Zhao  
   TOIS'2026
 
-* **[Scenario-Wise Rec: A Multi-Scenario Recommendation Benchmark](https://arxiv.org/abs/2412.17374)**  
-  **<ins>Xiaopeng Li</ins>**\*, Jingtong Gao\*, Pengyue Jia, Yichao Wang, Wanyu Wang, Yuhao Wang, Yejing Wang, Huifeng Guo, Ruiming Tang, Xiangyu Zhao  
-  CIKM'2025
-
 * **[Agent4Ranking: Semantic Robust Ranking via Personalized Query Rewriting Using Multi-agent LLM](https://arxiv.org/abs/2312.15450)**  
   **<ins>Xiaopeng Li</ins>**, Lixin Su, Pengyue Jia, Xiangyu Zhao, Suqi Cheng, Junfeng Wang, Dawei Yin  
   TOIS'2025
+
+* **[Scenario-Wise Rec: A Multi-Scenario Recommendation Benchmark](https://arxiv.org/abs/2412.17374)**  
+  **<ins>Xiaopeng Li</ins>**\*, Jingtong Gao\*, Pengyue Jia, Yichao Wang, Wanyu Wang, Yuhao Wang, Yejing Wang, Huifeng Guo, Ruiming Tang, Xiangyu Zhao  
+  CIKM'2025
 
 * **[HAMUR: Hyper Adapter for Multi-Domain Recommendation](https://dl.acm.org/doi/abs/10.1145/3583780.3615137)**  
   **<ins>Xiaopeng Li</ins>**, Fan Yan, Xiangyu Zhao, Yichao Wang, Bo Chen, Huifeng Guo, Ruiming Tang  
@@ -195,11 +205,11 @@ ResearchGate
 
 * **[Humanity's Last Code Exam: Can Advanced LLMs Conquer Human's Hardest Code Competition?](https://arxiv.org/abs/2506.12713)**  
   Xiangyang Li\*, **<ins>Xiaopeng Li</ins>**\*, Kuicai Dong, Quanhu Zhang, Rongju Ruan, Xinyi Dai, Xiaoshuang Liu, Shengchun Xu, Yasheng Wang, Ruiming Tang  
-  EMNLP'2025
+  EMNLP'2025 Findings
 
 * **[Bridging Relevance and Reasoning: Rationale Distillation in Retrieval-Augmented Generation](https://arxiv.org/pdf/2412.08519)**  
   Pengyue Jia, Derong Xu, **<ins>Xiaopeng Li</ins>**\*, Zhaocheng Du, Xiangyang Li, Xiangyu Zhao, Yichao Wang, Yuhao Wang, Huifeng Guo, Ruiming Tang  
-  ACL Findings'2025
+  ACL'2025 Findings
 
 * **[TAPO: Task-Referenced Adaptation for Prompt Optimization](https://arxiv.org/abs/2501.06689)**  
   Wenxin Luo\*, Weirui Wang\*, **<ins>Xiaopeng Li</ins>**\*, Weibo Zhou, Pengyue Jia, Xiangyu Zhao  
