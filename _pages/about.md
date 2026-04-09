@@ -175,74 +175,74 @@ ResearchGate
 ### Conference & Journal Papers
 * **[MTA: A Merge-then-Adapt Framework for Personalized Large Language Models](https://arxiv.org/abs/2511.20072)**  
   **<ins>Xiaopeng Li</ins>**\*, Yuanjin Zheng\*, Wanyu Wang, Wenlin Zhang, Pengyue Jia, Yiqi Wang, Maolin Wang, Xuetao Wei, Xiangyu Zhao\
-  ACL'2026 Main
+  ACL'2026 Main (CCF-A)
 
 * **[Personalized Deep Research: A User‑Centric Framework, Dataset, and Hybrid Evaluation for Knowledge Discovery]()**  
   **<ins>Xiaopeng Li</ins>**, Wenlin Zhang, Yingyi Zhang, Pengyue Jia, Yejing Wang, Yichao Wang, Yong Liu, Huifeng Guo, Xiangyu Zhao\
-  SIGIR'2026 Resource
+  SIGIR'2026 Resource (CCF-A)
 
 * **[A Survey of Personalization: From RAG to Agent](https://arxiv.org/abs/2504.10147)**  
   **<ins>Xiaopeng Li</ins>**\*, Pengyue Jia\*, Derong Xu, Yi Wen, Yingyi Zhang, Wenlin Zhang, Wanyu Wang, Yichao Wang, Zhaocheng Du, Xiangyang Li, Yong Liu, Huifeng Guo, Ruiming Tang, Xiangyu Zhao  
-  TOIS'2026
+  TOIS'2026 (CCF-A)
 
 * **[Agent4Ranking: Semantic Robust Ranking via Personalized Query Rewriting Using Multi-agent LLM](https://arxiv.org/abs/2312.15450)**  
   **<ins>Xiaopeng Li</ins>**, Lixin Su, Pengyue Jia, Xiangyu Zhao, Suqi Cheng, Junfeng Wang, Dawei Yin  
-  TOIS'2025
+  TOIS'2025 (CCF-A)
 
 * **[Scenario-Wise Rec: A Multi-Scenario Recommendation Benchmark](https://arxiv.org/abs/2412.17374)**  
   **<ins>Xiaopeng Li</ins>**\*, Jingtong Gao\*, Pengyue Jia, Yichao Wang, Wanyu Wang, Yuhao Wang, Yejing Wang, Huifeng Guo, Ruiming Tang, Xiangyu Zhao  
-  CIKM'2025
+  CIKM'2025 (CCF-B)
 
 * **[HAMUR: Hyper Adapter for Multi-Domain Recommendation](https://dl.acm.org/doi/abs/10.1145/3583780.3615137)**  
   **<ins>Xiaopeng Li</ins>**, Fan Yan, Xiangyu Zhao, Yichao Wang, Bo Chen, Huifeng Guo, Ruiming Tang  
-  CIKM'2023
+  CIKM'2023 (CCF-B)
 
 * **[BlossomRec: Block-level Fused Sparse Attention Mechanism for Sequential Recommendations](https://arxiv.org/abs/2512.13368)**  
   Mengyang Ma\*, **<ins>Xiaopeng Li</ins>**\*, Wanyu Wang, Zhaocheng Du, Jingtong Gao, Pengyue Jia, Yuyang Ye, Yiqi Wang, Yunpeng Weng, Weihong Luo, Xiao Han, Xiangyu Zhao  
-  WWW'2026
+  WWW'2026 (CCF-A)
 
 * **[Humanity's Last Code Exam: Can Advanced LLMs Conquer Human's Hardest Code Competition?](https://arxiv.org/abs/2506.12713)**  
   Xiangyang Li\*, **<ins>Xiaopeng Li</ins>**\*, Kuicai Dong, Quanhu Zhang, Rongju Ruan, Xinyi Dai, Xiaoshuang Liu, Shengchun Xu, Yasheng Wang, Ruiming Tang  
-  EMNLP'2025 Findings
+  EMNLP'2025 Findings (CCF-B)
 
 * **[Bridging Relevance and Reasoning: Rationale Distillation in Retrieval-Augmented Generation](https://arxiv.org/pdf/2412.08519)**  
   Pengyue Jia, Derong Xu, **<ins>Xiaopeng Li</ins>**\*, Zhaocheng Du, Xiangyang Li, Xiangyu Zhao, Yichao Wang, Yuhao Wang, Huifeng Guo, Ruiming Tang  
-  ACL'2025 Findings
+  ACL'2025 Findings ((CCF-A))
 
 * **[TAPO: Task-Referenced Adaptation for Prompt Optimization](https://arxiv.org/abs/2501.06689)**  
   Wenxin Luo\*, Weirui Wang\*, **<ins>Xiaopeng Li</ins>**\*, Weibo Zhou, Pengyue Jia, Xiangyu Zhao  
-  ICASSP'2025
+  ICASSP'2025 (CCF-B)
 
 * **[Personalize Before Retrieve: LLM-based Personalized Query Expansion for User-Centric Retrieval](https://ojs.aaai.org/index.php/AAAI/article/view/38679)**  
   Yingyi Zhang, Pengyue Jia, Derong Xu, Yi Wen, Xianneng Li, Yichao Wang, Wenlin Zhang, **<ins>Xiaopeng Li</ins>**, Weinan Gan, Huifeng Guo, Yong Liu, Xiangyu Zhao  
-  AAAI'2025
+  AAAI'2025 (CCF-A)
 
 * **[Process vs. Outcome Reward: Which is Better for Agentic RAG Reinforcement Learning](https://arxiv.org/pdf/2505.14069)**  
   Wenlin Zhang, Xiangyang Li, Kuicai Dong, Yichao Wang, Pengyue Jia, **<ins>Xiaopeng Li</ins>**, Yingyi Zhang, Derong Xu, Zhaocheng Du, Huifeng Guo, Ruiming Tang, Xiangyu Zhao  
-  NeurIPS'2025
+  NeurIPS'2025 (CCF-A)
 
 * **[SELF: Surrogate-light Feature Selection with Large Language Models in Deep Recommender Systems](https://arxiv.org/abs/2412.08516)**  
   Pengyue Jia, Zhaocheng Du, Yichao Wang, Xiangyu Zhao, **<ins>Xiaopeng Li</ins>**, Yuhao Wang, Qidong Liu, Huifeng Guo, Ruiming Tang  
-  CIKM'2025
+  CIKM'2025 (CCF-B)
 
 * **[SampleLLM: Optimizing Tabular Data Synthesis in Recommendations](https://arxiv.org/abs/2501.16125)**  
   Jingtong Gao, Zhaocheng Du, **<ins>Xiaopeng Li</ins>**, Yichao Wang, Xiangyang Li, Huifeng Guo, Ruiming Tang, Xiangyu Zhao  
-  WWW'2025
+  WWW'2025 (CCF-A)
 
 * **[G3: An Effective and Adaptive Framework for Worldwide Geolocalization Using Large Multi-Modality Models](https://arxiv.org/pdf/2405.14702)**  
   Pengyue Jia, Yiding Liu, **<ins>Xiaopeng Li</ins>**, Xiangyu Zhao, Yuhao Wang, Yantong Du, Xiao Han, Xuetao Wei, Shuaiqiang Wang, Dawei Yin  
-  NeurIPS'2024
+  NeurIPS'2024 (CCF-A)
 
 * **[HierRec: Scenario-Aware Hierarchical Modeling for Multi-scenario Recommendations](https://arxiv.org/abs/2309.02061)**  
   Jingtong Gao, Bo Chen, Menghui Zhu, Xiangyu Zhao, **<ins>Xiaopeng Li</ins>**, Yuhao Wang, Yichao Wang, Huifeng Guo, Ruiming Tang  
-  CIKM'2024
+  CIKM'2024 (CCF-B)
 
 * **[D3: A Methodological Exploration of Domain Division, Modeling, and Balance in Multi-Domain Recommendations](https://ojs.aaai.org/index.php/AAAI/article/view/28699)**  
   Pengyue Jia, Yichao Wang, Xiangyu Zhao, **<ins>Xiaopeng Li</ins>**, Huifeng Guo, Ruiming Tang  
-  AAAI'2024
+  AAAI'2024 (CCF-A)
 
 * **[MILL: Mutual Verification with Large Language Models for Zero-Shot Query Expansion](https://aclanthology.org/2024.naacl-long.138.pdf)**  
   Pengyue Jia, Yiding Liu, Xiangyu Zhao, **<ins>Xiaopeng Li</ins>**, Changying Hao, Shuaiqiang Wang, Dawei Yin  
-  NAACL'2024
+  NAACL'2024 (CCF-B)
 
 _Website last updated on 25th March 2026._
