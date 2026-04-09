@@ -21,7 +21,7 @@ redirect_from:
 # 💡 About Me
 I am **Xiaopeng Li**, currently a 4th-year Ph.D. student at City University of Hong Kong, supervised by [Prof. Xiangyu Zhao](https://zhaoxyai.github.io/) in [AML Lab](https://aml-cityu.github.io/). Before that, I received my M.S. and B.Eng. degrees from Xi'an Jiaotong University.
 
-My research interests include <u>Recommender Systems, Information Retrieval, and Personalized Large Language Models</u>. I have published several papers at top international AI conferences, with over [400+ citations](https://scholar.google.com/citations?user=hCCqgQQAAAAJ).
+My research interests include <u>Information Retrieval, and Personalized LLMs and Agents</u>. I have published several papers at top international AI conferences, with over [400+ citations](https://scholar.google.com/citations?user=hCCqgQQAAAAJ).
 
 
 [//]: # (My research interests include Recommender Systems, Large Language Models, Deep Reinforcement Learning and Machine Learning. I have published several papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=tkis1Q0AAAAJ'>200+ citations</a>.)
