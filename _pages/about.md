@@ -29,6 +29,9 @@ My research interests include <u>Information Retrieval, and Personalized LLMs an
 [//]: # (<a href='https://scholar.google.com/citations?user=tkis1Q0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>)
 
 # 🔥 News
+- **2026.05:** &nbsp;Our Tutorial <a href="">Tutorial on Generative Recommendation: Foundations and Frontiers</a> is accepted to KDD 2026.
+- **2026.05:** &nbsp;One paper is accepted to KDD 2026.
+- **2026.05:** &nbsp;I to serve as a PC Member for CIKM 2026.
 - **2026.04:** &nbsp;My Paper <a href="https://arxiv.org/abs/2511.20072">MTA: A Merge-then-Adapt Framework for Personalized Large Language Models</a> is accepted to ACL 2026 main conference.
 - **2026.04:** &nbsp;Our Tutorial <a href="">Bridging Personalization and AI: From RAG to Agent</a> is accepted to SIGIR 2026.
 - **2026.04:** &nbsp;My paper <a href="">Personalized Deep Research: A User‑Centric Framework, Dataset, and Hybrid Evaluation for Knowledge Discovery</a> is accepted to SIGIR 2026 Resource Track.
@@ -116,7 +119,7 @@ My research interests include <u>Information Retrieval, and Personalized LLMs an
 
 # 🤝 Service
 - **Journal Reviewer**: TPAMI, ACM TIST, ACM TKDD, ACM TOIS, IEEE/ACM TASLP, ESWA
-- **Conference PC Member / Reviewer (2026)**: KDD, SIGIR, MM, NeurIPS
+- **Conference PC Member / Reviewer (2026)**: KDD, SIGIR, MM, CIKM
 - **Conference PC Member / Reviewer (2025)**: KDD, IJCNN, IJCAI, WWW, MM, RecSys, CIKM
 - **Conference PC Member / Reviewer (2024)**: AAAI, IJCAI, KDD, CIKM, MM, ACL Rolling Review (ARR)
 - **Conference Volunteer**: IJCAI 2023, WWW 2023
@@ -162,6 +165,9 @@ ResearchGate
   arXiv
 
 ### Tutorials
+* **[Tutorial on Generative Recommendation: Foundations and Frontiers]()**\
+  **<ins>Xiaopeng Li</ins>**, Yejing Wang, Honghui Bao, Bo Chen, Kuo Cai, Wenlin Zhang, Ziwei Liu, Sheng Zhang, Binhao Wang, Qinglin Jia, Qiang Luo, Ruiming Tang, Xiangyu Zhao
+  KDD'2026
 
 * **[Bridging Personalization and AI: From RAG to Agent]()**\
   Pengyue Jia\*, **<ins>Xiaopeng Li</ins>**\*, Derong Xu, Yi Wen, Yingyi Zhang, Wenlin Zhang, Wanyu Wang, Yichao Wang, Yong Liu, Xiangyu Zhao\
@@ -177,7 +183,7 @@ ResearchGate
   **<ins>Xiaopeng Li</ins>**\*, Yuanjin Zheng\*, Wanyu Wang, Wenlin Zhang, Pengyue Jia, Yiqi Wang, Maolin Wang, Xuetao Wei, Xiangyu Zhao\
   ACL'2026 Main (CCF-A)
 
-* **[Personalized Deep Research: A User‑Centric Framework, Dataset, and Hybrid Evaluation for Knowledge Discovery]()**  
+* **[Personalized Deep Research: A User‑Centric Framework, Dataset, and Hybrid Evaluation for Knowledge Discovery](https://arxiv.org/pdf/2605.10530)** 
   **<ins>Xiaopeng Li</ins>**, Wenlin Zhang, Yingyi Zhang, Pengyue Jia, Yejing Wang, Yichao Wang, Yong Liu, Huifeng Guo, Xiangyu Zhao\
   SIGIR'2026 Resource (CCF-A)
 
@@ -206,12 +212,16 @@ ResearchGate
   EMNLP'2025 Findings (CCF-B)
 
 * **[Bridging Relevance and Reasoning: Rationale Distillation in Retrieval-Augmented Generation](https://arxiv.org/pdf/2412.08519)**  
-  Pengyue Jia, Derong Xu, **<ins>Xiaopeng Li</ins>**\*, Zhaocheng Du, Xiangyang Li, Xiangyu Zhao, Yichao Wang, Yuhao Wang, Huifeng Guo, Ruiming Tang  
+  Pengyue Jia\*, Derong Xu\*, **<ins>Xiaopeng Li</ins>**\*, Zhaocheng Du, Xiangyang Li, Xiangyu Zhao, Yichao Wang, Yuhao Wang, Huifeng Guo, Ruiming Tang
   ACL'2025 Findings ((CCF-A))
 
 * **[TAPO: Task-Referenced Adaptation for Prompt Optimization](https://arxiv.org/abs/2501.06689)**  
   Wenxin Luo\*, Weirui Wang\*, **<ins>Xiaopeng Li</ins>**\*, Weibo Zhou, Pengyue Jia, Xiangyu Zhao  
   ICASSP'2025 (CCF-B)
+
+* **[When Hard Negatives Hurt: Bridging the Generative Discriminative Gap in Hard Negative Synthesis for Retrieval]()**
+  Zhicheng Zhang, Jiwei Tang, Kuicai Dong, **<ins>Xiaopeng Li</ins>**, Jieming Zhu, Jingyu Li, Qianhui Zhu, Fengyuan Lu, Wang Jiaheng, Gang Wang, Hai-Tao Zheng, Zhaocheng Du
+  KDD'2026 (CCF-A)
 
 * **[Personalize Before Retrieve: LLM-based Personalized Query Expansion for User-Centric Retrieval](https://ojs.aaai.org/index.php/AAAI/article/view/38679)**  
   Yingyi Zhang, Pengyue Jia, Derong Xu, Yi Wen, Xianneng Li, Yichao Wang, Wenlin Zhang, **<ins>Xiaopeng Li</ins>**, Weinan Gan, Huifeng Guo, Yong Liu, Xiangyu Zhao  
@@ -245,4 +255,4 @@ ResearchGate
   Pengyue Jia, Yiding Liu, Xiangyu Zhao, **<ins>Xiaopeng Li</ins>**, Changying Hao, Shuaiqiang Wang, Dawei Yin  
   NAACL'2024 (CCF-B)
 
-_Website last updated on 25th March 2026._
+_Website last updated on 19th May 2026._
