@@ -183,7 +183,7 @@ ResearchGate
   **<ins>Xiaopeng Li</ins>**\*, Yuanjin Zheng\*, Wanyu Wang, Wenlin Zhang, Pengyue Jia, Yiqi Wang, Maolin Wang, Xuetao Wei, Xiangyu Zhao\
   ACL'2026 Main (CCF-A)
 
-* **[Personalized Deep Research: A User‑Centric Framework, Dataset, and Hybrid Evaluation for Knowledge Discovery](https://arxiv.org/pdf/2605.10530)** 
+* **[Personalized Deep Research: A User‑Centric Framework, Dataset, and Hybrid Evaluation for Knowledge Discovery](https://arxiv.org/pdf/2605.10530)**  
   **<ins>Xiaopeng Li</ins>**, Wenlin Zhang, Yingyi Zhang, Pengyue Jia, Yejing Wang, Yichao Wang, Yong Liu, Huifeng Guo, Xiangyu Zhao\
   SIGIR'2026 Resource (CCF-A)
 
