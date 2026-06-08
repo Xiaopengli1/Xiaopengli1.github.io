@@ -166,7 +166,7 @@ ResearchGate
 
 ### Tutorials
 * **[Tutorial on Generative Recommendation: Foundations and Frontiers]()**\
-  **<ins>Xiaopeng Li</ins>**, Yejing Wang, Honghui Bao, Bo Chen, Kuo Cai, Wenlin Zhang, Ziwei Liu, Sheng Zhang, Binhao Wang, Qinglin Jia, Qiang Luo, Ruiming Tang, Xiangyu Zhao
+  **<ins>Xiaopeng Li</ins>**, Yejing Wang, Honghui Bao, Bo Chen, Kuo Cai, Wenlin Zhang, Ziwei Liu, Sheng Zhang, Binhao Wang, Qinglin Jia, Qiang Luo, Ruiming Tang, Xiangyu Zhao \
   KDD'2026
 
 * **[Bridging Personalization and AI: From RAG to Agent]()**\
@@ -175,7 +175,7 @@ ResearchGate
 
 * **[Joint Modeling in Deep Recommender Systems](https://dl.acm.org/doi/10.1145/3701716.3715867)**\
   Pengyue Jia, Jingtong Gao, Yuhao Wang, **<ins>Xiaopeng Li</ins>**\*, Qidong Liu, Yichao Wang, Bo Chen, Huifeng Guo, Ruiming Tang\
-  WWWW'2025
+  WWW'2025
 
 
 ### Conference & Journal Papers
@@ -212,15 +212,15 @@ ResearchGate
   EMNLP'2025 Findings (CCF-B)
 
 * **[Bridging Relevance and Reasoning: Rationale Distillation in Retrieval-Augmented Generation](https://arxiv.org/pdf/2412.08519)**  
-  Pengyue Jia\*, Derong Xu\*, **<ins>Xiaopeng Li</ins>**\*, Zhaocheng Du, Xiangyang Li, Xiangyu Zhao, Yichao Wang, Yuhao Wang, Huifeng Guo, Ruiming Tang
-  ACL'2025 Findings ((CCF-A))
+  Pengyue Jia\*, Derong Xu\*, **<ins>Xiaopeng Li</ins>**\*, Zhaocheng Du, Xiangyang Li, Xiangyu Zhao, Yichao Wang, Yuhao Wang, Huifeng Guo, Ruiming Tang  
+  ACL'2025 Findings (CCF-A)
 
 * **[TAPO: Task-Referenced Adaptation for Prompt Optimization](https://arxiv.org/abs/2501.06689)**  
   Wenxin Luo\*, Weirui Wang\*, **<ins>Xiaopeng Li</ins>**\*, Weibo Zhou, Pengyue Jia, Xiangyu Zhao  
   ICASSP'2025 (CCF-B)
 
 * **[When Hard Negatives Hurt: Bridging the Generative Discriminative Gap in Hard Negative Synthesis for Retrieval]()**
-  Zhicheng Zhang, Jiwei Tang, Kuicai Dong, **<ins>Xiaopeng Li</ins>**, Jieming Zhu, Jingyu Li, Qianhui Zhu, Fengyuan Lu, Wang Jiaheng, Gang Wang, Hai-Tao Zheng, Zhaocheng Du
+  Zhicheng Zhang, Jiwei Tang, Kuicai Dong, **<ins>Xiaopeng Li</ins>**, Jieming Zhu, Jingyu Li, Qianhui Zhu, Fengyuan Lu, Wang Jiaheng, Gang Wang, Hai-Tao Zheng, Zhaocheng Du  
   KDD'2026 (CCF-A)
 
 * **[Personalize Before Retrieve: LLM-based Personalized Query Expansion for User-Centric Retrieval](https://ojs.aaai.org/index.php/AAAI/article/view/38679)**  
