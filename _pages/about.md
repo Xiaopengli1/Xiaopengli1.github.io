@@ -21,7 +21,7 @@ redirect_from:
 # 💡 About Me
 I am **Xiaopeng Li**, currently a 4th-year Ph.D. student at City University of Hong Kong, supervised by [Prof. Xiangyu Zhao](https://zhaoxyai.github.io/) in [AML Lab](https://aml-cityu.github.io/). Before that, I received my M.S. and B.Eng. degrees from Xi'an Jiaotong University.
 
-My research interests include <u>Information Retrieval, and Personalized LLMs and Agents</u>. I have published several papers at top international AI conferences, with over [400+ citations](https://scholar.google.com/citations?user=hCCqgQQAAAAJ).
+My research interests include <u>Information Retrieval, and Personalized LLMs and Agents</u>. I have published several papers at top international AI conferences, with [500+ citations](https://scholar.google.com/citations?user=hCCqgQQAAAAJ).
 
 
 [//]: # (My research interests include Recommender Systems, Large Language Models, Deep Reinforcement Learning and Machine Learning. I have published several papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=tkis1Q0AAAAJ'>200+ citations</a>.)
@@ -29,9 +29,9 @@ My research interests include <u>Information Retrieval, and Personalized LLMs an
 [//]: # (<a href='https://scholar.google.com/citations?user=tkis1Q0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>)
 
 # 🔥 News
-- **2026.05:** &nbsp;Our Tutorial _Tutorial on Generative Recommendation: Foundations and Frontiers_ is accepted to KDD 2026.
+- **2026.05:** &nbsp;Our _Tutorial on Generative Recommendation: Foundations and Frontiers_ is accepted to KDD 2026.
 - **2026.05:** &nbsp;One paper is accepted to KDD 2026.
-- **2026.05:** &nbsp;I to serve as a PC Member for CIKM 2026.
+- **2026.05:** &nbsp;I will serve as a PC Member for CIKM 2026.
 - **2026.04:** &nbsp;My Paper <a href="https://arxiv.org/abs/2511.20072">MTA: A Merge-then-Adapt Framework for Personalized Large Language Models</a> is accepted to ACL 2026 main conference.
 - **2026.04:** &nbsp;Our Tutorial _Bridging Personalization and AI: From RAG to Agent_ is accepted to SIGIR 2026.
 - **2026.04:** &nbsp;My paper <a href="https://arxiv.org/pdf/2605.10530">Personalized Deep Research: A User‑Centric Framework, Dataset, and Hybrid Evaluation for Knowledge Discovery</a> is accepted to SIGIR 2026 Resource Track.
