@@ -219,8 +219,8 @@ ResearchGate
   Wenxin Luo\*, Weirui Wang\*, **<ins>Xiaopeng Li</ins>**\*, Weibo Zhou, Pengyue Jia, Xiangyu Zhao  
   ICASSP'2025 (CCF-B)
 
-* **[When Hard Negatives Hurt: Bridging the Generative Discriminative Gap in Hard Negative Synthesis for Retrieval]()**
-  Zhicheng Zhang, Jiwei Tang, Kuicai Dong, **<ins>Xiaopeng Li</ins>**, Jieming Zhu, Jingyu Li, Qianhui Zhu, Fengyuan Lu, Wang Jiaheng, Gang Wang, Hai-Tao Zheng, Zhaocheng Du  
+* **[When Hard Negatives Hurt: Bridging the Generative Discriminative Gap in Hard Negative Synthesis for Retrieval]()**  
+  Zhicheng Zhang, Jiwei Tang, Kuicai Dong, **<ins>Xiaopeng Li</ins>**, Jieming Zhu, Jingyu Li, Qianhui Zhu, Fengyuan Lu, Wang Jiaheng, Gang Wang, Hai-Tao Zheng, Zhaocheng Du
   KDD'2026 (CCF-A)
 
 * **[Personalize Before Retrieve: LLM-based Personalized Query Expansion for User-Centric Retrieval](https://ojs.aaai.org/index.php/AAAI/article/view/38679)**  
