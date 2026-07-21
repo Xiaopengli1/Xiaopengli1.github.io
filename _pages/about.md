@@ -116,7 +116,7 @@ My research interests include <u>Information Retrieval, and Personalized LLMs an
 # 💻 Intern Experience
 - Research Intern at **Kuaishou**, Recommendation Model Department
 - Research Intern at **Baidu**, Search Science Team
-- - Research Intern at **Huawei Noah's Ark Lab**, Search Science Team
+- Research Intern at **Huawei Noah's Ark Lab**, Search Science Team
 
 # 🤝 Service
 - **Journal Reviewer**: TPAMI, ACM TIST, ACM TKDD, ACM TOIS, IEEE/ACM TASLP, ESWA
