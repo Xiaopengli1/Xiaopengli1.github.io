@@ -21,7 +21,7 @@ redirect_from:
 # 💡 About Me
 I am **Xiaopeng Li**, currently a 4th-year Ph.D. student at City University of Hong Kong, supervised by [Prof. Xiangyu Zhao](https://zhaoxyai.github.io/) in [AML Lab](https://aml-cityu.github.io/). Before that, I received my M.S. and B.Eng. degrees from Xi'an Jiaotong University.
 
-My research interests include <u>Information Retrieval, Recommender System and Personalized LLMs and Agents</u>. I have published several papers at top international AI conferences, with [600+ citations](https://scholar.google.com/citations?user=hCCqgQQAAAAJ).
+My research interests include <u>Information Retrieval, Recommender Systems, and Personalized LLMs and Agents</u>. I have published several papers at top international AI conferences, with [600+ citations](https://scholar.google.com/citations?user=hCCqgQQAAAAJ).
 
 
 [//]: # (My research interests include Recommender Systems, Large Language Models, Deep Reinforcement Learning and Machine Learning. I have published several papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=tkis1Q0AAAAJ'>200+ citations</a>.)
@@ -29,8 +29,10 @@ My research interests include <u>Information Retrieval, Recommender System and P
 [//]: # (<a href='https://scholar.google.com/citations?user=tkis1Q0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>)
 
 # 🔥 News
+- **2026.08:** &nbsp;One paper is accepted to CIKM 2026. Congratulations to Pengyue!
+- **2026.08:** &nbsp;I will serve as a PC Member for AAAI and WSDM 2027.
 - **2026.05:** &nbsp;Our _Tutorial on Generative Recommendation: Foundations and Frontiers_ is accepted to KDD 2026.
-- **2026.05:** &nbsp;One paper is accepted to KDD 2026.
+- **2026.05:** &nbsp;One paper is accepted to KDD 2026. Congratulations to Zhicheng and Zhaocheng!
 - **2026.05:** &nbsp;I will serve as a PC Member for CIKM 2026.
 - **2026.04:** &nbsp;My Paper <a href="https://arxiv.org/abs/2511.20072">MTA: A Merge-then-Adapt Framework for Personalized Large Language Models</a> is accepted to ACL 2026 main conference.
 - **2026.04:** &nbsp;Our Tutorial _Bridging Personalization and AI: From RAG to Agent_ is accepted to SIGIR 2026.
@@ -39,7 +41,7 @@ My research interests include <u>Information Retrieval, Recommender System and P
 - **2026.01:** &nbsp;I was invited to give a talk at Pinterest titled _Generative Recommendation from a Tri-Decoupled Perspective_.
 - **2026.01:** &nbsp;I was invited to give a talk at Kuaishou titled _Generative Recommendation from a Tri-Decoupled Perspective_.
 - **2026.01:** &nbsp;I am honored to serve as a reviewer for MM 2026.
-- **2026.01:** &nbsp;🎉🎉 One paper is accepted to WWW 2026.
+- **2026.01:** &nbsp;🎉🎉 One paper is accepted to WWW 2026. Congratulations to Zhicheng and Mengyang!
 
 <details>
 <summary><b>2025</b></summary>
@@ -220,8 +222,17 @@ ResearchGate
   Wenxin Luo\*, Weirui Wang\*, **<ins>Xiaopeng Li</ins>**\*, Weibo Zhou, Pengyue Jia, Xiangyu Zhao  
   ICASSP'2025 (CCF-B)
 
+
+* **[From Local Indices to Global Identifiers: Generative Reranking for Recommender Systems via Global Action Space](https://arxiv.org/abs/2604.25291)**
+  Pengyue Jia, Xiaobei Wang, Yingyi Zhang, Shuchang Liu, Yupeng Hou, Hailan Yang, Xu Gao, **<ins>Xiaopeng Li</ins>**, Yejing Wang, Julian McAuley, Xiang Li, Lantao Hu, Yongqi Liu, Kaiqiao Zhan, Han Li, Kun Gai, Xiangyu Zhao  
+  CIKM'2026 (CCF-B)
+
 * **[When Hard Negatives Hurt: Bridging the Generative Discriminative Gap in Hard Negative Synthesis for Retrieval]()**  
-  Zhicheng Zhang, Jiwei Tang, Kuicai Dong, **<ins>Xiaopeng Li</ins>**, Jieming Zhu, Jingyu Li, Qianhui Zhu, Fengyuan Lu, Wang Jiaheng, Gang Wang, Hai-Tao Zheng, Zhaocheng Du
+  Zhicheng Zhang, Jiwei Tang, Kuicai Dong, **<ins>Xiaopeng Li</ins>**, Jieming Zhu, Jingyu Li, Qianhui Zhu, Fengyuan Lu, Wang Jiaheng, Gang Wang, Hai-Tao Zheng, Zhaocheng Du 
+  KDD'2026 (CCF-A)
+
+* **[When Hard Negatives Hurt: Bridging the Generative Discriminative Gap in Hard Negative Synthesis for Retrieval]()**  
+  Zhicheng Zhang, Jiwei Tang, Kuicai Dong, **<ins>Xiaopeng Li</ins>**, Jieming Zhu, Jingyu Li, Qianhui Zhu, Fengyuan Lu, Wang Jiaheng, Gang Wang, Hai-Tao Zheng, Zhaocheng Du  
   KDD'2026 (CCF-A)
 
 * **[Personalize Before Retrieve: LLM-based Personalized Query Expansion for User-Centric Retrieval](https://ojs.aaai.org/index.php/AAAI/article/view/38679)**  
@@ -256,4 +267,4 @@ ResearchGate
   Pengyue Jia, Yiding Liu, Xiangyu Zhao, **<ins>Xiaopeng Li</ins>**, Changying Hao, Shuaiqiang Wang, Dawei Yin  
   NAACL'2024 (CCF-B)
 
-_Website last updated on 19th May 2026._
+_Website last updated on 20th Augest 2026._
