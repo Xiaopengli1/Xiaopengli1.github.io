@@ -41,7 +41,7 @@ My research interests include <u>Information Retrieval, Recommender Systems, and
 - **2026.01:** &nbsp;I was invited to give a talk at Pinterest titled _Generative Recommendation from a Tri-Decoupled Perspective_.
 - **2026.01:** &nbsp;I was invited to give a talk at Kuaishou titled _Generative Recommendation from a Tri-Decoupled Perspective_.
 - **2026.01:** &nbsp;I am honored to serve as a reviewer for MM 2026.
-- **2026.01:** &nbsp;🎉🎉 One paper is accepted to WWW 2026. Congratulations to Zhicheng and Mengyang!
+- **2026.01:** &nbsp;🎉🎉 One paper is accepted to WWW 2026. Congratulations to Mengyang!
 
 <details>
 <summary><b>2025</b></summary>
@@ -168,11 +168,11 @@ ResearchGate
   arXiv
 
 ### Tutorials
-* **[Tutorial on Generative Recommendation: Foundations and Frontiers]()**\
+* **[Tutorial on Generative Recommendation: Foundations and Frontiers](https://applied-machine-learning-lab.github.io/KDD2026_GenRec_Tutorial/)**\
   **<ins>Xiaopeng Li</ins>**, Yejing Wang, Honghui Bao, Bo Chen, Kuo Cai, Wenlin Zhang, Ziwei Liu, Sheng Zhang, Binhao Wang, Qinglin Jia, Qiang Luo, Ruiming Tang, Xiangyu Zhao \
   KDD'2026
 
-* **[Bridging Personalization and AI: From RAG to Agent]()**\
+* **[Bridging Personalization and AI: From RAG to Agent](https://dl.acm.org/doi/10.1145/3805712.3808639)**\
   Pengyue Jia\*, **<ins>Xiaopeng Li</ins>**\*, Derong Xu, Yi Wen, Yingyi Zhang, Wenlin Zhang, Wanyu Wang, Yichao Wang, Yong Liu, Xiangyu Zhao\
   SIGIR'2026
 
