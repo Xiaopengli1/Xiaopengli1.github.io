@@ -29,6 +29,8 @@ My research interests include <u>Information Retrieval, Recommender Systems, and
 [//]: # (<a href='https://scholar.google.com/citations?user=tkis1Q0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>)
 
 # 🔥 News
+- **2026.09:** &nbsp;I am very honored to receive the Research Tuition Scholarship (RTS) and Outstanding Academic Performance Award (OAPA) granted by CityUHK.
+- **2026.09:** &nbsp;I will serve as a reviewer for ICLR 2027.
 - **2026.08:** &nbsp;One paper is accepted to CIKM 2026. Congratulations to Pengyue!
 - **2026.08:** &nbsp;I will serve as a PC Member for AAAI and WSDM 2027.
 - **2026.05:** &nbsp;Our _Tutorial on Generative Recommendation: Foundations and Frontiers_ is accepted to KDD 2026.
