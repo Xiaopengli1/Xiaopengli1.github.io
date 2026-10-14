@@ -29,6 +29,7 @@ My research interests include <u>Information Retrieval, Recommender Systems, and
 [//]: # (<a href='https://scholar.google.com/citations?user=tkis1Q0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>)
 
 # 🔥 News
+- **2026.10:** &nbsp;Welcome to check my new paper <a href="https://arxiv.org/abs/2609.34552">EvoSkillRec: Skill-Genome Evolution for Recommender Architecture Discovery</a>.
 - **2026.09:** &nbsp;I am very honored to receive the Research Tuition Scholarship (RTS) and Outstanding Academic Performance Award (OAPA) granted by CityUHK.
 - **2026.09:** &nbsp;I will serve as a reviewer for ICLR 2027.
 - **2026.08:** &nbsp;One paper is accepted to CIKM 2026. Congratulations to Pengyue!
@@ -160,7 +161,10 @@ My research interests include <u>Information Retrieval, Recommender Systems, and
 _"\*" denotes equal contribution._
 
 ### Preprints
-
+* **[EvoSkillRec: Skill-Genome Evolution for Recommender Architecture Discovery](https://arxiv.org/abs/2609.34552)**  
+  **<ins>Xiaopeng Li</ins>**, Kuo Cai, Bo Chen, Wenlin Zhang, Mengyang Ma, Yingyi Zhang, Zichuan Fu, Yu Yang, Qidong Liu, Yiyu Wang, Ruiming Tang, Wenwu Ou, Jiang Wu, Zhanbo Xu, Xiangyu Zhao  
+  arXiv
+  
 * **[A Survey of Generative Recommendation from a Tri-Decoupled Perspective: Tokenization, Architecture, and Optimization](https://www.researchgate.net/publication/398113445_A_Survey_of_Generative_Recommendation_from_a_Tri-Decoupled_Perspective_Tokenization_Architecture_and_Optimization)**\
   **<ins>Xiaopeng Li</ins>**\*, Bo Chen\*, Junda She, Shiteng Cao, You Wang, Qinlin Jia, Haiying He, Zheli Zhou, Zhao Liu, Ji Liu, Zhiyang Zhang, Yu Zhou, Guoping Tang, Yiqing Yang, Chengcheng Guo, Si Dong, Kuo Cai, Pengyue Jia, Maolin Wang, Wanyu Wang, Shiyao Wang, Xinchen Luo, Qigen Hu, Qiang Luo, Xiao Lv, Chaoyi Ma, Ruiming Tang, Kun Gai, Guorui Zhou, Xiangyu Zhao\
 ResearchGate
